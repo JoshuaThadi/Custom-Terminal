@@ -1,5 +1,5 @@
 <div align="center">
-<img width=70% src="https://github.com/JoshuaThadi/Custom-Terminal/blob/main/wc.png" alt="Custom Terminal Banner">
+<img width=90% src="https://github.com/JoshuaThadi/Custom-Terminal/blob/main/wc.png" alt="Custom Terminal Banner">
 
 <div style="display: flex; gap: 10px;">
   <a href="https://www.microsoft.com/en-us/windows" target="_blank">
