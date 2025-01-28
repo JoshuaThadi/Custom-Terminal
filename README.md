@@ -1,19 +1,6 @@
 <div align="center">
 <img width=90% src="https://github.com/JoshuaThadi/Custom-Terminal/blob/main/wc.png" alt="Custom Terminal Banner">
 
-<div style="display: flex; gap: 10px;">
-  <a href="https://www.microsoft.com/en-us/windows" target="_blank">
-    <img width=5% src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYxE7KwWxoaTZKE_iIyRYf-mSpyEsI6BWsymQ5HD8yz3-hS7vr-RrzSTyFK6EA0Iem0AA&usqp=CAU" alt="Windows"></a>
-  
-  <a href="https://www.apple.com/macos" target="_blank">
-    <img width=6% src="https://cdn-icons-png.flaticon.com/512/0/747.png" alt="macOS"></a>
-
-  <a href="https://www.linux.org/" target="_blank">
-    <img width="5%" src="https://cdn.iconscout.com/icon/free/png-256/free-linux-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-company-vol-4-pack-logos-icons-2944967.png" alt="Linux">
-  </a>
-</div>
-
-
 
 <h2>🌟 Custom Terminal 🌟</h2>
 
@@ -69,5 +56,19 @@ Contributions are welcome! Feel free to fork this repository and submit a pull r
 💬 **Feedback**  
 If you have any questions or suggestions, feel free to open an issue or reach out.  
 Let's make terminals awesome together! 😎  
+
+
+<div style="display: flex; gap: 10px;">
+  <a href="https://www.microsoft.com/en-us/windows" target="_blank">
+    <img width=5% src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYxE7KwWxoaTZKE_iIyRYf-mSpyEsI6BWsymQ5HD8yz3-hS7vr-RrzSTyFK6EA0Iem0AA&usqp=CAU" alt="Windows"></a>
+  
+  <a href="https://www.apple.com/macos" target="_blank">
+    <img width=6% src="https://cdn-icons-png.flaticon.com/512/0/747.png" alt="macOS"></a>
+
+  <a href="https://www.linux.org/" target="_blank">
+    <img width="5%" src="https://cdn.iconscout.com/icon/free/png-256/free-linux-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-company-vol-4-pack-logos-icons-2944967.png" alt="Linux">
+  </a>
+</div>
+
 
 </div>
