@@ -23,13 +23,21 @@
 
 <div align="center">
 
-### 🌟 You can also create Ascii Image through this program
-ASCII Image Generator,
-This project allows you to convert images into ASCII art using Python. It resizes the image to a specified width and height, then converts each pixel into an ASCII character based on its grayscale value.
 
-<a href="https://github.com/JoshuaThadi/Custom-Terminal/tree/main/AsciiImageGen">
-  <img src="https://img.shields.io/badge/Python-3.9%2B-blue?logo=python&logoColor=white&style=for-the-badge" alt="Python Badge">
-</a>
+<table align="center" style="border-collapse: separate; border-spacing: 10px; width: 60%;">
+    <tr>
+        <td align="center" style="background: #111; padding: 15px; border-radius: 10px; border: 1px solid #C2FFC7">
+            <h3> 🌟 You can also create Ascii Image through this program</h3>
+            <h4>ASCII Image Generator</h4>
+            <p>This project allows you to convert images into ASCII art using Python. It resizes the image to a specified width and height, then converts each pixel into an ASCII character based on its grayscale value.</p>
+            <a href="https://github.com/JoshuaThadi/Custom-Terminal/tree/main/AsciiImageGen">
+                <img src="https://img.shields.io/badge/Python-3.9%2B-blue?logo=python&logoColor=white&style=flat-square" alt="Python Badge" width="150" height="30">
+            </a>
+        </td>
+    </tr>
+</table>
+
+
 
 
 ### 📚 **Documentation**  
