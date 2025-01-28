@@ -22,7 +22,7 @@
 "This is a guide to customize your terminal setup, transforming it from a boring-looking terminal into an awesome one for Windows, macOS, and Linux. Please follow the steps outlined in the provided PDF and README file."
 
 <a href="https://github.com/JoshuaThadi/Custom-Terminal/blob/main/Instruction.pdf">
-  <img width=15% src="https://img.shields.io/badge/PDF-Instruction-FF5733?style=flat-square&logo=pdf&logoColor=white" alt="PDF Instruction badge">
+  <img src="https://img.shields.io/badge/PDF-Instruction-FF5733?style=flat-square&logo=pdf&logoColor=white" alt="PDF Instruction badge" width="150" height="30">
 </a>
 
 
@@ -46,11 +46,13 @@ Check out the following tools:
 
 <div style="display: flex; gap: 10px;">
   <a href="https://www.npmjs.com/package/figlet?activeTab=readme">
-    <img width="15%" src="https://img.shields.io/badge/npm-figlet-CB3837?style=flat-square&logo=npm&logoColor=white&labelColor=000000&logoWidth=30" alt="npm figlet badge"></a>
+    <img src="https://img.shields.io/badge/npm-figlet-CB3837?style=flat-square&logo=npm&logoColor=white&labelColor=000000&logoWidth=30" alt="npm figlet badge" width="150" height="30"></a>
 
-<a href="https://github.com/jaseg/lolcat">
-    <img width="15%" src="https://img.shields.io/badge/github-lolcat-FF69B4?style=flat-square&logo=github&logoColor=white" alt="GitHub Lolcat badge"></a>
+  <a href="https://github.com/jaseg/lolcat">
+    <img src="https://img.shields.io/badge/github-lolcat-FF69B4?style=flat-square&logo=github&logoColor=white" alt="GitHub Lolcat badge" width="150" height="30">
+  </a>
 </div>
+
 
 🛠️ **Troubleshooting**  
 - **`figlet` not found**: Ensure it's installed and available in your system's PATH.  
