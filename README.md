@@ -40,7 +40,12 @@
 ASCII Image Generator,
 This project allows you to convert images into ASCII art using Python. It resizes the image to a specified width and height, then converts each pixel into an ASCII character based on its grayscale value.
 
-📚 **Documentation**  
+<a href="https://github.com/JoshuaThadi/Custom-Terminal/tree/main/AsciiImageGen">
+  <img src="https://img.shields.io/badge/Python-3.9%2B-blue?logo=python&logoColor=white&style=for-the-badge" alt="Python Badge">
+</a>
+
+
+### 📚 **Documentation**  
 Check out the following tools:  
 
 <div style="display: flex; gap: 10px;">
