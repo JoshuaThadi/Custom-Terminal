@@ -24,15 +24,14 @@ Ensure the following are installed on your system:
 
 📚 **Documentation**  
 Check out the following tools:  
-<a href="https://www.npmjs.com/package/figlet?activeTab=readme">
-  <img width=20%  src="https://img.shields.io/badge/npm-figlet-CB3837?style=flat-square&logo=npm&logoColor=white&labelColor=000000&logoWidth=30" alt="npm figlet badge">
-</a>
+
+<div style="display: flex; gap: 10px;">
+  <a href="https://www.npmjs.com/package/figlet?activeTab=readme">
+    <img width="20%" src="https://img.shields.io/badge/npm-figlet-CB3837?style=flat-square&logo=npm&logoColor=white&labelColor=000000&logoWidth=30" alt="npm figlet badge"></a>
 
 <a href="https://github.com/jaseg/lolcat">
-  <img width=20% src="https://img.shields.io/badge/github-lolcat-FF69B4?style=flat-square&logo=github&logoColor=white" alt="GitHub Lolcat badge">
-</a>
- 
-
+    <img width="20%" src="https://img.shields.io/badge/github-lolcat-FF69B4?style=flat-square&logo=github&logoColor=white" alt="GitHub Lolcat badge"></a>
+</div>
 
 🛠️ **Troubleshooting**  
 - **`figlet` not found**: Ensure it's installed and available in your system's PATH.  
