@@ -35,8 +35,6 @@
 - **Customizable**: Modify fonts, colors, and messages to suit your preferences.
 
 
-## 📦 Installation Guide
-
 ### 1️⃣ Prerequisites
 Ensure the following are installed on your system:
 - **Figlet**: For generating ASCII art banners.
