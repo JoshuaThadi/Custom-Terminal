@@ -36,6 +36,10 @@
 
 <div align="center">
 
+### 🌟 You can also create Ascii Image through this program
+ASCII Image Generator,
+This project allows you to convert images into ASCII art using Python. It resizes the image to a specified width and height, then converts each pixel into an ASCII character based on its grayscale value.
+
 📚 **Documentation**  
 Check out the following tools:  
 
@@ -52,7 +56,6 @@ Check out the following tools:
 🛠️ **Troubleshooting**  
 - **`figlet` not found**: Ensure it's installed and available in your system's PATH.  
 - **`lolcat` not working**: Ensure Ruby is installed and `gem install lolcat` was successful.  
-
 
 🙌 **Contributions**  
 Contributions are welcome! Feel free to fork this repository and submit a pull request with your improvements or ideas.  
