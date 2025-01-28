@@ -15,7 +15,7 @@
 
 
 
-# 🌟 Custom Terminal Setup 🌟
+<h2>🌟 Custom Terminal 🌟</h2>
 
 <h4>Transform your terminal into a visually stunning and powerful workspace with **Custom Terminal Setup**! 🚀 </h4>
 
