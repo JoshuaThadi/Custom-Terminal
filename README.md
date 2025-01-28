@@ -34,11 +34,6 @@
 - **Cross-Platform Compatibility**: Works seamlessly on Windows, macOS, and Linux.
 - **Customizable**: Modify fonts, colors, and messages to suit your preferences.
 
-
-### 1️⃣ Prerequisites
-Ensure the following are installed on your system:
-- **Figlet**: For generating ASCII art banners.
-- **Lolcat**: For colorful text output.
 <div align="center">
 
 📚 **Documentation**  
@@ -66,11 +61,5 @@ Contributions are welcome! Feel free to fork this repository and submit a pull r
 💬 **Feedback**  
 If you have any questions or suggestions, feel free to open an issue or reach out.  
 Let's make terminals awesome together! 😎  
-
-
- 🔑 **Key Points:**
-- The guide includes installation instructions for all platforms.    
-- Includes sections for features, customization, and troubleshooting.  
-- Placeholder screenshots can be replaced with actual ones.  
 
 </div>
