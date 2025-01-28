@@ -24,7 +24,7 @@
 <a href="https://github.com/JoshuaThadi/Custom-Terminal/blob/main/Instruction.pdf">
   <img src="https://img.shields.io/badge/PDF-Instruction-FF5733?style=flat-square&logo=pdf&logoColor=white" alt="PDF Instruction badge" width="150" height="30"></a>
 
-<a href="https://www.notion.so/Custom-Terminal-18846efbf3d58056907aecad3615d199" target="_blank">
+<a href="https://soft-saturn-e55.notion.site/Custom-Terminal-18846efbf3d58056907aecad3615d199" target="_blank">
   <img src="https://img.shields.io/badge/Notion-%23000000?style=flat&logo=notion&logoColor=white" alt="Notion" width="120" height="30">
 </a>
 
