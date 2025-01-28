@@ -1,4 +1,5 @@
 <div align="center">
+<img width=70% src="https://github.com/JoshuaThadi/Custom-Terminal/blob/main/wc.png" alt="Custom Terminal Banner">
 
 # 🌟 Custom Terminal Setup 🌟
 
