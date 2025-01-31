@@ -1,10 +1,9 @@
 <div align="center">
 <img width=90% src="https://github.com/JoshuaThadi/Custom-Terminal/blob/main/wc.png" alt="Custom Terminal Banner">
-
-
+     
 <h2>🌟 Custom Terminal 🌟</h2>
 
-<h4>Transform your terminal into a visually stunning and powerful workspace with **Custom Terminal Setup**! 🚀 </h4>
+<h4>Transform your terminal into a visually stunning and powerful workspace with Custom Terminal Setup! 🚀 </h4>
 
 "This is a guide to customize your terminal setup, transforming it from a boring-looking terminal into an awesome one for Windows, macOS, and Linux. Please follow the steps outlined in the provided PDF and README file."
 
@@ -20,6 +19,21 @@
 - **Motivational Messages**: Add inspiring thoughts for every terminal session.
 - **Cross-Platform Compatibility**: Works seamlessly on Windows, macOS, and Linux.
 - **Customizable**: Modify fonts, colors, and messages to suit your preferences.
+
+
+### 📚 **Documentation**  
+Check out the following tools:  
+
+<div style="display: flex; gap: 10px;">
+  <a href="https://www.npmjs.com/package/figlet?activeTab=readme">
+    <img src="https://img.shields.io/badge/npm-figlet-CB3837?style=flat-square&logo=npm&logoColor=white&labelColor=000000&logoWidth=30" alt="npm figlet badge" width="150" height="30"></a>
+
+  <a href="https://github.com/jaseg/lolcat">
+    <img src="https://img.shields.io/badge/github-lolcat-FF69B4?style=flat-square&logo=github&logoColor=white" alt="GitHub Lolcat badge" width="150" height="30">
+  </a>
+</div>
+
+
 
 <div align="center">
 
@@ -38,32 +52,19 @@
 </table>
 
 
+<table align="center" style="border-collapse: separate; border-spacing: 10px; width: 60%;">
+    <tr>
+        <td align="center" style="background: #111; padding: 25px; border-radius: 10px; border: 1px solid #C2FFC7">
+            <h3>✨ Color Palette Generator in Python</h3>
+            <p>This project allows you to generate color palettes using Python. It can extract colors from images or create random palettes, giving you a great starting point                 for your design projects.</p>
+            <a href="https://www.python.org/">
+            <img src="https://img.shields.io/badge/Python-3.9%2B-3776AB?logo=python&logoColor=white&style=flat-square" alt="Python Badge">
+            </a>
 
+        </td>
+    </tr>
+</table>
 
-### 📚 **Documentation**  
-Check out the following tools:  
-
-<div style="display: flex; gap: 10px;">
-  <a href="https://www.npmjs.com/package/figlet?activeTab=readme">
-    <img src="https://img.shields.io/badge/npm-figlet-CB3837?style=flat-square&logo=npm&logoColor=white&labelColor=000000&logoWidth=30" alt="npm figlet badge" width="150" height="30"></a>
-
-  <a href="https://github.com/jaseg/lolcat">
-    <img src="https://img.shields.io/badge/github-lolcat-FF69B4?style=flat-square&logo=github&logoColor=white" alt="GitHub Lolcat badge" width="150" height="30">
-  </a>
-</div>
-
-
-🛠️ **Troubleshooting**  
-- **`figlet` not found**: Ensure it's installed and available in your system's PATH.  
-- **`lolcat` not working**: Ensure Ruby is installed and `gem install lolcat` was successful.  
-
-🙌 **Contributions**  
-Contributions are welcome! Feel free to fork this repository and submit a pull request with your improvements or ideas.  
-
-
-💬 **Feedback**  
-If you have any questions or suggestions, feel free to open an issue or reach out.  
-Let's make terminals awesome together! 😎  
 
 
 <div style="display: flex; gap: 10px;">
