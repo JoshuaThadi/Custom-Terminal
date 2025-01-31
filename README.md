@@ -57,7 +57,7 @@ Check out the following tools:
         <td align="center" style="background: #111; padding: 25px; border-radius: 10px; border: 1px solid #C2FFC7">
             <h3>✨ Color Palette Generator in Python</h3>
             <p>This project allows you to generate color palettes using Python. It can extract colors from images or create random palettes, giving you a great starting point                 for your design projects.</p>
-            <a href="https://www.python.org/">
+            <a href="https://github.com/JoshuaThadi/Custom-Terminal/blob/main/neopalatte.py">
                  <img src="https://img.shields.io/badge/Python-3.9%2B-306998?logo=python&logoColor=white&style=flat-square&color=FFD43B" alt="Python Badge" width="150"                          height="30">
            </a>
         </td>
