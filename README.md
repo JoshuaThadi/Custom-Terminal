@@ -3,7 +3,7 @@
      
 <h2>🌟 Custom Terminal 🌟</h2>
 
-<h4>Transform your terminal into a visually stunning and powerful workspace with Custom Terminal Setup! 🚀 </h4>
+<h4>Transform your terminal into a visually stunning and powerful workspace with Custom Terminal Setup🚀 </h4>
 
 "This is a guide to customize your terminal setup, transforming it from a boring-looking terminal into an awesome one for Windows, macOS, and Linux. Please follow the steps outlined in the provided PDF and README file."
 
