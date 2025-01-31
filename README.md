@@ -58,9 +58,8 @@ Check out the following tools:
             <h3>✨ Color Palette Generator in Python</h3>
             <p>This project allows you to generate color palettes using Python. It can extract colors from images or create random palettes, giving you a great starting point                 for your design projects.</p>
             <a href="https://www.python.org/">
-            <img src="https://img.shields.io/badge/Python-3.9%2B-3776AB?logo=python&logoColor=white&style=flat-square" alt="Python Badge">
-            </a>
-
+                 <img src="https://img.shields.io/badge/Python-3.9%2B-306998?logo=python&logoColor=white&style=flat-square&color=FFD43B" alt="Python Badge" width="150"                          height="30">
+           </a>
         </td>
     </tr>
 </table>
