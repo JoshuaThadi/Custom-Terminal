@@ -23,11 +23,13 @@
 "This is a guide to customize your terminal setup, transforming it from a boring-looking terminal into an awesome one for Windows, macOS, and Linux. Please follow the steps outlined in the provided PDF and README file."
 
 <a href="https://github.com/JoshuaThadi/Custom-Terminal/blob/main/Instruction.pdf" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-Instruction-%237E8185?style=for-the-badge&logo=github&logoColor=white&labelColor=%237E8185&color=%23D84040" alt="GitHub PDF Instruction Badge"></a>
+  <img src="https://img.shields.io/badge/GitHub-Instruction-%234C4F56?style=for-the-badge&logo=github&logoColor=white&labelColor=%234C4F56&color=%23D84040" alt="GitHub PDF Instruction Badge"></a>
+
 
 <a href="https://soft-saturn-e55.notion.site/Custom-Terminal-18846efbf3d58056907aecad3615d199" target="_blank">
-  <img src="https://img.shields.io/badge/Notion-Custom%20Terminal-%237E8185?style=for-the-badge&logo=notion&logoColor=white&labelColor=%237E8185&color=%23000000" alt="Notion Custom Terminal Badge">
+  <img src="https://img.shields.io/badge/Notion-Custom%20Terminal-%234C4F56?style=for-the-badge&logo=notion&logoColor=white&labelColor=%234C4F56&color=%23000000" alt="Notion Custom Terminal Badge">
 </a>
+
 
 
 ## ✨ Features
