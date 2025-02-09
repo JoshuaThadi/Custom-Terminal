@@ -45,8 +45,10 @@ Check out the following tools:
             <h4>ASCII Image Generator and Png convertor</h4>
             <p>This project allows you to convert images into ASCII art using Python. It resizes the image to a specified width and height, then converts each pixel into an ASCII character based on its grayscale value. Convert the image in Png.</p>
             <a href="https://github.com/JoshuaThadi/Custom-Terminal/tree/main/AsciiImageGen">
-                <img src="https://img.shields.io/badge/Python-3.9%2B-blue?logo=python&logoColor=white&style=flat-square" alt="Python Badge" width="150" height="30">
-            </a>
+                <img src="https://img.shields.io/badge/Python-3.9%2B-blue?logo=python&logoColor=white&style=flat-square" alt="Python Badge" width="150" height="30"></a>
+              <a href="https://github.com/JoshuaThadi/Custom-Terminal/blob/main/png.py" target="_blank">
+     <img src="https://img.shields.io/badge/GitHub-PNG.py-%237E8185?style=for-the-badge&logo=github&logoColor=white&labelColor=%237E8185&color=%23A3BE8C" alt="GitHub PNG.py Badge"  width="150" height="30">
+   </a>
         </td>
     </tr>
 </table>
