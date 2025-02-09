@@ -42,8 +42,8 @@ Check out the following tools:
     <tr>
         <td align="center" style="background: #111; padding: 15px; border-radius: 10px; border: 1px solid #C2FFC7">
             <h3> 🌟 You can also create Ascii Image through this program</h3>
-            <h4>ASCII Image Generator</h4>
-            <p>This project allows you to convert images into ASCII art using Python. It resizes the image to a specified width and height, then converts each pixel into an ASCII character based on its grayscale value.</p>
+            <h4>ASCII Image Generator and Png convertor</h4>
+            <p>This project allows you to convert images into ASCII art using Python. It resizes the image to a specified width and height, then converts each pixel into an ASCII character based on its grayscale value. Convert the image in Png.</p>
             <a href="https://github.com/JoshuaThadi/Custom-Terminal/tree/main/AsciiImageGen">
                 <img src="https://img.shields.io/badge/Python-3.9%2B-blue?logo=python&logoColor=white&style=flat-square" alt="Python Badge" width="150" height="30">
             </a>
