@@ -1,7 +1,7 @@
 <div align="center">
 <img width=90% src="https://github.com/JoshuaThadi/Custom-Terminal/blob/main/wc.png" alt="Custom Terminal Banner">
 
-<img src="https://i.pinimg.com/736x/c6/2b/7b/c62b7bc8e6290b8b1ab63f187ce888ed.jpg" alt="Image" width="300px">
+<img src="https://github.com/JoshuaThadi/Custom-Terminal/blob/main/mwl_transparent.png" alt="Image" width="300px">
 
 
 <!--<div style="display: flex; gap: 10px;">
