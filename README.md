@@ -22,12 +22,13 @@
 
 "This is a guide to customize your terminal setup, transforming it from a boring-looking terminal into an awesome one for Windows, macOS, and Linux. Please follow the steps outlined in the provided PDF and README file."
 
-<a href="https://github.com/JoshuaThadi/Custom-Terminal/blob/main/Instruction.pdf">
-  <img src="https://img.shields.io/badge/PDF-Instruction-FF5733?style=flat-square&logo=pdf&logoColor=white" alt="PDF Instruction badge" width="150" height="30"></a>
+<a href="https://github.com/JoshuaThadi/Custom-Terminal/blob/main/Instruction.pdf" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-Instruction-%237E8185?style=for-the-badge&logo=github&logoColor=white&labelColor=%237E8185&color=%23D84040" alt="GitHub PDF Instruction Badge"></a>
 
 <a href="https://soft-saturn-e55.notion.site/Custom-Terminal-18846efbf3d58056907aecad3615d199" target="_blank">
-  <img src="https://img.shields.io/badge/Notion-%23000000?style=flat&logo=notion&logoColor=white" alt="Notion" width="120" height="30">
+  <img src="https://img.shields.io/badge/Notion-Custom%20Terminal-%237E8185?style=for-the-badge&logo=notion&logoColor=white&labelColor=%237E8185&color=%23000000" alt="Notion Custom Terminal Badge">
 </a>
+
 
 ## ✨ Features
 - **Stylish Banners**: Display eye-catching banners with `figlet` and `lolcat`.
@@ -40,8 +41,9 @@
 Check out the following tools:  
 
 <div style="display: flex; gap: 10px;">
-  <a href="https://www.npmjs.com/package/figlet?activeTab=readme">
-    <img src="https://img.shields.io/badge/npm-figlet-CB3837?style=flat-square&logo=npm&logoColor=white&labelColor=000000&logoWidth=30" alt="npm figlet badge" width="150" height="30"></a>
+
+<a href="https://www.npmjs.com/package/figlet?activeTab=readme" target="_blank">
+    <img src="https://img.shields.io/badge/npm-figlet-%237E8185?style=for-the-badge&logo=npm&logoColor=white&labelColor=%237E8185&color=%23D84040" alt="npm figlet badge" width="145"></a>
 
   <a href="https://github.com/jaseg/lolcat">
     <img src="https://img.shields.io/badge/github-lolcat-FF69B4?style=flat-square&logo=github&logoColor=white" alt="GitHub Lolcat badge" width="150" height="30">
@@ -59,8 +61,9 @@ Check out the following tools:
             <h3> 🌟 You can also create Ascii Image through this program</h3>
             <h4>ASCII Image Generator and Png convertor</h4>
             <p>This project allows you to convert images into ASCII art using Python. It resizes the image to a specified width and height, then converts each pixel into an ASCII character based on its grayscale value. Convert the image in Png.</p>
-            <a href="https://github.com/JoshuaThadi/Custom-Terminal/tree/main/AsciiImageGen">
-                <img src="https://img.shields.io/badge/Python-3.9%2B-blue?logo=python&logoColor=white&style=flat-square" alt="Python Badge" width="150" height="30"></a>
+
+<a href="https://github.com/JoshuaThadi/Custom-Terminal/tree/main/AsciiImageGen" target="_blank">
+    <img src="https://img.shields.io/badge/Python-AsciiGen-%237E8185?style=for-the-badge&logo=python&logoColor=white&labelColor=%237E8185&color=%235E81AC" alt="Python AsciiGen Badge" width="180" height="30"></a>
               <a href="https://github.com/JoshuaThadi/Custom-Terminal/blob/main/png.py" target="_blank">
      <img src="https://img.shields.io/badge/GitHub-PNG.py-%237E8185?style=for-the-badge&logo=github&logoColor=white&labelColor=%237E8185&color=%23A3BE8C" alt="GitHub PNG.py Badge"  width="150" height="30">
    </a>
