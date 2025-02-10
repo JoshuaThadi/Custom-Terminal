@@ -32,16 +32,6 @@
 
 
 
-## ✨ Features
-- **Stylish Banners**: Display eye-catching banners with `figlet` and `lolcat`.
-- **Motivational Messages**: Add inspiring thoughts for every terminal session.
-- **Cross-Platform Compatibility**: Works seamlessly on Windows, macOS, and Linux.
-- **Customizable**: Modify fonts, colors, and messages to suit your preferences.
-
-
-### 📚 **Documentation**  
-Check out the following tools:  
-
 <div style="display: flex; gap: 10px;">
 
 <a href="https://www.npmjs.com/package/figlet?activeTab=readme" target="_blank">
