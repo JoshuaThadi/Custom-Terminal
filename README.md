@@ -25,22 +25,15 @@
 <a href="https://github.com/JoshuaThadi/Custom-Terminal/blob/main/Instruction.pdf" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-Instruction-%234C4F56?style=for-the-badge&logo=github&logoColor=white&labelColor=%234C4F56&color=%23D84040" alt="GitHub PDF Instruction Badge"></a>
 
-
 <a href="https://soft-saturn-e55.notion.site/Custom-Terminal-18846efbf3d58056907aecad3615d199" target="_blank">
-  <img src="https://img.shields.io/badge/Notion-Instruction-%234C4F56?style=for-the-badge&logo=notion&logoColor=white&labelColor=%234C4F56&color=%23000000" alt="Notion Custom Terminal Badge">
-</a>
-
-
-
-<div style="display: flex; gap: 10px;">
+  <img src="https://img.shields.io/badge/Notion-Instruction-%234C4F56?style=for-the-badge&logo=notion&logoColor=white&labelColor=%234C4F56&color=%23000000" alt="Notion Custom Terminal Badge"></a>
 
 <a href="https://www.npmjs.com/package/figlet?activeTab=readme" target="_blank">
-    <img src="https://img.shields.io/badge/npm-figlet-%237E8185?style=for-the-badge&logo=npm&logoColor=white&labelColor=%237E8185&color=%23D84040" alt="npm figlet badge" width="145"></a>
+    <img src="https://img.shields.io/badge/npm-figlet-%237E8185?style=for-the-badge&logo=npm&logoColor=white&labelColor=%237E8185&color=%23D84040" alt="npm figlet badge" width="137"></a>
 
   <a href="https://github.com/jaseg/lolcat">
-    <img src="https://img.shields.io/badge/github-lolcat-FF69B4?style=flat-square&logo=github&logoColor=white" alt="GitHub Lolcat badge" width="150" height="30">
-  </a>
-</div>
+    <img src="https://img.shields.io/badge/github-lolcat-FF69B4?style=flat-square&logo=github&logoColor=white" alt="GitHub Lolcat badge" width="150" height="28">  </a>
+
 
 
 
