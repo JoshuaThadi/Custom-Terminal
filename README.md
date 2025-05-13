@@ -54,9 +54,9 @@
             <h4>ASCII Image Generator and Png convertor</h4>
             <p>This project allows you to convert images into ASCII art using Python. It resizes the image to a specified width and height, then converts each pixel into an ASCII character based on its grayscale value and also Convert the image in Png.</p>
 
-<a href="https://github.com/JoshuaThadi/Custom-Terminal/tree/main/AsciiImageGen" target="_blank">
+<a href="https://github.com/JoshuaThadi/Custom-Terminal/tree/main/Desk%26Mob/asciigen" target="_blank">
     <img src="https://img.shields.io/badge/Python-AsciiGen-%237E8185?style=for-the-badge&logo=python&logoColor=white&labelColor=%237E8185&color=%235E81AC" alt="Python AsciiGen Badge" width="180" height="30"></a>
-              <a href="https://github.com/JoshuaThadi/Custom-Terminal/blob/main/png.py" target="_blank">
+              <a href="https://github.com/JoshuaThadi/Custom-Terminal/blob/main/Desk%26Mob/png.py" target="_blank">
      <img src="https://img.shields.io/badge/GitHub-PNG.py-%237E8185?style=for-the-badge&logo=github&logoColor=white&labelColor=%237E8185&color=%23A3BE8C" alt="GitHub PNG.py Badge"  width="150" height="30">
    </a>
         </td>
@@ -69,7 +69,7 @@
         <td align="center" style="background: #111; padding: 25px; border-radius: 10px; border: 1px solid #C2FFC7">
             <h3>✨ Color Palette Generator in Python</h3>
             <p>This project allows you to generate color palettes using Python. It can extract colors from images or create random palettes, giving you a great starting point                 for your design projects.</p>
-            <a href="https://github.com/JoshuaThadi/Custom-Terminal/blob/main/neopalatte.py">
+            <a href="https://github.com/JoshuaThadi/Custom-Terminal/blob/main/Desk%26Mob/neopalatte.py">
                  <img src="https://img.shields.io/badge/Python-3.9%2B-306998?logo=python&logoColor=white&style=flat-square&color=FFD43B" alt="Python Badge" width="150"                          height="30">
            </a>
         </td>
