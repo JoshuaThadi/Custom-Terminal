@@ -95,7 +95,7 @@ Google Fonts - A vast collection of open-source fonts hosted by Google, widely u
 
 <div align="center">
 <a href="https://ohmyposh.dev/" target="_blank">
-  <img src="https://img.shields.io/badge/Oh%20My%20Posh-4D5054?style=for-the-badge&logo=google-gnubash&logoColor=white" alt="Oh My Posh Official Site"></a>
+  <img src="https://img.shields.io/badge/Oh%20My%20Posh-4D5054?style=for-the-badge&logo=gnubash&logoColor=white" alt="Oh My Posh Official Site"></a>
 <a href="https://apps.microsoft.com/detail/9n0dx20hk701?hl=en-US&gl=US" target="_blank">
   <img src="https://img.shields.io/badge/Windows%20Terminal-4D5054?style=for-the-badge&logo=gnubash&logoColor=white" alt="Windows Terminal Microsoft Store"></a>
 <a href="https://github.com/PowerShell/PowerShell" target="_blank">
