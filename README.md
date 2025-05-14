@@ -154,15 +154,15 @@ AltTab for macOS - An open-source window switcher for macOS that mimics the Wind
 Dwarves Foundation - A Vietnamese developer collective providing open-source macOS tools like Xcode DevCleaner, Hidden Bar, and others.<br>
 Magnet - A commercial macOS app that allows users to easily snap windows into organized layouts using keyboard shortcuts or drag-and-drop.<br>
 
-<div align="left">
+<div align="center">
 <a href="https://dynamicwallpaper.club/" target="_blank">
   <img src="https://img.shields.io/badge/Dynamic%20Wallpaper%20Club-4D5054?style=for-the-badge&logo=apple&logoColor=white" alt="Dynamic Wallpaper Club Official Site"></a>
+  <a href="https://dwarves.foundation/opensource/" target="_blank">
+  <img src="https://img.shields.io/badge/Dwarves%20Foundation-4D5054?style=for-the-badge&logo=github&logoColor=white" alt="Dwarves Foundation Open Source"></a>
 <a href="https://rectangleapp.com/" target="_blank">
   <img src="https://img.shields.io/badge/Macos-Rectangle-4D5054?style=for-the-badge&logo=apple&logoColor=white" alt="Rectangle Official Site"></a>
 <a href="https://alt-tab-macos.netlify.app/" target="_blank">
   <img src="https://img.shields.io/badge/Apple-AltTab-4D5054?style=for-the-badge&logo=apple&logoColor=white" alt="AltTab Official Site"></a>
-  <a href="https://dwarves.foundation/opensource/" target="_blank">
-  <img src="https://img.shields.io/badge/Dwarves%20Foundation-4D5054?style=for-the-badge&logo=github&logoColor=white" alt="Dwarves Foundation Open Source"></a>
 <a href="https://magnet.crowdcafe.com/" target="_blank">
   <img src="https://img.shields.io/badge/Magnet-4D5054?style=for-the-badge&logo=apple&logoColor=white" alt="Magnet Official Site"></a>
 </div>
