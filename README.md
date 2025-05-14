@@ -18,7 +18,7 @@ Windows Professional Setup</h1>
 ---
 
 <div align="center">
-  <img width="210px" src="https://static-00.iconduck.com/assets.00/macos-icon-2048x2048-uavbc6sb.png" alt="MacOS">
+  <img width="190px" src="https://static-00.iconduck.com/assets.00/macos-icon-2048x2048-uavbc6sb.png" alt="MacOS">
 </div>
 
 <h1 align="center">🍎 MacOS Professional Setup</h1>
