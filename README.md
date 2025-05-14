@@ -40,7 +40,7 @@
 <div align="center">
 
 
-<table align="center" style="border-collapse: separate; border-spacing: 10px; width: 60%;">
+<!--<table align="center" style="border-collapse: separate; border-spacing: 10px; width: 60%;">
     <tr>
         <td align="center" style="background: #111; padding: 15px; border-radius: 10px; border: 1px solid #C2FFC7">
             <h3> 🌟 You can also create Ascii Image through this program</h3>
@@ -67,7 +67,7 @@
            </a>
         </td>
     </tr>
-</table>
+</table>-->
 
 
 ---
