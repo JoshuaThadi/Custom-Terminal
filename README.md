@@ -104,14 +104,16 @@ Google Fonts - A vast collection of open-source fonts hosted by Google, widely u
   <img src="https://img.shields.io/badge/Nerd%20Fonts-4D5054?style=for-the-badge&logo=font-awesome&logoColor=white" alt="Nerd Fonts Official Site"></a>
 
 
+<img width="100%" src="https://github.com/JoshuaThadi/Operating-System-Environment/blob/main/Desk%26Mob/Screenshot%20(35).png?raw=true" alt="Screenshot 35">
+<img width="100%" src="https://github.com/JoshuaThadi/Operating-System-Environment/blob/main/Desk%26Mob/Screenshot%20(33).png?raw=true" alt="Screenshot 33">
 
 
-<table>
+<!--<table>
   <tr>
     <td><img width="100%" src="https://github.com/JoshuaThadi/Operating-System-Environment/blob/main/Desk%26Mob/Screenshot%20(35).png?raw=true" alt="Screenshot 35"></td>
     <td><img width="100%" src="https://github.com/JoshuaThadi/Operating-System-Environment/blob/main/Desk%26Mob/Screenshot%20(33).png?raw=true" alt="Screenshot 33"></td>
   </tr>
-</table>
+</table>-->
 
 
 
