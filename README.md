@@ -1,7 +1,100 @@
+<!-- Desktop setup -->
+
 <div align="center">
+  <img width="220px" src="https://cdn1.iconfinder.com/data/icons/operating-system-flat-1/30/windows_7-512.png" alt="Windows OS">
+</div>
+
+<h1 align="center">
+  <img width="50px" src="https://i.gifer.com/5Jxn.gif" alt="Windows OS">
+Windows Professional Setup</h1>
+<h4>The Windows Professional Setup section is dedicated to transforming a standard Windows environment into a clean, efficient, and visually refined workspace. Tailored for productivity, aesthetics, professionals, and creators. Whether you're a developer, designer, or customization enthusiast, these configurations aim to enhance your workflow while maintaining a visually pleasing interface.</h4>
 
 
-<img src="https://github.com/JoshuaThadi/Custom-Terminal/blob/main/mwl_transparent.png" alt="Image" width="200px">
+
+
+
+
+
+---
+
+<div align="center">
+  <img width="210px" src="https://icons.veryicon.com/png/o/miscellaneous/apple-series/macos-2.png" alt="MacOS">
+</div>
+
+<h1 align="center">🍎 MacOS Professional Setup</h1>
+<h4>The macOS Professional Setup focuses on optimizing the macOS experience for productivity, aesthetics, and streamlined workflows. Leveraging native tools and minimal third-party enhancements, this setup is ideal for users who value a clean, distraction-free environment tailored for creative and professional use.</h4>
+
+
+
+
+
+
+
+
+---
+
+<div align="center">
+  <img width="150px" src="https://www.pngplay.com/wp-content/uploads/12/Linux-Transparent-Image.png" alt="linux">
+</div>
+
+<h1 align="center">🛡️Linux Professional Setup</h1>
+<h4>The Linux Professional Setup is tailored for users who demand full control, customization, and performance across different Linux distributions. This section focuses on Arch Linux, Kali Linux, and EndeavourOS—each offering unique strengths for power users, ethical hackers, and customization enthusiasts.</h4>
+
+
+
+
+
+
+
+
+
+
+
+
+---
+<!-- Mobile setup -->
+
+<div align="center">
+  <img width="180px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/android-icon.png" alt="Android">
+</div>
+
+<h1 align="center">★ Android Professional Setup</h1>
+<h4>The Android Setup section focuses on personalizing and optimizing the Android user experience through custom launchers, widgets, icon packs, and automation tools. Whether you're aiming for a minimalist look or a highly interactive home screen, this setup showcases ways to transform stock Android into a unique and efficient interface.</h4>
+
+
+
+
+
+
+
+
+
+
+
+
+---
+<div align="center">
+  <img width="180px" src="https://github.com/JoshuaThadi/Custom-Terminal/blob/main/Desk%26Mob/ios.png" alt="Ios">
+</div>
+
+<h1 align="center">🍎 IOS Professional Setup</h1>
+<h4>The iOS Professional Setup focuses on customizing the iPhone and iPad experience for both aesthetic appeal and functional productivity—all within the bounds of Apple’s ecosystem. Using native tools and clever workarounds, this setup aims to deliver a clean, organized, and visually consistent mobile interface.</h4>
+
+
+
+
+
+
+
+
+
+
+
+---
+
+<!-- Terminal setup -->
+<!--<div align="center">-->
+
 
 
 <!--<div style="display: flex; gap: 10px;">
@@ -16,7 +109,7 @@
   </a>
 </div>-->
      
-<h2>🌟 Custom Terminal 🌟</h2>
+<!--<h2>🌟 Custom Terminal Setup</h2>
 
 <h4>Transform your terminal into a visually stunning and powerful workspace with Custom Terminal Setup🚀 </h4>
 
@@ -37,7 +130,7 @@
 
 
 
-<div align="center">
+<div align="center">-->
 
 
 <!--<table align="center" style="border-collapse: separate; border-spacing: 10px; width: 60%;">
@@ -70,7 +163,7 @@
 </table>-->
 
 
----
+
 
 ⚠️ This repository is uniquely designed by <strong>@JoshuaThadi</strong>
 
