@@ -102,6 +102,9 @@ Google Fonts - A vast collection of open-source fonts hosted by Google, widely u
   <img src="https://img.shields.io/badge/Google%20Fonts-4D5054?style=for-the-badge&logo=googlefonts&logoColor=white" alt="Google Fonts Official Site"></a>
 <a href="https://www.nerdfonts.com/" target="_blank">
   <img src="https://img.shields.io/badge/Nerd%20Fonts-4D5054?style=for-the-badge&logo=font-awesome&logoColor=white" alt="Nerd Fonts Official Site"></a>
+  <a href="https://soft-saturn-e55.notion.site/Custom-Terminal-18846efbf3d58056907aecad3615d199" target="_blank">
+  <img src="https://img.shields.io/badge/Notion-Instruction-%234C4F56?style=for-the-badge&logo=notion&logoColor=white&labelColor=%234C4F56&color=%23000000" alt="Notion Custom Terminal Badge"></a>
+
 
 
 <img width="100%" src="https://github.com/JoshuaThadi/Operating-System-Environment/blob/main/Desk%26Mob/Screenshot%20(35).png?raw=true" alt="Screenshot 35">
