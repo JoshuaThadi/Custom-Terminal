@@ -26,6 +26,7 @@ TranslucentTB - A lightweight utility for customizing the appearance of the Wind
 PowerToys - A collection of utilities for power users to tune and streamline their Windows experience for greater productivity.<br>
 Wise Memory Optimizer - A tool designed to free up and optimize the physical memory on your system to improve performance.<br>
 
+<div align="center">
 <a href="https://apps.microsoft.com/detail/9ntm2qc6qws7?hl=en-US&gl=US" target="_blank">
   <img src="https://img.shields.io/badge/Lively_Wallpaper-4D5054?style=for-the-badge&logo=json&logoColor=white" alt="PowerToys Microsoft Store"></a>
   <a href="https://github.com/RoundedTB/RoundedTB" target="_blank">
@@ -38,7 +39,7 @@ Wise Memory Optimizer - A tool designed to free up and optimize the physical mem
   <img src="https://img.shields.io/badge/Wise%20Memory%20Optimizer-4D5054?style=for-the-badge&logo=json&logoColor=white" alt="Wise Memory Optimizer Microsoft Store"></a>
   <a href="https://github.com/microsoft/PowerToys" target="_blank">
   <img src="https://img.shields.io/badge/PowerToys-GitHub-4D5054?style=for-the-badge&logo=github&logoColor=white" alt="PowerToys GitHub Repo"></a>
-
+</div>
 
 
 
@@ -50,6 +51,7 @@ Files (by Files Community) - A modern, open-source file explorer for Windows tha
 Windows 11 Cursors (by Jepri Creations) - A set of stylized Windows 11-inspired cursor themes shared on DeviantArt for personal customization.<br>
 ExplorerBlurMica - A lightweight utility that adds Windows 11's Mica and Acrylic blur effects to File Explorer on supported systems.<br>
 
+<div align="center">
 <a href="https://store.steampowered.com/app/431960/Wallpaper_Engine/" target="_blank">
   <img src="https://img.shields.io/badge/Wallpaper%20Engine-4D5054?style=for-the-badge&logo=steam&logoColor=white" alt="Wallpaper Engine on Steam"></a>
 <a href="https://www.rainmeter.net/" target="_blank">
@@ -62,7 +64,7 @@ ExplorerBlurMica - A lightweight utility that adds Windows 11's Mica and Acrylic
   <img src="https://img.shields.io/badge/Window_11_Cursors-DeviantArt-4D5054?style=for-the-badge&logo=deviantart&logoColor=white" alt="Windows 11 Cursors on DeviantArt"></a>
 <a href="https://github.com/Maplespe/ExplorerBlurMica/releases/tag/2.0.1" target="_blank">
   <img src="https://img.shields.io/badge/ExplorerBlurMica-v2.0.1-4D5054?style=for-the-badge&logo=github&logoColor=white" alt="ExplorerBlurMica v2.0.1"></a>
-
+</div>
 
 
 
@@ -72,12 +74,14 @@ MSI Afterburner - A popular graphics card overclocking utility that allows perfo
 Razer Cortex - A system optimization tool for gamers that boosts PC performance by managing and killing processes during gameplay.<br>
 Xbox - The official platform by Microsoft for console gaming, game streaming, and digital content including Game Pass and Xbox Live services.<br>
 
+<div align="center">
 <a href="https://www.msi.com/Landing/afterburner/graphics-cards" target="_blank">
   <img src="https://img.shields.io/badge/MSI%20Afterburner-4D5054?style=for-the-badge&logo=msi&logoColor=white" alt="MSI Afterburner Official Site"></a>
 <a href="https://www.razer.com/cortex" target="_blank">
   <img src="https://img.shields.io/badge/Razer%20Cortex-4D5054?style=for-the-badge&logo=razer&logoColor=white" alt="Razer Cortex Official Site"></a>
 <a href="https://www.xbox.com/en-US/" target="_blank">
   <img src="https://img.shields.io/badge/Xbox-Official%20Site-4D5054?style=for-the-badge&logo=json&logoColor=white" alt="Xbox Official Site"></a>
+</div>
 
 <h3>🌟 Terminal Customization & Fonts</h3>
 Oh My Posh - A prompt theme engine for any shell that allows beautiful and fast custom prompts, especially popular with PowerShell and Windows Terminal.<br>
@@ -88,7 +92,7 @@ Fluent Icons - An open-source icon pack inspired by Microsoft’s Fluent Design 
 Google Fonts - A vast collection of open-source fonts hosted by Google, widely used in web and interface design.<br>
 
 
-
+<div align="center">
 <a href="https://ohmyposh.dev/" target="_blank">
   <img src="https://img.shields.io/badge/Oh%20My%20Posh-4D5054?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Oh My Posh Official Site"></a>
 <a href="https://apps.microsoft.com/detail/9n0dx20hk701?hl=en-US&gl=US" target="_blank">
@@ -104,7 +108,7 @@ Google Fonts - A vast collection of open-source fonts hosted by Google, widely u
   <img src="https://img.shields.io/badge/Nerd%20Fonts-4D5054?style=for-the-badge&logo=font-awesome&logoColor=white" alt="Nerd Fonts Official Site"></a>
   <a href="https://soft-saturn-e55.notion.site/Custom-Terminal-18846efbf3d58056907aecad3615d199" target="_blank">
   <img src="https://img.shields.io/badge/Notion-Instruction-%234C4F56?style=for-the-badge&logo=notion&logoColor=white&labelColor=%234C4F56&color=%23000000" alt="Notion Custom Terminal Badge"></a>
-
+</div>
 
 
 <img width="100%" src="https://github.com/JoshuaThadi/Operating-System-Environment/blob/main/Desk%26Mob/Screenshot%20(35).png?raw=true" alt="Screenshot 35">
