@@ -18,8 +18,13 @@
 
 <h4>The Windows Professional Setup section is dedicated to transforming a standard Windows environment into a clean, efficient, and visually refined workspace. Tailored for productivity, aesthetics, professionals, and creators. Whether you're a developer, designer, or customization enthusiast, these configurations aim to enhance your workflow while maintaining a visually pleasing interface.</h4>
 
-<h3>✨ Features</h3>
-<p>Windows remains one of the most versatile and widely used operating systems in the world—and for good reason. It offers a balanced ecosystem that caters to a broad range of users, from casual consumers to power users, creatives, and professionals. Windows is the premier platform for PC gaming, offering the best support for DirectX, high-performance GPUs, and a wide selection of AAA titles. Game optimization, hardware driver support, and peripheral compatibility are significantly better on Windows compared to other operating systems.</p>
+<h3>✨ Features and Wares</h3>
+Lively Wallpaper - A free and open-source animated desktop wallpaper application for Windows.<br>
+RoundedTB - A utility that allows you to add margins, rounded corners, and segments to your Windows taskbar.<br>
+BeWidgets - A customizable widget dashboard for Windows, allowing you to add clocks, weather, and other visual elements.<br>
+TranslucentTB - A lightweight utility for customizing the appearance of the Windows taskbar with blur, transparency, and color effects.<br>
+PowerToys - A collection of utilities for power users to tune and streamline their Windows experience for greater productivity.<br>
+Wise Memory Optimizer - A tool designed to free up and optimize the physical memory on your system to improve performance.<br>
 
 <a href="https://apps.microsoft.com/detail/9ntm2qc6qws7?hl=en-US&gl=US" target="_blank">
   <img src="https://img.shields.io/badge/Lively_Wallpaper-4D5054?style=for-the-badge&logo=json&logoColor=white" alt="PowerToys Microsoft Store"></a>
@@ -31,12 +36,19 @@
   <img src="https://img.shields.io/badge/TranslucentTB-4D5054?style=for-the-badge&logo=json&logoColor=white" alt="TranslucentTB Microsoft Store"></a>
   <a href="https://github.com/microsoft/PowerToys" target="_blank">
   <img src="https://img.shields.io/badge/PowerToys-GitHub-4D5054?style=for-the-badge&logo=github&logoColor=white" alt="PowerToys GitHub Repo"></a>
+  <a href="https://apps.microsoft.com/detail/xp9kl8b0zvqbxq?hl=en-US&gl=US" target="_blank">
+  <img src="https://img.shields.io/badge/Wise%20Memory%20Optimizer-4D5054?style=for-the-badge&logo=json&logoColor=white" alt="Wise Memory Optimizer Microsoft Store"></a>
 
 
 
-<h3>🌟 Customization Tools and Software</h3>
-<p>Customization tools and software empower users to go beyond the default look and feel of an operating system, creating a personalized and efficient digital environment, aiming for a clean, minimal desktop, a futuristic widget-filled interface, or a retro-inspired mobile layout, customization tools offer the flexibility to design a setup that matches your aesthetic and productivity preferences.</p>
 
+<h3>🌟 Customization Tools and Software</h3>    
+Wallpaper Engine - A powerful application that allows you to use live and interactive wallpapers on your Windows desktop via Steam.<br>
+Rainmeter - A desktop customization tool that enables you to display customizable skins (widgets) like system monitors, weather, and clocks.<br>
+Windhawk - A modding tool for Windows that allows runtime customization of system behavior using community-contributed mods.<br>
+Files (by Files Community) - A modern, open-source file explorer for Windows that serves as an alternative to the native Windows File Explorer.<br>
+Windows 11 Cursors (by Jepri Creations) - A set of stylized Windows 11-inspired cursor themes shared on DeviantArt for personal customization.<br>
+ExplorerBlurMica - A lightweight utility that adds Windows 11's Mica and Acrylic blur effects to File Explorer on supported systems.<br>
 
 <a href="https://store.steampowered.com/app/431960/Wallpaper_Engine/" target="_blank">
   <img src="https://img.shields.io/badge/Wallpaper%20Engine-4D5054?style=for-the-badge&logo=steam&logoColor=white" alt="Wallpaper Engine on Steam"></a>
@@ -47,15 +59,60 @@
 <a href="https://files.community/" target="_blank">
   <img src="https://img.shields.io/badge/Files-Community-4D5054?style=for-the-badge&logo=firefox&logoColor=white" alt="Files Official Site"></a>
   <a href="https://www.deviantart.com/jepricreations/art/Windows-11-Cursors-Concept-v2-886489356" target="_blank">
-  <img src="https://img.shields.io/badge/Cursors-DeviantArt-4D5054?style=for-the-badge&logo=deviantart&logoColor=white" alt="Windows 11 Cursors on DeviantArt"></a>
+  <img src="https://img.shields.io/badge/Window_11_Cursors-DeviantArt-4D5054?style=for-the-badge&logo=deviantart&logoColor=white" alt="Windows 11 Cursors on DeviantArt"></a>
+<a href="https://github.com/Maplespe/ExplorerBlurMica/releases/tag/2.0.1" target="_blank">
+  <img src="https://img.shields.io/badge/ExplorerBlurMica-v2.0.1-4D5054?style=for-the-badge&logo=github&logoColor=white" alt="ExplorerBlurMica v2.0.1"></a>
 
-<h3>⭐ Context: Gaming Tools & Software for Windows</h3>
-<p>Windows is the leading platform for PC gaming, offering unparalleled support for both hardware and software. To elevate the gaming experience, a wide array of tools and utilities are available—designed to enhance performance, streamline system resources, improve visuals, and boost overall gameplay.</p>
+
+
+
+
+<h3>⭐ Gaming Tools and software for Windows</h3>
+MSI Afterburner - A popular graphics card overclocking utility that allows performance tuning, hardware monitoring, and fan control.<br>
+Razer Cortex - A system optimization tool for gamers that boosts PC performance by managing and killing processes during gameplay.<br>
+Xbox - The official platform by Microsoft for console gaming, game streaming, and digital content including Game Pass and Xbox Live services.<br>
 
 <a href="https://www.msi.com/Landing/afterburner/graphics-cards" target="_blank">
   <img src="https://img.shields.io/badge/MSI%20Afterburner-4D5054?style=for-the-badge&logo=msi&logoColor=white" alt="MSI Afterburner Official Site"></a>
 <a href="https://www.razer.com/cortex" target="_blank">
   <img src="https://img.shields.io/badge/Razer%20Cortex-4D5054?style=for-the-badge&logo=razer&logoColor=white" alt="Razer Cortex Official Site"></a>
+<a href="https://www.xbox.com/en-US/" target="_blank">
+  <img src="https://img.shields.io/badge/Xbox-Official%20Site-4D5054?style=for-the-badge&logo=json&logoColor=white" alt="Xbox Official Site"></a>
+
+<h3> Terminal Customization & Fonts</h3>
+Oh My Posh - A prompt theme engine for any shell that allows beautiful and fast custom prompts, especially popular with PowerShell and Windows Terminal.<br>
+Windows Terminal - A modern, feature-rich terminal application for Windows that supports multiple tabs, themes, and shells like PowerShell, Command Prompt, and WSL.<br>
+PowerShell - A powerful cross-platform shell and scripting language designed especially for system administration and automation.<br>
+Nerd Fonts - A collection of patched fonts with a high number of glyphs/icons used for terminal customization, especially compatible with prompt engines like Oh My Posh.<br>
+Fluent Icons - An open-source icon pack inspired by Microsoft’s Fluent Design System, useful for UI customization and development.<br>
+Google Fonts - A vast collection of open-source fonts hosted by Google, widely used in web and interface design.<br>
+
+
+
+<a href="https://ohmyposh.dev/" target="_blank">
+  <img src="https://img.shields.io/badge/Oh%20My%20Posh-4D5054?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Oh My Posh Official Site"></a>
+<a href="https://apps.microsoft.com/detail/9n0dx20hk701?hl=en-US&gl=US" target="_blank">
+  <img src="https://img.shields.io/badge/Windows%20Terminal-4D5054?style=for-the-badge&logo=json&logoColor=white" alt="Windows Terminal Microsoft Store"></a>
+<a href="https://github.com/PowerShell/PowerShell" target="_blank">
+  <img src="https://img.shields.io/badge/PowerShell-4D5054?style=for-the-badge&logo=firefox&logoColor=white" alt="PowerShell GitHub Repo"></a>
+
+
+<a href="https://www.nerdfonts.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Nerd%20Fonts-4D5054?style=for-the-badge&logo=font-awesome&logoColor=white" alt="Nerd Fonts Official Site"></a>
+<a href="https://fluenticons.co/" target="_blank">
+  <img src="https://img.shields.io/badge/Fluent%20Icons-4D5054?style=for-the-badge&logo=firefox&logoColor=white" alt="Fluent Icons Viewer"></a>
+<a href="https://fonts.google.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Google%20Fonts-4D5054?style=for-the-badge&logo=googlefonts&logoColor=white" alt="Google Fonts Official Site"></a>
+
+
+
+<table>
+  <tr>
+    <td><img width="100%" src="https://github.com/JoshuaThadi/Operating-System-Environment/blob/main/Desk%26Mob/Screenshot%20(35).png?raw=true" alt="Screenshot 35"></td>
+    <td><img width="100%" src="https://github.com/JoshuaThadi/Operating-System-Environment/blob/main/Desk%26Mob/Screenshot%20(33).png?raw=true" alt="Screenshot 33"></td>
+  </tr>
+</table>
+
 
 
 
