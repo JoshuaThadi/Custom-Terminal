@@ -30,7 +30,7 @@
 <a href="https://apps.microsoft.com/detail/9pf4kz2vn4w9?hl=en-US&gl=US" target="_blank">
   <img src="https://img.shields.io/badge/TranslucentTB-4D5054?style=for-the-badge&logo=json&logoColor=white" alt="TranslucentTB Microsoft Store"></a>
   <a href="https://github.com/microsoft/PowerToys" target="_blank">
-  <img src="https://img.shields.io/badge/PowerToys-GitHub%20Repo-4D5054?style=for-the-badge&logo=github&logoColor=white" alt="PowerToys GitHub Repo"></a>
+  <img src="https://img.shields.io/badge/PowerToys-GitHub-4D5054?style=for-the-badge&logo=github&logoColor=white" alt="PowerToys GitHub Repo"></a>
 
 
 
@@ -44,10 +44,10 @@
   <img src="https://img.shields.io/badge/Rainmeter-4D5054?style=for-the-badge&logo=rainmeter&logoColor=white" alt="Rainmeter Official Site"></a>
 <a href="https://windhawk.net/" target="_blank">
   <img src="https://img.shields.io/badge/Windhawk-4D5054?style=for-the-badge&logo=lua&logoColor=white" alt="Windhawk Official Site"></a>
-<a href="https://www.deviantart.com/jepricreations/art/Windows-11-Cursors-Concept-v2-886489356" target="_blank">
-  <img src="https://img.shields.io/badge/Windows%2011%20Cursors-DeviantArt-4D5054?style=for-the-badge&logo=deviantart&logoColor=white" alt="Windows 11 Cursors on DeviantArt"></a>
 <a href="https://files.community/" target="_blank">
   <img src="https://img.shields.io/badge/Files-Community-4D5054?style=for-the-badge&logo=firefox&logoColor=white" alt="Files Official Site"></a>
+  <a href="https://www.deviantart.com/jepricreations/art/Windows-11-Cursors-Concept-v2-886489356" target="_blank">
+  <img src="https://img.shields.io/badge/Cursors-DeviantArt-4D5054?style=for-the-badge&logo=deviantart&logoColor=white" alt="Windows 11 Cursors on DeviantArt"></a>
 
 <h3>⭐ Context: Gaming Tools & Software for Windows</h3>
 <p>Windows is the leading platform for PC gaming, offering unparalleled support for both hardware and software. To elevate the gaming experience, a wide array of tools and utilities are available—designed to enhance performance, streamline system resources, improve visuals, and boost overall gameplay.</p>
