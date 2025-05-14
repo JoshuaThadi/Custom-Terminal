@@ -34,10 +34,10 @@ Wise Memory Optimizer - A tool designed to free up and optimize the physical mem
   <img src="https://img.shields.io/badge/BeWidgets-4D5054?style=for-the-badge&logo=json&logoColor=white" alt="BeWidgets Microsoft Store"></a>
 <a href="https://apps.microsoft.com/detail/9pf4kz2vn4w9?hl=en-US&gl=US" target="_blank">
   <img src="https://img.shields.io/badge/TranslucentTB-4D5054?style=for-the-badge&logo=json&logoColor=white" alt="TranslucentTB Microsoft Store"></a>
-  <a href="https://github.com/microsoft/PowerToys" target="_blank">
-  <img src="https://img.shields.io/badge/PowerToys-GitHub-4D5054?style=for-the-badge&logo=github&logoColor=white" alt="PowerToys GitHub Repo"></a>
   <a href="https://apps.microsoft.com/detail/xp9kl8b0zvqbxq?hl=en-US&gl=US" target="_blank">
   <img src="https://img.shields.io/badge/Wise%20Memory%20Optimizer-4D5054?style=for-the-badge&logo=json&logoColor=white" alt="Wise Memory Optimizer Microsoft Store"></a>
+  <a href="https://github.com/microsoft/PowerToys" target="_blank">
+  <img src="https://img.shields.io/badge/PowerToys-GitHub-4D5054?style=for-the-badge&logo=github&logoColor=white" alt="PowerToys GitHub Repo"></a>
 
 
 
@@ -79,7 +79,7 @@ Xbox - The official platform by Microsoft for console gaming, game streaming, an
 <a href="https://www.xbox.com/en-US/" target="_blank">
   <img src="https://img.shields.io/badge/Xbox-Official%20Site-4D5054?style=for-the-badge&logo=json&logoColor=white" alt="Xbox Official Site"></a>
 
-<h3> Terminal Customization & Fonts</h3>
+<h3>🌟 Terminal Customization & Fonts</h3>
 Oh My Posh - A prompt theme engine for any shell that allows beautiful and fast custom prompts, especially popular with PowerShell and Windows Terminal.<br>
 Windows Terminal - A modern, feature-rich terminal application for Windows that supports multiple tabs, themes, and shells like PowerShell, Command Prompt, and WSL.<br>
 PowerShell - A powerful cross-platform shell and scripting language designed especially for system administration and automation.<br>
@@ -96,13 +96,13 @@ Google Fonts - A vast collection of open-source fonts hosted by Google, widely u
 <a href="https://github.com/PowerShell/PowerShell" target="_blank">
   <img src="https://img.shields.io/badge/PowerShell-4D5054?style=for-the-badge&logo=firefox&logoColor=white" alt="PowerShell GitHub Repo"></a>
 
-
-<a href="https://www.nerdfonts.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Nerd%20Fonts-4D5054?style=for-the-badge&logo=font-awesome&logoColor=white" alt="Nerd Fonts Official Site"></a>
 <a href="https://fluenticons.co/" target="_blank">
   <img src="https://img.shields.io/badge/Fluent%20Icons-4D5054?style=for-the-badge&logo=firefox&logoColor=white" alt="Fluent Icons Viewer"></a>
 <a href="https://fonts.google.com/" target="_blank">
   <img src="https://img.shields.io/badge/Google%20Fonts-4D5054?style=for-the-badge&logo=googlefonts&logoColor=white" alt="Google Fonts Official Site"></a>
+<a href="https://www.nerdfonts.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Nerd%20Fonts-4D5054?style=for-the-badge&logo=font-awesome&logoColor=white" alt="Nerd Fonts Official Site"></a>
+
 
 
 
