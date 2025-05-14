@@ -34,7 +34,7 @@ Windows Professional Setup</h1>
 ---
 
 <div align="center">
-  <img width="150px" src="https://images.icon-icons.com/2235/PNG/512/linux_os_logo_icon_134670.png" alt="linux">
+  <img width="190px" src="https://images.icon-icons.com/2235/PNG/512/linux_os_logo_icon_134670.png" alt="linux">
 </div>
 
 <h1 align="center">🛡️Linux Professional Setup</h1>
