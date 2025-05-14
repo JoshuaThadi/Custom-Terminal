@@ -93,7 +93,7 @@ Fluent Icons - An open-source icon pack inspired by Microsoft’s Fluent Design 
 Google Fonts - A vast collection of open-source fonts hosted by Google, widely used in web and interface design.<br>
 
 
-<div align="center">
+<div align="left">
 <a href="https://ohmyposh.dev/" target="_blank">
   <img src="https://img.shields.io/badge/Oh%20My%20Posh-4D5054?style=for-the-badge&logo=gnubash&logoColor=white" alt="Oh My Posh Official Site"></a>
 <a href="https://apps.microsoft.com/detail/9n0dx20hk701?hl=en-US&gl=US" target="_blank">
@@ -154,7 +154,7 @@ AltTab for macOS - An open-source window switcher for macOS that mimics the Wind
 Dwarves Foundation - A Vietnamese developer collective providing open-source macOS tools like Xcode DevCleaner, Hidden Bar, and others.<br>
 Magnet - A commercial macOS app that allows users to easily snap windows into organized layouts using keyboard shortcuts or drag-and-drop.<br>
 
-<div align="center">
+<div align="left">
 <a href="https://dynamicwallpaper.club/" target="_blank">
   <img src="https://img.shields.io/badge/Dynamic%20Wallpaper%20Club-4D5054?style=for-the-badge&logo=apple&logoColor=white" alt="Dynamic Wallpaper Club Official Site"></a>
 <a href="https://rectangleapp.com/" target="_blank">
