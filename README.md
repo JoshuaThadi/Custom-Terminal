@@ -18,7 +18,7 @@ Windows Professional Setup</h1>
 ---
 
 <div align="center">
-  <img width="210px" src="https://icons.veryicon.com/png/o/miscellaneous/apple-series/macos-2.png" alt="MacOS">
+  <img width="210px" src="https://static-00.iconduck.com/assets.00/macos-icon-2048x2048-uavbc6sb.png" alt="MacOS">
 </div>
 
 <h1 align="center">🍎 MacOS Professional Setup</h1>
@@ -34,7 +34,7 @@ Windows Professional Setup</h1>
 ---
 
 <div align="center">
-  <img width="150px" src="https://www.pngplay.com/wp-content/uploads/12/Linux-Transparent-Image.png" alt="linux">
+  <img width="150px" src="https://images.icon-icons.com/2235/PNG/512/linux_os_logo_icon_134670.png" alt="linux">
 </div>
 
 <h1 align="center">🛡️Linux Professional Setup</h1>
@@ -55,7 +55,7 @@ Windows Professional Setup</h1>
 <!-- Mobile setup -->
 
 <div align="center">
-  <img width="180px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/android-icon.png" alt="Android">
+  <img width="180px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Android_Studio_icon_%282023%29.svg/2048px-Android_Studio_icon_%282023%29.svg.png" alt="Android">
 </div>
 
 <h1 align="center">★ Android Professional Setup</h1>
@@ -74,7 +74,7 @@ Windows Professional Setup</h1>
 
 ---
 <div align="center">
-  <img width="180px" src="https://github.com/JoshuaThadi/Custom-Terminal/blob/main/Desk%26Mob/ios.png" alt="Ios">
+  <img width="180px" src="https://static.vecteezy.com/system/resources/previews/021/496/368/non_2x/ios-icon-logo-software-phone-apple-symbol-with-name-black-design-mobile-illustration-free-vector.jpg" alt="Ios">
 </div>
 
 <h1 align="center">🍎 IOS Professional Setup</h1>
