@@ -12,7 +12,8 @@
   <img src="https://img.shields.io/badge/Windows-OS%20Download-4D5054?style=for-the-badge&logo=jetbrains&logoColor=white" alt="Windows Official Site"></a>
   <a href="https://youtu.be/Ojb8OQCBqFs" target="_blank">
   <img src="https://img.shields.io/badge/YouTube-Setup%20Demo-4D5054?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Setup Demo"></a>
-
+<a href="https://soft-saturn-e55.notion.site/Custom-Terminal-18846efbf3d58056907aecad3615d199" target="_blank">
+  <img src="https://img.shields.io/badge/Notion_Instruction-4C4F56?style=for-the-badge&logo=notion&logoColor=white&labelColor=%234C4F56&color=%23000000" alt="Notion Custom Terminal Badge"></a>
   
 </div>
 
@@ -94,11 +95,11 @@ Google Fonts - A vast collection of open-source fonts hosted by Google, widely u
 
 <div align="center">
 <a href="https://ohmyposh.dev/" target="_blank">
-  <img src="https://img.shields.io/badge/Oh%20My%20Posh-4D5054?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Oh My Posh Official Site"></a>
+  <img src="https://img.shields.io/badge/Oh%20My%20Posh-4D5054?style=for-the-badge&logo=google-gnubash&logoColor=white" alt="Oh My Posh Official Site"></a>
 <a href="https://apps.microsoft.com/detail/9n0dx20hk701?hl=en-US&gl=US" target="_blank">
-  <img src="https://img.shields.io/badge/Windows%20Terminal-4D5054?style=for-the-badge&logo=json&logoColor=white" alt="Windows Terminal Microsoft Store"></a>
+  <img src="https://img.shields.io/badge/Windows%20Terminal-4D5054?style=for-the-badge&logo=gnubash&logoColor=white" alt="Windows Terminal Microsoft Store"></a>
 <a href="https://github.com/PowerShell/PowerShell" target="_blank">
-  <img src="https://img.shields.io/badge/PowerShell-4D5054?style=for-the-badge&logo=firefox&logoColor=white" alt="PowerShell GitHub Repo"></a>
+  <img src="https://img.shields.io/badge/PowerShell-4D5054?style=for-the-badge&logo=gnubash&logoColor=white" alt="PowerShell GitHub Repo"></a>
 
 <a href="https://fluenticons.co/" target="_blank">
   <img src="https://img.shields.io/badge/Fluent%20Icons-4D5054?style=for-the-badge&logo=firefox&logoColor=white" alt="Fluent Icons Viewer"></a>
@@ -106,8 +107,7 @@ Google Fonts - A vast collection of open-source fonts hosted by Google, widely u
   <img src="https://img.shields.io/badge/Google%20Fonts-4D5054?style=for-the-badge&logo=googlefonts&logoColor=white" alt="Google Fonts Official Site"></a>
 <a href="https://www.nerdfonts.com/" target="_blank">
   <img src="https://img.shields.io/badge/Nerd%20Fonts-4D5054?style=for-the-badge&logo=font-awesome&logoColor=white" alt="Nerd Fonts Official Site"></a>
-  <a href="https://soft-saturn-e55.notion.site/Custom-Terminal-18846efbf3d58056907aecad3615d199" target="_blank">
-  <img src="https://img.shields.io/badge/Notion-Instruction-%234C4F56?style=for-the-badge&logo=notion&logoColor=white&labelColor=%234C4F56&color=%23000000" alt="Notion Custom Terminal Badge"></a>
+  
 </div>
 
 
@@ -133,7 +133,125 @@ Google Fonts - A vast collection of open-source fonts hosted by Google, widely u
 </div>
 
 <h1 align="center">🍎 MacOS Professional Setup</h1>
+
+<div align="center">
+  <a href="https://support.apple.com/en-in/102662" target="_blank">
+  <img src="https://img.shields.io/badge/Apple%20Support-Download-4D5054?style=for-the-badge&logo=apple&logoColor=white" alt="Apple Support: Use Magnet on Mac"></a>
+<a href="https://youtu.be/MmkBl_pSZI0" target="_blank">
+  <img src="https://img.shields.io/badge/YouTube-Macos_setup-4D5054?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Video"></a>
+<a href="https://www.icloud.com/iclouddrive" target="_blank">
+  <img src="https://img.shields.io/badge/MacOs-iCloud_Drive-4D5054?style=for-the-badge&logo=icloud&logoColor=white" alt="iCloud Drive Official Site"></a>
+<a href="https://soft-saturn-e55.notion.site/Custom-Terminal-18846efbf3d58056907aecad3615d199" target="_blank">
+  <img src="https://img.shields.io/badge/Notion_Instruction-4C4F56?style=for-the-badge&logo=notion&logoColor=white&labelColor=%234C4F56&color=%23000000" alt="Notion Custom Terminal Badge"></a>
+</div>
+
 <h4>The macOS Professional Setup focuses on optimizing the macOS experience for productivity, aesthetics, and streamlined workflows. Leveraging native tools and minimal third-party enhancements, this setup is ideal for users who value a clean, distraction-free environment tailored for creative and professional use.</h4>
+
+<h3>☆  macOS Desktop Tools</h3>
+Dynamic Wallpaper Club - A platform to create and download dynamic wallpapers for macOS that change based on time or location, mimicking macOS Mojave’s native feature.<br>
+Rectangle - A free and open-source macOS window management app that uses keyboard shortcuts to snap and move windows.<br>
+AltTab for macOS - An open-source window switcher for macOS that mimics the Windows-style Alt+Tab behavior, offering visual previews and fast switching.<br>
+Dwarves Foundation - A Vietnamese developer collective providing open-source macOS tools like Xcode DevCleaner, Hidden Bar, and others.<br>
+Magnet - A commercial macOS app that allows users to easily snap windows into organized layouts using keyboard shortcuts or drag-and-drop.<br>
+
+<div align="center">
+<a href="https://dynamicwallpaper.club/" target="_blank">
+  <img src="https://img.shields.io/badge/Dynamic%20Wallpaper%20Club-4D5054?style=for-the-badge&logo=apple&logoColor=white" alt="Dynamic Wallpaper Club Official Site"></a>
+<a href="https://rectangleapp.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Macos-Rectangle-4D5054?style=for-the-badge&logo=apple&logoColor=white" alt="Rectangle Official Site"></a>
+<a href="https://alt-tab-macos.netlify.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Apple-AltTab-4D5054?style=for-the-badge&logo=apple&logoColor=white" alt="AltTab Official Site"></a>
+  <a href="https://dwarves.foundation/opensource/" target="_blank">
+  <img src="https://img.shields.io/badge/Dwarves%20Foundation-4D5054?style=for-the-badge&logo=github&logoColor=white" alt="Dwarves Foundation Open Source"></a>
+<a href="https://magnet.crowdcafe.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Magnet-4D5054?style=for-the-badge&logo=apple&logoColor=white" alt="Magnet Official Site"></a>
+</div>
+
+<h3>✪ macOS Utilities & System Tools</h3>
+Raycast - A powerful Spotlight replacement and productivity tool for macOS. It supports extensions, scripts, window management, app launching, and more—all from a fast keyboard interface.<br>
+Aptonic (Dropzone) - A macOS productivity tool that simplifies drag-and-drop actions like copying, moving, uploading, and launching apps through a grid-based drop target system.<br>
+iStat Menus - A system monitoring tool for macOS that displays detailed stats like CPU usage, memory, battery health, temperatures, and network activity in the menu bar.<br>
+Übersicht - A widget engine for macOS that lets you place customizable widgets (using HTML, CSS, and JS) directly on your desktop. Great for stats, clocks, calendars, and more.<br>
+CleanMyMac - A commercial macOS optimization app that helps clean junk files, uninstall apps, monitor performance, and maintain overall system health.<br>
+
+<div align="center">
+  <a href="https://www.raycast.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Raycast-4D5054?style=for-the-badge&logo=apple&logoColor=white" alt="Raycast Official Site"></a>
+<a href="https://aptonic.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Aptonic-4D5054?style=for-the-badge&logo=apple&logoColor=white" alt="Aptonic Official Site"></a>
+<a href="https://bjango.com/mac/istatmenus/" target="_blank">
+  <img src="https://img.shields.io/badge/iStat%20Menus-4D5054?style=for-the-badge&logo=apple&logoColor=white" alt="iStat Menus Official Site"></a>
+<a href="https://tracesof.net/uebersicht/" target="_blank">
+  <img src="https://img.shields.io/badge/Übersicht-4D5054?style=for-the-badge&logo=apple&logoColor=white" alt="Übersicht Official Site"></a>
+<a href="https://macpaw.com/cleanmymac" target="_blank">
+  <img src="https://img.shields.io/badge/CleanMyMac-4D5054?style=for-the-badge&logo=apple&logoColor=white" alt="CleanMyMac Official Site"></a>
+  <a href="https://portal.app/mac" target="_blank">
+  <img src="https://img.shields.io/badge/Portal-4D5054?style=for-the-badge&logo=icloud&logoColor=white" alt="Portal Official Site"></a>
+
+
+
+</div>
+
+<h3>✬ Popular Productivity Tools</h3>
+Notion – An all-in-one workspace that blends note-taking, task management, databases, calendars, and wikis.<br>
+Obsidian – A powerful knowledge base and note-taking app that stores notes in Markdown files.<br>
+Craft – A beautifully designed note-taking and document creation tool optimized for structured, collaborative writing.<br>
+Todoist – A popular cross-platform task manager with powerful features like natural language input, recurring tasks, project organization, and productivity tracking.<br>
+TickTick – A feature-rich task manager that combines to-dos, calendar view, habit tracking, Pomodoro timer, and prioritization.<br>
+Flow – A clean, focused task and team collaboration app offering project tracking, kanban views, timelines, and task assignments.<br>
+Dropbox – A cloud storage platform that syncs files across devices and allows easy sharing and collaboration.<br>
+Bear – A Markdown-based note-taking app focused on speed, simplicity, and beautiful design.<br>
+
+
+<div align="center">
+<a href="https://www.notion.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Notion-4D5054?style=for-the-badge&logo=notion&logoColor=white" alt="Notion Official Site"></a>
+<a href="http://obsidian.md/" target="_blank">
+  <img src="https://img.shields.io/badge/Obsidian-4D5054?style=for-the-badge&logo=obsidian&logoColor=white" alt="Obsidian Official Site"></a>
+<a href="https://www.craft.do/" target="_blank">
+  <img src="https://img.shields.io/badge/Craft-4D5054?style=for-the-badge&logo=craftcms&logoColor=white" alt="Craft Official Site"></a>
+<a href="https://www.todoist.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Todoist-4D5054?style=for-the-badge&logo=todoist&logoColor=white" alt="Todoist Official Site"></a>
+<a href="https://www.ticktick.com/" target="_blank">
+  <img src="https://img.shields.io/badge/TickTick-4D5054?style=for-the-badge&logo=ticktick&logoColor=white" alt="TickTick Official Site"></a>
+<a href="https://www.flow.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Flow-4D5054?style=for-the-badge&logo=apple&logoColor=white" alt="Flow Official Site"></a>
+<a href="https://www.dropbox.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Dropbox-4D5054?style=for-the-badge&logo=dropbox&logoColor=white" alt="Dropbox Official Site"></a>
+<a href="https://bear.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Bear-4D5054?style=for-the-badge&logo=apple&logoColor=white" alt="Bear Official Site"></a>
+</div>
+
+
+
+<h3>✫ Shell and Font customization</h3>
+Oh My Zsh – A popular open-source framework for managing Zsh configuration. It comes with helpful plugins, themes, and tools that make the terminal more powerful and visually appealing.<br>
+Powerlevel10k – A fast and highly customizable Zsh theme that works with Oh My Zsh. It adds rich prompts, icons, and Git status while maintaining speed and efficiency.<br>
+Homebrew – The de facto package manager for macOS (and Linux) that simplifies the installation and management of software from the command line.<br>
+Warp – A modern terminal for macOS built with Rust. It features a GUI-like command input editor, collaboration tools, and AI-driven command suggestions.<br>
+Apple Fonts – A repository of system and developer fonts provided by Apple. Ideal for app development and typography consistency on Apple platforms.<br>
+JetBrains Mono – A developer-friendly monospaced typeface created by JetBrains. It’s designed for readability and code clarity, featuring ligatures and clean aesthetics.<br>
+
+<div align="center">
+
+<a href="https://ohmyz.sh/" target="_blank">
+  <img src="https://img.shields.io/badge/Oh_My_Zsh-4D5054?style=for-the-badge&logo=gnubash&logoColor=white" alt="Oh My Zsh Official Site"></a>
+<a href="https://github.com/romkatv/powerlevel10k" target="_blank">
+  <img src="https://img.shields.io/badge/Powerlevel10k-4D5054?style=for-the-badge&logo=gnu&logoColor=white" alt="Powerlevel10k GitHub Repository"></a>
+<a href="https://brew.sh/" target="_blank">
+  <img src="https://img.shields.io/badge/Homebrew-4D5054?style=for-the-badge&logo=homebrew&logoColor=white" alt="Homebrew Official Site"></a>
+<a href="https://www.warp.dev/" target="_blank">
+  <img src="https://img.shields.io/badge/Warp-4D5054?style=for-the-badge&logo=warp&logoColor=white" alt="Warp Official Site"></a>
+<a href="https://developer.apple.com/fonts/" target="_blank">
+  <img src="https://img.shields.io/badge/Apple_Fonts-4D5054?style=for-the-badge&logo=apple&logoColor=white" alt="Apple Fonts Developer Site"></a>
+<a href="https://www.jetbrains.com/lp/mono/" target="_blank">
+  <img src="https://img.shields.io/badge/JetBrains_Mono-4D5054?style=for-the-badge&logo=jetbrains&logoColor=white" alt="JetBrains Mono Official Site"></a>
+  
+</div>
+
+
+<img width="100%" src="https://leading-bell-3e1c02e64d.media.strapiapp.com/open_graph_1218_12e0c3f475.png" alt="macosimg">
+<img width="100%" src="https://github.com/JoshuaThadi/Operating-System-Environment/blob/main/Desk%26Mob/Screenshot%202025-05-14%20210724.png" alt="macosimg">
 
 
 
@@ -143,6 +261,7 @@ Google Fonts - A vast collection of open-source fonts hosted by Google, widely u
 
 
 ---
+<!-- linux setup -->
 
 <div align="center">
   <img width="190px" src="https://images.icon-icons.com/2235/PNG/512/linux_os_logo_icon_134670.png" alt="linux">
