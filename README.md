@@ -18,9 +18,9 @@
   <a href="https://rufus.ie/en/" target="_blank">
   <img src="https://img.shields.io/badge/Rufus-Download-4D5054?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Rufus: Download Bootable USB Tool"></a></br>
 <a href="https://hyprland.org/" target="_blank">
-  <img src="https://img.shields.io/badge/Hyprland-Website-4D5054?style=for-the-badge&logo=linux&logoColor=white" alt="Hyprland: Website"></a>
+  <img src="https://img.shields.io/badge/Hyprland-4D5054?style=for-the-badge&logo=linux&logoColor=white" alt="Hyprland: Website"></a>
   <a href="https://youtu.be/2CP_9-jCV6A" target="_blank">
-  <img src="https://img.shields.io/badge/Hyprland_setup-video-4D5054?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch on YouTube"></a>
+  <img src="https://img.shields.io/badge/Hyprland_video-4D5054?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch on YouTube"></a>
 
 
 
