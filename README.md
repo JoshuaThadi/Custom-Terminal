@@ -16,7 +16,12 @@
 <a href="https://soft-saturn-e55.notion.site/Custom-Terminal-18846efbf3d58056907aecad3615d199" target="_blank">
   <img src="https://img.shields.io/badge/Notion-Instruction-4C4F56?style=for-the-badge&logo=notion&logoColor=white&labelColor=%234C4F56&color=%23000000" alt="Notion Custom Terminal Badge"></a>
   <a href="https://rufus.ie/en/" target="_blank">
-  <img src="https://img.shields.io/badge/Rufus-Download-4D5054?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Rufus: Download Bootable USB Tool"></a>
+  <img src="https://img.shields.io/badge/Rufus-Download-4D5054?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Rufus: Download Bootable USB Tool"></a></br>
+<a href="https://hyprland.org/" target="_blank">
+  <img src="https://img.shields.io/badge/Hyprland-Website-4D5054?style=for-the-badge&logo=linux&logoColor=white" alt="Hyprland: Website"></a>
+  <a href="https://youtu.be/2CP_9-jCV6A" target="_blank">
+  <img src="https://img.shields.io/badge/Hyprland_setup-video-4D5054?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch on YouTube"></a>
+
 
 
 
@@ -56,6 +61,7 @@
 <p>Kali Linux is a Debian‑based distribution purpose‑built for digital forensics and penetration testing. Maintained and funded by Offensive Security, it succeeds BackTrack Linux and brings over 600 preinstalled security‑related tools—ranging from vulnerability scanners (like OpenVAS and Nikto) and password crackers (John the Ripper, Hashcat) to wireless‑attack utilities (Aircrack-ng, Reaver) and reverse‐engineering platforms (Radare2, Ghidra).</p>
 
 <h3>✪ Window Managers & Desktop Environments</h3>
+
 🔗<b>Hyprland:</b> A dynamic tiling Wayland compositor with modern animations and effects.<br>
 🔗<b>Xfce:</b> Default lightweight desktop environment in Kali.<br>
 🔗<b>GNOME:</b> Modern and user-friendly desktop environment.<br>
@@ -72,16 +78,13 @@
 <a href="https://youtu.be/NkmFS3u4sBA" target="_blank">
   <img src="https://img.shields.io/badge/KDE_Plasma-setup-4D5054?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch on YouTube"></a><br>
 
-  <a href="https://youtu.be/NtpRtSBjz3I" target="_blank">
-  <img src="https://img.shields.io/badge/Kali_Hyperland-setup-4D5054?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch on YouTube"></a>
-<a href="https://hyprland.org/" target="_blank">
-  <img src="https://img.shields.io/badge/Hyprland-Website-4D5054?style=for-the-badge&logo=linux&logoColor=white" alt="Hyprland: Website"></a><br>
-
 <a href="https://youtu.be/ZIRlfaP_SB4" target="_blank">
   <img src="https://img.shields.io/badge/Kali_xfce-setup-4D5054?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube: Watch"></a>
 <a href="https://www.kali.org/docs/general-use/xfce-faq/?utm_source=chatgpt.com" target="_blank">
   <img src="https://img.shields.io/badge/Kali%20XFCE-FAQ-4D5054?style=for-the-badge&logo=linux&logoColor=white" alt="Kali Linux XFCE FAQ"></a><br>
 
+  <a href="https://youtu.be/NtpRtSBjz3I" target="_blank">
+  <img src="https://img.shields.io/badge/Kali_Hyprland-setup-4D5054?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch on YouTube"></a>
 
 
 
@@ -97,8 +100,6 @@
 
 <a href="https://archlinux.org/download/" target="_blank">
   <img src="https://img.shields.io/badge/Arch%20Linux-4D5054?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch Linux: Download Page"></a>
-<a href="https://archcraft.io/" target="_blank">
-  <img src="https://img.shields.io/badge/Archcraft-.io-4D5054?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Archcraft: Visit Website"></a>
 <a href="https://apps.microsoft.com/detail/9mznmnksm73x?hl=en-US&gl=US" target="_blank">
   <img src="https://img.shields.io/badge/Microsoft%20Store-Download-4D5054?style=for-the-badge&logo=jetbrains&logoColor=white" alt="Microsoft Store: Download"></a>
 <a href="https://wiki.archlinux.org/title/Install_Arch_Linux_on_WSL" target="_blank">
@@ -107,10 +108,20 @@
 <p>Arch Linux is a lightweight and flexible Linux distribution that adheres to the KISS (Keep It Simple, Stupid) principle. It is designed for users who want full control over their operating system, offering a minimal base system that can be built upon with only the packages you need.</p>
 
 
+<h3>✪ Window Managers & Desktop Environments</h3>
+
+🔗<b>Hyprland:</b> A dynamic tiling Wayland compositor with modern animations and effects.<br>
+🔗<b>Archcraft:</b> A sleek Arch-based Linux distro focused on beauty, minimalism, and out-of-the-box themes.</br>
 
 
+<a href="https://youtu.be/lfUWwZqzHmA" target="_blank">
+  <img src="https://img.shields.io/badge/Arch_hyprland-setup-4D5054?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch on YouTube"></a>
 
-  
+  <a href="https://youtu.be/CN4IAzynDvk" target="_blank">
+  <img src="https://img.shields.io/badge/Archcraft-setup-4D5054?style=for-the-badge&logo=youtube&logoColor=white" alt="Archcraft: YouTube Video"></a>
+<a href="https://archcraft.io/" target="_blank">
+  <img src="https://img.shields.io/badge/Archcraft-.io-4D5054?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Archcraft: Visit Website"></a>
+
   
 </div>
 
@@ -128,7 +139,20 @@
 <p>EndeavourOS is a user-friendly, Arch-based Linux distribution that combines the power and flexibility of Arch Linux with a more approachable setup experience. Designed for users who appreciate Arch’s rolling release model and community-driven ecosystem but prefer a streamlined installation and usable out-of-the-box environment, EndeavourOS strikes a balance between minimalism and usability.</p>
 
 
+<h3>✪ Window Managers & Desktop Environments</h3>
 
+🔗<b>Hyprland:</b> A dynamic tiling Wayland compositor with modern animations and effects.<br>
+🔗<b>Xfce:</b> Default desktop environment in EndeavourOS.<br>
+🔗<b>KDE Plasma:</b> Feature-rich and highly customizable desktop environment.<br>
+
+  <a href="https://youtu.be/GlKX6_HpZKc" target="_blank">
+  <img src="https://img.shields.io/badge/Endeavouros_KDE_Plasma-setup-4D5054?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch on YouTube"></a>
+
+<a href="https://youtu.be/mb8h1-LB9K0" target="_blank">
+  <img src="https://img.shields.io/badge/EndeavourOS_hyperland-setup-4D5054?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube: Watch Now"></a>
+
+<a href="https://youtu.be/4wfZI6C9Lrs" target="_blank">
+  <img src="https://img.shields.io/badge/Endeavouros_xfce-setup-4D5054?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch on YouTube"></a>
 
 
 
