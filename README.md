@@ -148,15 +148,20 @@
 <div align="center">
   <a href="https://support.apple.com/en-in/102662" target="_blank">
   <img src="https://img.shields.io/badge/Apple%20Support-Download-4D5054?style=for-the-badge&logo=apple&logoColor=white" alt="Apple Support: Use Magnet on Mac"></a>
-<a href="https://youtu.be/MmkBl_pSZI0" target="_blank">
-  <img src="https://img.shields.io/badge/YouTube-Macos_setup-4D5054?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Video"></a>
-<a href="https://www.icloud.com/iclouddrive" target="_blank">
+
+  <a href="https://www.icloud.com/iclouddrive" target="_blank">
   <img src="https://img.shields.io/badge/MacOs-iCloud_Drive-4D5054?style=for-the-badge&logo=icloud&logoColor=white" alt="iCloud Drive Official Site"></a>
 <a href="https://soft-saturn-e55.notion.site/Custom-Terminal-18846efbf3d58056907aecad3615d199" target="_blank">
   <img src="https://img.shields.io/badge/Notion_Instruction-4C4F56?style=for-the-badge&logo=notion&logoColor=white&labelColor=%234C4F56&color=%23000000" alt="Notion Custom Terminal Badge"></a>
 </div>
 
 <h4>The macOS Professional Setup focuses on optimizing the macOS experience for productivity, aesthetics, and streamlined workflows. Leveraging native tools and minimal third-party enhancements, this setup is ideal for users who value a clean, distraction-free environment tailored for creative and professional use.</h4>
+
+<a href="https://youtu.be/MmkBl_pSZI0" target="_blank">
+  <img src="https://img.shields.io/badge/YouTube-Macos_setup-4D5054?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Video"></a>
+<a href="https://youtu.be/SevMyM-6-eM" target="_blank">
+  <img src="https://img.shields.io/badge/YouTube-Customization-4D5054?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Setup Video"></a>
+
 
 <h3>☆  macOS Desktop Tools</h3>
 1] <b>Dynamic Wallpaper Club</b> – Create and download macOS dynamic wallpapers that change with time or location.<br>
@@ -341,6 +346,16 @@
 
 <h4>The Android Setup section focuses on personalizing and optimizing the Android user experience through custom launchers, widgets, icon packs, and automation tools. Whether you're aiming for a minimalist look or a highly interactive home screen, this setup showcases ways to transform stock Android into a unique and efficient interface.</h4>
 
+<a href="https://youtu.be/0j8qqpj1ymc" target="_blank">
+  <img src="https://img.shields.io/badge/wallpaper_app-setup-4D5054?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Video"></a>
+<a href="https://youtu.be/IHd5T0y5uQs" target="_blank">
+  <img src="https://img.shields.io/badge/icon_packs-setup-4D5054?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Video"></a>
+  <a href="https://youtu.be/KSPoLLAXc9w" target="_blank">
+  <img src="https://img.shields.io/badge/FDroid-setup-4D5054?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Video"></a>
+
+
+
+
 <h3>✭ Launchers and Widgets Software</h3>
 1] <b>Nova Launcher</b> – A fast, customizable Android launcher with gestures and icon support.<br>
 2] <b>Ratio Launcher</b> – A minimalist, privacy-first launcher that promotes focused usage.<br>
@@ -425,14 +440,6 @@
 </div>
 
 <h3>✮ Wallpapers and Icon Packs</h3>
-
-<a href="https://youtu.be/0j8qqpj1ymc" target="_blank">
-  <img src="https://img.shields.io/badge/wallpaper_app-setup-4D5054?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Video"></a>
-<a href="https://youtu.be/IHd5T0y5uQs" target="_blank">
-  <img src="https://img.shields.io/badge/icon_packs-setup-4D5054?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Video"></a>
-  <a href="https://youtu.be/KSPoLLAXc9w" target="_blank">
-  <img src="https://img.shields.io/badge/FDroid-setup-4D5054?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Video"></a>
-
 
 
 <div align="left">
@@ -584,15 +591,175 @@
 </div>
 
 <h1 align="center">🍎 IOS Professional Setup</h1>
+
+<div align="center"> 
+
+<a href="https://support.apple.com/en-us/104985" target="_blank">
+  <img src="https://img.shields.io/badge/IOS-Download_Guide-4D5054?style=for-the-badge&logo=apple&logoColor=white" alt="MacOS System Settings Guide"></a>
+<a href="https://youtu.be/NXZGi3RFeGA" target="_blank">
+  <img src="https://img.shields.io/badge/ios_Setup-Demo-4D5054?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Setup Demo"></a>
+<a href="https://youtu.be/lUo2lvfQbW0" target="_blank">
+  <img src="https://img.shields.io/badge/Ios-Minimal_setup-4D5054?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Setup Video"></a>
+
+
+ 
+
+</div>
+
+
 <h4>The iOS Professional Setup focuses on customizing the iPhone and iPad experience for both aesthetic appeal and functional productivity—all within the bounds of Apple’s ecosystem. Using native tools and clever workarounds, this setup aims to deliver a clean, organized, and visually consistent mobile interface.</h4>
 
 
+<a href="https://youtu.be/sjy2tPgqHaU" target="_blank">
+  <img src="https://img.shields.io/badge/Ios-Customization-4D5054?style=for-the-badge&logo=youtube&logoColor=white" alt="Notion Workflow Video"></a>
+
+<h3>★ Software for iOS Customization</h3>
+
+
+<div align="left">
+
+1] <b>Widgetsmith</b> – Customizable widgets app for iOS allowing personalized time, date, weather, and more.<br>
+2] <b>Color Widgets</b> – Simple and colorful widget maker for iOS to personalize your home screen.<br>
+3] <b>Colorful Widget Icon Themes</b> – Offers vibrant widget and icon themes to refresh your iOS interface.<br>
+4] <b>Brass Icon Themes & Widgets</b> – Provides elegant widget and icon packs to stylize your iPhone.<br>
+5] <b>Widgy</b> – Advanced widget creator for iOS with deep customization and interactive features.<br>
+6] <b>Shortcuts</b> – Apple’s automation app to create custom shortcuts for apps and system actions.<br>
+7] <b>Themes Widget Icons Packs 15</b> – Collection of themes and widget icon packs for iOS home screen personalization.<br>
+8] <b>Widget Go</b> – Versatile iOS widget app for creating stylish and functional home screen widgets.<br>
+
+
+  
+<a href="https://apps.apple.com/us/app/widgetsmith/id1523682319" target="_blank">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/43/af/93/43af938f-ff9b-bbba-e177-91c8f8fe1c7a/AppIcon-0-1x_U007epad-0-0-0-6-0-0-P3-85-220-0.png/434x0w.webp" alt="Widgetsmith" width="60px"></a>
+<a href="https://apps.apple.com/us/app/color-widgets/id1531594277" target="_blank">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/69/85/31/69853175-81c8-a8f6-8534-9c91df6f976b/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/434x0w.webp" alt="Color Widgets" style="width: 60px;"></a>
+<a href="https://apps.apple.com/us/app/colorful-widget-icon-themes/id1538946171" target="_blank">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d8/17/37/d81737f1-5b1e-3d11-2b90-4d01e5e9721c/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/434x0w.webp" width="60px" alt="Colorful Widget App"></a>
+  <a href="https://apps.apple.com/us/app/brass-icon-themes-widgets/id1533158013" target="_blank">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/11/c9/c3/11c9c3ba-a6e0-dc38-21da-447fd88f1fbf/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/434x0w.webp" alt="Brass App Icon" width="60px"></a>
+<a href="https://apps.apple.com/us/app/widgy-widgets-home-lock-watch/id1524540481" target="_blank">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/13/e2/b4/13e2b40c-dc7d-63ea-9059-a814ab8e580d/AppIcon-0-0-2x_U007euniversal-0-5-0-85-220.png/434x0w.webp" alt="Widgy on App Store" width="60px"></a>
+<a href="https://apps.apple.com/us/app/shortcuts/id915249334" target="_blank">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/3e/52/07/3e520776-0908-893c-2248-6c9d29a03cc7/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-7.png/434x0w.webp" alt="Shortcuts App" width="60px"></a>
+<a href="https://apps.apple.com/us/app/themes-widget-icons-packs-15/id1533047121" target="_blank" rel="noopener noreferrer">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/29/4b/64/294b64ec-b0f6-4e2b-e18c-b519d96b7c8c/AppIcon-0-1x_U007emarketing-0-5-0-85-220.png/434x0w.webp" alt="Themes Widget Icons Packs App" width="60" /></a>
+<a href="https://apps.apple.com/us/app/widget-go/id1532739922" target="_blank" rel="noopener noreferrer">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/41/8f/f7/418ff7f0-108b-701e-ffc7-d609e299da73/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/434x0w.webp" alt="Widget Go App" width="60" /></a>
 
 
 
 
 
 
+<div>
+  <p>
+    <h1></h1>
+  </p>
+</div>
+
+<h3>☆ Home Screen and wallpapers</h3>
+
+
+1] <b>Walli</b> – A curated collection of high-quality HD and 4K wallpapers created by artists worldwide.<br>
+2] <b>Wallcraft</b> – Offers a vast variety of live and static wallpapers with frequent updates for iOS devices.<br>
+3] <b>Backdrops</b> – Features original and exclusive wallpapers crafted in-house, with new designs added regularly.<br>
+4] <b>Wallpapers for iPhone Themes</b> – Provides a wide range of themed wallpapers tailored specifically for iPhone aesthetics.<br>
+5] <b>Unsplash</b> – Access to a huge library of free, high-resolution photos perfect as wallpapers from a global community.<br>
+6] <b>One4Wall</b> – A wallpaper app focused on delivering HD backgrounds optimized for various devices.<br>
+7] <b>Vellum Wallpapers</b> – Daily curated selection of beautiful, minimalist wallpapers with an easy-to-use interface.<br>
+8] <b>Zedge</b> – Popular app offering wallpapers, ringtones, and notification sounds with extensive customization options.<br>
+
+
+<a href="https://apps.apple.com/us/app/walli-cool-wallpapers-hd-4k/id1061097668" target="_blank">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b1/0b/05/b10b0590-cfca-b452-8baf-c910fe4ab93a/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/434x0w.webp" alt="Walli on App Store" width="60px"></a>
+<a href="https://apps.apple.com/us/app/wallcraft-wallpapers-live/id1348676585" target="_blank">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/03/ed/27/03ed27e1-99ee-6369-5b65-30c3af6ca979/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/434x0w.webp" alt="Wallcraft on App Store" width="60px"></a>
+<a href="https://apps.apple.com/us/app/backdrops-wallpapers/id1500143735" target="_blank">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d1/18/a6/d118a647-9615-3da8-8f4f-3329976f2b4b/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/434x0w.webp" alt="Backdrops App" width="60px"></a>
+<a href="https://apps.apple.com/us/app/wallpapers-for-iphone-themes/id1474134013" target="_blank">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d2/12/86/d212865d-a4f8-16b7-3055-bea4cf129a74/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/434x0w.webp" alt="Wallpapers for iPhone Themes" width="60px"></a>
+<a href="https://apps.apple.com/us/app/unsplash/id1290631746" target="_blank" rel="noopener noreferrer">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3e/ae/3c/3eae3cfc-71f1-1976-a1e7-0651f47c8603/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/434x0w.webp" alt="Unsplash App" width="60" /></a>
+<a href="https://apps.apple.com/us/app/one4wall-wallpaper-background/id6446678464" target="_blank" rel="noopener noreferrer">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/76/e3/87/76e3874f-4115-5eb6-6e3b-4ea4e419212b/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/434x0w.webp" alt="One4Wall App Icon" width="60" /></a>
+<a href="https://apps.apple.com/us/app/vellum-wallpapers/id1095068317" target="_blank">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/f5/7c/4b/f57c4bb2-9639-f7c7-afb5-6008775cbf1f/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/434x0w.webp" alt="Vellum Wallpapers" width="60px" /></a>
+<a href="https://apps.apple.com/us/app/zedge-wallpapers-ringtones/id1086101495" target="_blank" rel="noopener noreferrer">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ec/8b/c2/ec8bc26a-e90b-4a4b-07c4-fc17d1f376dc/AppIcon-Flat-0-1x_U007epad-0-1-0-85-220-0.png/434x0w.webp" width="60" alt="Zedge Wallpapers & Ringtones" /></a>
+
+
+
+
+
+
+
+<div>
+  <p>
+    <h1></h1>
+  </p>
+</div>
+
+
+
+
+<h3>✪ Productivity Tools</h3>
+
+1] <b>Notion</b> – All-in-one workspace app for notes, tasks, and AI-powered productivity.<br>
+2] <b>Notion Calendar</b> – A calendar-focused app to organize and visualize your Notion tasks.<br>
+3] <b>To Do List Tasks for Notion</b> – Simplifies task management with to-do lists synced to Notion.<br>
+4] <b>Tasks for Notion</b> – A dedicated to-do list app tightly integrated with your Notion workspace.<br>
+5] <b>Obsidian Connected Notes</b> – A powerful note-taking app with backlinking and knowledge graph features.<br>
+6] <b>TickTick</b> – A comprehensive to-do list, calendar, and habit tracking app.<br>
+7] <b>NoteCircle To Do Planner</b> – A planner app designed for effective to-do list and schedule management.<br>
+8] <b>Evernote</b> – Popular note organizer and productivity app for capturing ideas and managing tasks.<br>
+
+
+<a href="https://apps.apple.com/us/app/notion-notes-tasks-ai/id1232780281" target="_blank">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/38/13/37/381337c4-d9af-7564-455c-6299499b8d79/AppIconProd-0-0-1x_U007emarketing-0-11-0-85-220.png/434x0w.webp" alt="Notion app" width="60px"></a>
+<a href="https://apps.apple.com/us/app/notion-calendar/id1607562761" target="_blank" rel="noopener noreferrer">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/84/ca/e6/84cae609-de36-c767-5b53-1bfa5667882a/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/434x0w.webp" width="60" alt="Notion Calendar App"></a>
+<a href="https://apps.apple.com/us/app/to-do-list-tasks-for-notion/id1594021892" target="_blank" rel="noopener noreferrer">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f3/c0/0b/f3c00bb7-a63b-b130-e811-76d4898bbe6c/AB-AI-N-Default_Wht-Bgr-0-0-1x_U007emarketing-0-11-0-85-220.png/434x0w.webp" alt="To Do List Tasks for Notion" width="60" /></a>
+<a href="https://apps.apple.com/us/app/tasks-for-notion-to-do-list/id6478239419" target="_blank" rel="noopener noreferrer">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b3/86/89/b3868954-1036-b988-3463-6af5f3c5666c/AppIcon-0-0-1x_U007epad-0-1-85-220.jpeg/434x0w.webp" alt="Tasks for Notion App Icon" width="60" /></a>
+<a href="https://apps.apple.com/us/app/obsidian-connected-notes/id1557175442" target="_blank" rel="noopener noreferrer">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/07/d7/94/07d794b6-da89-5ce7-257a-211b99c8e4c2/AppIcon-1x_U007epad-0-1-85-220-0.png/434x0w.webp" alt="Obsidian Connected Notes" width="60" style="vertical-align:middle;"></a>
+<a href="https://apps.apple.com/us/app/ticktick-to-do-list-calendar/id626144601" target="_blank" rel="noopener noreferrer">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/39/4d/f1/394df15a-14ec-8844-c639-89af378280d0/AppIcon-0-1x_U007epad-0-0-0-11-0-0-85-220-0.png/434x0w.webp" alt="TickTick App Icon" width="60" /></a>
+<a href="https://apps.apple.com/us/app/notecircle-to-do-planner/id1528859917" target="_blank" rel="noopener noreferrer">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a8/d5/33/a8d533b8-c49d-4164-d2cb-e2c529b07ea5/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/434x0w.webp" width="60" alt="NoteCircle To Do Planner"></a>
+<a href="https://apps.apple.com/us/app/evernote-notes-organizer/id281796108" target="_blank" rel="noopener noreferrer">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a8/51/d4/a851d404-5859-ea10-7025-74b5e6126318/AppIcon-0-0-1x_U007epad-0-0-0-1-0-85-220.png/434x0w.webp" alt="Evernote App" width="60" /></a>
+
+
+
+
+
+
+
+
+
+
+
+
+<div>
+  <p>
+    <h1></h1>
+  </p>
+</div>
+
+
+</div>
+
+
+
+
+  
+
+<a href="https://tinyblocks.gumroad.com/l/minimaliphone">
+  <img width="100%" src="https://public-files.gumroad.com/zjjzxhb4eh75th1vyd5vkve4xbkp" alt="ios">
+</a>
+<img width="100%" src="https://preview.redd.it/my-minimalist-iphone-setup-v0-egsbu3chfg2e1.jpeg?width=1080&crop=smart&auto=webp&s=36f722906a17d6530ad61eb6bff2ac39187d0f7a" alt="ios">
 
 
 
