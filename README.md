@@ -502,9 +502,10 @@
   <img src="https://play-lh.googleusercontent.com/DS0hAq0eHY-88FmOn15eWw8-Yp1S-eh6REJou_LusDcRVPRVCRpjZErxnn9HIQvPqIQ=w480-h960-rw" alt="Taco Loco Icon Pack" width="60px"></a>
 <a href="https://play.google.com/store/apps/details?id=com.jndapp.line.x.iconpack" target="_blank">
   <img src="https://play-lh.googleusercontent.com/lFULhC90H2Ou8tpg_8s3gPaHNz-dAq6RwpZlrcXNjP-xWrA2V4DrkoYdLDB72ka66kQ=w480-h960-rw" alt="LineX Icon Pack" width="60px"></a>
+
+<div align="left">
 <a href="https://play.google.com/store/apps/details?id=com.jndapp.square.nexa.iconpack" target="_blank">
-  <img src="https://play-lh.googleusercontent.com/Ny438w63WoY3Fc2Udex3o46PrjOCoEErzq24610Pb6phIme9pCCR-3mPvFkpXHj90T0=w480-h960-rw" alt="Nexa Icon Pack" width="60px"></a>
-  
+  <img src="https://play-lh.googleusercontent.com/Ny438w63WoY3Fc2Udex3o46PrjOCoEErzq24610Pb6phIme9pCCR-3mPvFkpXHj90T0=w480-h960-rw" alt="Nexa Icon Pack" width="60px"></a>  
   <a href="https://play.google.com/store/apps/details?id=com.arjunarora.pix_you_cornflower_dark_icons&hl=en" target="_blank">
   <img width="60px" src="https://play-lh.googleusercontent.com/GpHZL-XkYm0AX9QNSUd5ctVtYZ1RVXmuexi3fQiqHNbymco4ekgdn9_Hd3UZymq7Vuk=w480-h960-rw" alt="Pix You Cornflower Dark on Google Play"></a>
 <a href="https://play.google.com/store/apps/details?id=com.pashapuma.pix.material.dark&hl=en" target="_blank">
@@ -518,7 +519,7 @@
 <a href="https://play.google.com/store/apps/details?id=com.mahmoudzadah.app.glassifydark&hl=en" target="_blank">
   <img src="https://play-lh.googleusercontent.com/0TV_VxtKGja3EFQKCkbS68ylgiiH8NRmE3KWP90i9ZU70cHvg4_W2Ti9eXZzJzG2-f0Y=w480-h960-rw" alt="Glassify Dark on Google Play" width="60">
 </a>
-
+</div>
 
 
   <div>
