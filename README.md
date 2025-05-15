@@ -337,8 +337,9 @@
   <img src="https://img.shields.io/badge/YouTube_Video-4D5054?style=for-the-badge&logo=youtube&logoColor=white" alt="How to Change your YouTube video title – in 1 minute – 2025 update"></a>
 <a href="https://youtu.be/redfpIpeoHY" target="_blank">
   <img src="https://img.shields.io/badge/YouTube-Demo_Setup-4D5054?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Video"></a>
-  <a href="https://youtu.be/KSPoLLAXc9w" target="_blank">
-  <img src="https://img.shields.io/badge/FDroid-setup-4D5054?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Video"></a>
+<a href="https://f-droid.org/en/" target="_blank">
+  <img src="https://img.shields.io/badge/F--Droid-4D5054?style=for-the-badge&logo=f-droid&logoColor=white" alt="F-Droid Official Site"></a>
+
 
 
 </div>
@@ -435,7 +436,8 @@
   <img src="https://img.shields.io/badge/wallpaper_app-setup-4D5054?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Video"></a>
 <a href="https://youtu.be/IHd5T0y5uQs" target="_blank">
   <img src="https://img.shields.io/badge/icon_packs-setup-4D5054?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Video"></a>
-
+  <a href="https://youtu.be/KSPoLLAXc9w" target="_blank">
+  <img src="https://img.shields.io/badge/FDroid-setup-4D5054?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Video"></a>
 
 
 
