@@ -55,6 +55,32 @@
 
 <p>Kali Linux is a Debian‑based distribution purpose‑built for digital forensics and penetration testing. Maintained and funded by Offensive Security, it succeeds BackTrack Linux and brings over 600 preinstalled security‑related tools—ranging from vulnerability scanners (like OpenVAS and Nikto) and password crackers (John the Ripper, Hashcat) to wireless‑attack utilities (Aircrack-ng, Reaver) and reverse‐engineering platforms (Radare2, Ghidra).</p>
 
+<h3>✪ Window Managers & Desktop Environments</h3>
+🔗<b>Hyprland:</b> A dynamic tiling Wayland compositor with modern animations and effects.<br>
+🔗<b>Xfce:</b> Default lightweight desktop environment in Kali.<br>
+🔗<b>GNOME:</b> Modern and user-friendly desktop environment.<br>
+🔗<b>KDE Plasma:</b> Highly customizable desktop environment.<br>
+
+
+<a href="https://www.kali.org/blog/kali-linux-2024-2-release/" target="_blank">
+  <img src="https://img.shields.io/badge/Kali_Gnome-2024.2%20Release-4D5054?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux 2024.2 Release"></a>
+<a href="https://youtu.be/ZvV0eGSGgXI" target="_blank">
+  <img src="https://img.shields.io/badge/Kali_Gnome-setup-4D5054?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube: Watch Now"></a><br>
+
+<a href="https://pkg.kali.org/pkg/plasma-desktop" target="_blank">
+  <img src="https://img.shields.io/badge/Kali%20Plasma-Download-4D5054?style=for-the-badge&logo=kde&logoColor=white" alt="Kali Plasma: Download"></a>
+<a href="https://youtu.be/NkmFS3u4sBA" target="_blank">
+  <img src="https://img.shields.io/badge/KDE_Plasma-setup-4D5054?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch on YouTube"></a><br>
+
+  <a href="https://youtu.be/NtpRtSBjz3I" target="_blank">
+  <img src="https://img.shields.io/badge/Kali_Hyperland-setup-4D5054?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch on YouTube"></a>
+<a href="https://hyprland.org/" target="_blank">
+  <img src="https://img.shields.io/badge/Hyprland-Website-4D5054?style=for-the-badge&logo=linux&logoColor=white" alt="Hyprland: Website"></a><br>
+
+<a href="https://youtu.be/ZIRlfaP_SB4" target="_blank">
+  <img src="https://img.shields.io/badge/Kali_xfce-setup-4D5054?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube: Watch"></a>
+<a href="https://www.kali.org/docs/general-use/xfce-faq/?utm_source=chatgpt.com" target="_blank">
+  <img src="https://img.shields.io/badge/Kali%20XFCE-FAQ-4D5054?style=for-the-badge&logo=linux&logoColor=white" alt="Kali Linux XFCE FAQ"></a><br>
 
 
 
