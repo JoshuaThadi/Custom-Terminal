@@ -157,10 +157,10 @@
 
 <h4>The macOS Professional Setup focuses on optimizing the macOS experience for productivity, aesthetics, and streamlined workflows. Leveraging native tools and minimal third-party enhancements, this setup is ideal for users who value a clean, distraction-free environment tailored for creative and professional use.</h4>
 
-<a href="https://youtu.be/MmkBl_pSZI0" target="_blank">
-  <img src="https://img.shields.io/badge/YouTube-Macos_setup-4D5054?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Video"></a>
 <a href="https://youtu.be/SevMyM-6-eM" target="_blank">
   <img src="https://img.shields.io/badge/YouTube-Customization-4D5054?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Setup Video"></a>
+<a href="https://youtu.be/MmkBl_pSZI0" target="_blank">
+  <img src="https://img.shields.io/badge/YouTube-Macos_setup-4D5054?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Video"></a>
 
 
 <h3>☆  macOS Desktop Tools</h3>
@@ -299,6 +299,8 @@
 
 
 
+
+
 ---
 
 
@@ -306,7 +308,9 @@
   <img width="190px" src="https://images.icon-icons.com/2235/PNG/512/linux_os_logo_icon_134670.png" alt="linux">
 </div>
 
-<h1 align="center">🛡️Linux Professional Setup</h1>
+<h1 align="center"><img width="40px" src="https://github.com/JoshuaThadi/Operating-System-Environment/blob/main/Desk%26Mob/fogoAzul.gif"> Linux Professional Setup</h1>
+
+
 <h4>The Linux Professional Setup is tailored for users who demand full control, customization, and performance across different Linux distributions. This section focuses on Arch Linux, Kali Linux, and EndeavourOS—each offering unique strengths for power users, ethical hackers, and customization enthusiasts.</h4>
 
 
@@ -504,7 +508,7 @@
 <a href="https://play.google.com/store/apps/details?id=com.jndapp.line.x.iconpack" target="_blank">
   <img src="https://play-lh.googleusercontent.com/lFULhC90H2Ou8tpg_8s3gPaHNz-dAq6RwpZlrcXNjP-xWrA2V4DrkoYdLDB72ka66kQ=w480-h960-rw" alt="LineX Icon Pack" width="60px"></a>
 
-<div align="left">
+
 <a href="https://play.google.com/store/apps/details?id=com.jndapp.square.nexa.iconpack" target="_blank">
   <img src="https://play-lh.googleusercontent.com/Ny438w63WoY3Fc2Udex3o46PrjOCoEErzq24610Pb6phIme9pCCR-3mPvFkpXHj90T0=w480-h960-rw" alt="Nexa Icon Pack" width="60px"></a>  
   <a href="https://play.google.com/store/apps/details?id=com.arjunarora.pix_you_cornflower_dark_icons&hl=en" target="_blank">
@@ -520,7 +524,7 @@
 <a href="https://play.google.com/store/apps/details?id=com.mahmoudzadah.app.glassifydark&hl=en" target="_blank">
   <img src="https://play-lh.googleusercontent.com/0TV_VxtKGja3EFQKCkbS68ylgiiH8NRmE3KWP90i9ZU70cHvg4_W2Ti9eXZzJzG2-f0Y=w480-h960-rw" alt="Glassify Dark on Google Play" width="60">
 </a>
-</div>
+
 
 
   <div>
@@ -596,10 +600,11 @@
 
 <a href="https://support.apple.com/en-us/104985" target="_blank">
   <img src="https://img.shields.io/badge/IOS-Download_Guide-4D5054?style=for-the-badge&logo=apple&logoColor=white" alt="MacOS System Settings Guide"></a>
+  <a href="https://youtu.be/lUo2lvfQbW0" target="_blank">
+  <img src="https://img.shields.io/badge/Ios-Minimal_setup-4D5054?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Setup Video"></a>
 <a href="https://youtu.be/NXZGi3RFeGA" target="_blank">
   <img src="https://img.shields.io/badge/ios_Setup-Demo-4D5054?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Setup Demo"></a>
-<a href="https://youtu.be/lUo2lvfQbW0" target="_blank">
-  <img src="https://img.shields.io/badge/Ios-Minimal_setup-4D5054?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Setup Video"></a>
+
 
 
  
