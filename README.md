@@ -129,12 +129,9 @@
     <h1></h1>
   </p>
 </div>
-
 <p align="center">
-  <img src="https://github.com/JoshuaThadi/Operating-System-Environment/blob/main/Desk%26Mob/Screenshot%20(35).png?raw=true" alt="Screenshot 35" width="48%" style="display:inline-block; margin-right:1%;">
-  <img src="https://github.com/JoshuaThadi/Operating-System-Environment/blob/main/Desk%26Mob/Screenshot%20(33).png?raw=true" alt="Screenshot 33" width="48%" style="display:inline-block;">
-</p>
-
+<img width="100%" src="https://github.com/JoshuaThadi/Operating-System-Environment/blob/main/Desk%26Mob/Screenshot%20(35).png?raw=true" alt="Screenshot 35">
+<img width="100%" src="https://github.com/JoshuaThadi/Operating-System-Environment/blob/main/Desk%26Mob/Screenshot%20(33).png?raw=true" alt="Screenshot 33">
 
 
 
@@ -291,10 +288,8 @@
   </p>
 </div>
 
-<p align="center">
-  <img src="https://leading-bell-3e1c02e64d.media.strapiapp.com/open_graph_1218_12e0c3f475.png" alt="macosimg" width="50%" style="display:inline-block; margin-right:1%;">
-  <img src="https://github.com/JoshuaThadi/Operating-System-Environment/blob/main/Desk%26Mob/Screenshot%202025-05-14%20210724.png?raw=true" alt="macosimg" width="47%" style="display:inline-block;">
-</p>
+<img width="100%" src="https://leading-bell-3e1c02e64d.media.strapiapp.com/open_graph_1218_12e0c3f475.png" alt="macosimg">
+<img width="100%" src="https://github.com/JoshuaThadi/Operating-System-Environment/blob/main/Desk%26Mob/Screenshot%202025-05-14%20210724.png" alt="macosimg">
 
 
 
@@ -577,12 +572,8 @@
 
 
 
-<p align="center">
-  <img src="https://i.ytimg.com/vi/zISRCo-VvAw/maxresdefault.jpg" alt="android" width="50%" style="display:inline-block; margin-right:1%;">
-  <img src="https://www.geeky-gadgets.com/wp-content/uploads/2025/01/Android-Apps-4.webp" alt="android" width="50%" style="display:inline-block;">
-</p>
-
-
+<img width="100%" src="https://i.ytimg.com/vi/zISRCo-VvAw/maxresdefault.jpg" alt="android">
+<img width="100%" src="https://www.geeky-gadgets.com/wp-content/uploads/2025/01/Android-Apps-4.webp" alt="android">
 
 
 
