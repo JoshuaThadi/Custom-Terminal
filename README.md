@@ -15,7 +15,8 @@
   <img src="https://img.shields.io/badge/VirtualBox-Download-4D5054?style=for-the-badge&logo=virtualbox&logoColor=white" alt="VirtualBox: Download Page"></a>
    <a href="https://rufus.ie/en/" target="_blank">
   <img src="https://img.shields.io/badge/Rufus-Download-4D5054?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Rufus: Download Bootable USB Tool"></a>
-
+<a href="https://soft-saturn-e55.notion.site/Custom-Terminal-18846efbf3d58056907aecad3615d199" target="_blank">
+  <img src="https://img.shields.io/badge/Notion-Instruction-4C4F56?style=for-the-badge&logo=notion&logoColor=white&labelColor=%234C4F56&color=%23000000" alt="Notion Custom Terminal Badge"></a>
 
 
 </div>
