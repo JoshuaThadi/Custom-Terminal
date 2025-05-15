@@ -83,7 +83,7 @@
 2] <b>Razer Cortex</b> – A game booster that optimizes system performance by managing background processes.<br>
 3] <b>Xbox</b> – Microsoft’s gaming platform offering console play, Game Pass, and cloud streaming services.<br>
 
-<div align="center">
+<div align="left">
 <a href="https://www.msi.com/Landing/afterburner/graphics-cards" target="_blank">
   <img src="https://img.shields.io/badge/MSI%20Afterburner-4D5054?style=for-the-badge&logo=msi&logoColor=white" alt="MSI Afterburner Official Site"></a>
 <a href="https://www.razer.com/cortex" target="_blank">
@@ -134,13 +134,6 @@
 <img width="100%" src="https://github.com/JoshuaThadi/Operating-System-Environment/blob/main/Desk%26Mob/Screenshot%20(35).png?raw=true" alt="Screenshot 35">
 <img width="100%" src="https://github.com/JoshuaThadi/Operating-System-Environment/blob/main/Desk%26Mob/Screenshot%20(33).png?raw=true" alt="Screenshot 33">
 
-
-<!--<table>
-  <tr>
-    <td><img width="100%" src="https://github.com/JoshuaThadi/Operating-System-Environment/blob/main/Desk%26Mob/Screenshot%20(35).png?raw=true" alt="Screenshot 35"></td>
-    <td><img width="100%" src="https://github.com/JoshuaThadi/Operating-System-Environment/blob/main/Desk%26Mob/Screenshot%20(33).png?raw=true" alt="Screenshot 33"></td>
-  </tr>
-</table>-->
 
 
 
@@ -308,7 +301,7 @@
 
 
 ---
-<!-- linux setup -->
+
 
 <div align="center">
   <img width="190px" src="https://images.icon-icons.com/2235/PNG/512/linux_os_logo_icon_134670.png" alt="linux">
@@ -342,6 +335,11 @@
   <img src="https://img.shields.io/badge/Android_16-4D5054?style=for-the-badge&logo=android&logoColor=white" alt="Android 16 Developer Site"></a>
 <a href="https://www.youtube.com/watch?v=7H_mUMdBdDY&t=18s" target="_blank">
   <img src="https://img.shields.io/badge/YouTube_Video-4D5054?style=for-the-badge&logo=youtube&logoColor=white" alt="How to Change your YouTube video title – in 1 minute – 2025 update"></a>
+<a href="https://youtu.be/redfpIpeoHY" target="_blank">
+  <img src="https://img.shields.io/badge/YouTube-Demo_Setup-4D5054?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Video"></a>
+  <a href="https://youtu.be/KSPoLLAXc9w" target="_blank">
+  <img src="https://img.shields.io/badge/FDroid-setup-4D5054?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Video"></a>
+
 
 </div>
 
@@ -397,7 +395,11 @@
 5] <b>PLACID KWGT</b> – Calm, minimalist widgets ideal for clean and clutter-free homescreens.<br>
 6] <b>One4KWGT Ultimate</b> – A versatile widget pack with styles ranging from minimal to detailed.<br>
 7] <b>iOS KWGT</b> – iOS-style widgets bringing a polished Apple-like experience to Android.<br>
- 
+8] <b>DroidBeauty</b> – A refined KWGT pack offering stylish, elegant widgets for any Android setup.<br>
+9] <b>Nothing Widgets Pro</b> – Minimalist widgets inspired by Nothing OS, perfect for clean themes.<br>
+10] <b>Widget Lab</b> – Creative and customizable widgets for adding personality to your home screen.<br>
+
+
 <div align="left">
   <a href="https://play.google.com/store/apps/details?id=com.alive.kwgt.app" target="_blank">
   <img src="https://play-lh.googleusercontent.com/QEP7jPkbsCR4ueDn17kbQ2w9Ow8dGDRn5GPXjWa1CrdWpi_tyrFk3uXAd0USseHNsVA=w480-h960-rw" width="60px" alt="Alive KWGT Icon"></a>
@@ -413,6 +415,125 @@
   <img src="https://play-lh.googleusercontent.com/olgAKJcTyUpG6QPsHlVCm4-bTZd1amTFB_fC6bA_TrGeGic1KNyRQtrJT-amMfj2sIc=w480-h960-rw" width="60px" alt="One4KWGT Ultimate Icon"></a>
 <a href="https://play.google.com/store/apps/details?id=ios.dd.kwgt" target="_blank">
   <img src="https://play-lh.googleusercontent.com/TRZ-xN8G_N1ou0ro9SGRsgGcOUeASYEQfgsJ26n7vmS6KcGerrnFmJh_mBvQzRY1PjeN=w480-h960-rw" width="60px" alt="iOS KWGT Icon"></a>
+
+<a href="https://play.google.com/store/apps/details?id=kodaforkustom.droidbeauty.pack&hl=en_IN" target="_blank">
+  <img  width="60px" src="https://play-lh.googleusercontent.com/N7nfjymNc0UN6ensQjddpD7xIYer3DzfoyolGWP5fzNMdh4RYpliaotWZxxzbc9saWiK=w480-h960-rw" alt="DroidBeauty on Google Play"></a>
+<a href="https://play.google.com/store/apps/details?id=com.appslab.nothing.widgetspro&hl=en_IN" target="_blank">
+  <img  width="60px" src="https://play-lh.googleusercontent.com/Lo-JU0zVkBD4NfWgroH0hqDbHPVGN4NvX0Me-epgDQtTGh-KHfbuPYXtrMdsEvhhjHrp=w480-h960-rw" alt="Nothing Widgets Pro on Google Play"></a>
+<a href="https://play.google.com/store/apps/details?id=io.iftech.android.box" target="_blank">
+  <img  width="60px" src="https://play-lh.googleusercontent.com/7IXm8ObA98c9UMzeO0qh7mJ3hrrvHHIEeH15yiSgBlfEwrNHD9DJdpv-DMaVUtQItg=w480-h960-rw" alt="Widget Lab on Google Play"></a>
+
+<div>
+  <p>
+    <h1></h1>
+  </p>
+</div>
+
+<h3>✮ Wallpapers and Icon Packs</h3>
+
+<a href="https://youtu.be/0j8qqpj1ymc" target="_blank">
+  <img src="https://img.shields.io/badge/wallpaper_app-setup-4D5054?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Video"></a>
+<a href="https://youtu.be/IHd5T0y5uQs" target="_blank">
+  <img src="https://img.shields.io/badge/icon_packs-setup-4D5054?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Video"></a>
+
+
+
+
+<div align="left">
+
+1] <b>One4Wall</b> – A curated collection of high-quality, artistic wallpapers designed for personalization.<br>
+2] <b>Walli</b> – Unique and creative wallpapers made by a global community of artists.<br>
+3] <b>Backdrops</b> – Daily updated wallpapers featuring original designs and photography.<br>
+4] <b>Abstruct</b> – Abstract wallpapers by Hampus Olsson, known for official OnePlus artwork.<br>
+5] <b>Wallpapers</b> – Make the most of your display with beautiful wallpapers and advanced features. <br>
+
+<a href="https://play.google.com/store/apps/details?id=one4studio.wallpaper.one4wall" target="_blank">
+  <img src="https://play-lh.googleusercontent.com/lap41bjfmMnQ2DR6oiWOHhvr7oz19AgniNIdY2Rma23d1YGqVSFwopTCHqeK0dYB7A=w480-h960-rw" alt="One4Wall on Google Play" width="60px"></a>
+<a href="https://play.google.com/store/apps/details?id=com.shanga.walli" target="_blank">
+  <img width="60px" height="" src="https://play-lh.googleusercontent.com/LInrdofd1tRvXCLzNkWZHkSBY0Xr6t6Tv6r0fpojKiKhtzYnlkvi2EMD4cf2YUKvKg=w480-h960-rw" alt="Walli App" height="28"></a>
+<a href="https://play.google.com/store/apps/details?id=com.backdrops.wallpapers" target="_blank">
+  <img src="https://play-lh.googleusercontent.com/ybkU2kHmt5RBz4mXpxyYuO1ZqM3I8uJPhAKA7v51Pj03fwmT7PMMgPP6X2_CymH1cyg=w480-h960-rw" alt="Backdrops App" width="60px"></a>
+<a href="https://play.google.com/store/apps/details?id=com.hampusolsson.abstruct" target="_blank">
+  <img src="https://play-lh.googleusercontent.com/vSNtyKw2z4BvvhoYg1V_1s-aTNBOCyhtotMqBXMjXkYUFo5TXlQmWxWeOzJdJpB1Ew=w480-h960-rw" alt="Abstruct on Google Play" width="60px"></a>
+  <a href="https://play.google.com/store/apps/details?id=com.google.android.apps.wallpaper&hl=en_IN" target="_blank">
+  <img src="https://play-lh.googleusercontent.com/2aJfB6trLglywvIh6MSN58qh-r2b-_2GoXk4dWL5fIZmMAWdTN3f98Ugpi6U_glIm0w=w480-h960-rw" alt="Google Wallpapers" width="60px">
+</a>
+
+
+  <div>
+    <p>
+      <h1></h1>
+    </p>
+  </div>
+
+
+1] <b>Whicons Icon Pack</b> – Clean, minimal white icons designed for a sleek monochrome homescreen.<br>
+2] <b>Delta Icon Pack</b> – Soft pastel-colored icons that offer a playful yet elegant look.<br>
+3] <b>Crayon Icon Pack (Search)</b> – Hand-drawn style icons with a colorful, fun aesthetic.<br>
+4] <b>Crayon Adaptive Icon Pack</b> – Adaptive version of Crayon icons for consistent modern UI.<br>
+5] <b>Taco Taco Icon Pack</b> – Bold, quirky icons with a cartoonish charm and vibrant palette.<br>
+6] <b>Taco Deluxe Icon Pack</b> – Premium variant with refined icons and detailed designs.<br>
+7] <b>Taco Loco Icon Pack</b> – Free version of the Taco series with expressive, playful visuals.<br>
+8] <b>LineX Icon Pack</b> – Neon-outlined icons that give your homescreen a glowing futuristic look.<br>
+9] <b>Nexa Icon Pack</b> – Modern square icons with a flat, colorful design for a geometric feel.<br>
+
+
+<a href="https://play.google.com/store/apps/details?id=com.whicons.iconpack" target="_blank">
+  <img src="https://play-lh.googleusercontent.com/-VvPi6KDkw7aT293HVHzOyEyEhRSrD_vMW2Fb0LhD8xr1X8KvfaK9-fg1EwwBO5DoL0=w480-h960-rw" width="60px" alt="Whicons Icon Pack"></a>
+<a href="https://play.google.com/store/apps/details?id=website.leifs.delta" target="_blank">
+  <img src="https://play-lh.googleusercontent.com/4-woeYZ1HhwCjt_DCgGrJdk35K_ZKL_1faLV6Sq3xbgyWDj928lz7I_fFZ7--rkiWH8=w480-h960-rw" alt="Delta App on Google Play" width="60px"></a>
+<a href="https://play.google.com/store/search?q=crayon+icon+pack&c=apps" target="_blank">
+  <img src="https://play-lh.googleusercontent.com/MmLHNN4_lwIN7kMG7XWnOxSYbEju-FBMEn8oDj4Xt8t9EnnH6S6GQeMHJDWpGfeDOSpM=w480-h960-rw" alt="Crayon Icon Pack" width="60px"></a>
+<a href="https://play.google.com/store/apps/details?id=com.adaptive.cartoon.crayon.iconpack" target="_blank">
+  <img src="https://play-lh.googleusercontent.com/La9LTXCUArPdfRj17dqipgg5E4GBAO4Hx9QZwhU0b4_dsxiIuPsp_4IM1XKC9rlmavU=w480-h960-rw" alt="Crayon Icon Pack" width="60px"></a>
+  <a href="https://play.google.com/store/apps/details?id=com.themesonfire.iconpack.taco_taco.paid" target="_blank">
+  <img src="https://play-lh.googleusercontent.com/_RE0Ju6FlD1pKiiOASZsfNkkRg7Hj0NbjSEDON0IjB3iDNS1ZPThbpCjxZfa4B6UPmU=w480-h960-rw" alt="Taco Taco Icon Pack" width="60px"></a>
+<a href="https://play.google.com/store/apps/details?id=com.themesonfire.iconpack.taco_deluxe.paid" target="_blank">
+  <img src="https://play-lh.googleusercontent.com/Eil9J6FNo6x_NDrBFLaKRf34oj0ouFd_dA9FH1Y0wuoOTL71oSN0SvEv9lAPJBHCIyY=w480-h960-rw" alt="Taco Deluxe Icon Pack" width="60px"></a>
+<a href="https://play.google.com/store/apps/details?id=com.themesonfire.iconpack.taco_loco.free" target="_blank">
+  <img src="https://play-lh.googleusercontent.com/DS0hAq0eHY-88FmOn15eWw8-Yp1S-eh6REJou_LusDcRVPRVCRpjZErxnn9HIQvPqIQ=w480-h960-rw" alt="Taco Loco Icon Pack" width="60px"></a>
+<a href="https://play.google.com/store/apps/details?id=com.jndapp.line.x.iconpack" target="_blank">
+  <img src="https://play-lh.googleusercontent.com/lFULhC90H2Ou8tpg_8s3gPaHNz-dAq6RwpZlrcXNjP-xWrA2V4DrkoYdLDB72ka66kQ=w480-h960-rw" alt="LineX Icon Pack" width="60px"></a>
+<a href="https://play.google.com/store/apps/details?id=com.jndapp.square.nexa.iconpack" target="_blank">
+  <img src="https://play-lh.googleusercontent.com/Ny438w63WoY3Fc2Udex3o46PrjOCoEErzq24610Pb6phIme9pCCR-3mPvFkpXHj90T0=w480-h960-rw" alt="Nexa Icon Pack" width="60px"></a>
+
+  <div>
+    <p>
+      <h1></h1>
+    </p>
+  </div>
+
+
+<h3>❂ System / ADB / Root & ROM Tools </h3>
+
+1] <b>Shizuku</b> – Powerful tool allowing apps to use system-level APIs with proper user consent, ideal for power users and developers.<br>
+2] <b>Activity Launcher</b> – Lets you launch hidden activities and apps directly, great for deep Android customization.<br>
+3] <b>Magisk</b> – A systemless rooting solution for Android, enabling advanced customization and module support.<br>
+4] <b>LineageOS</b> – A free and open-source Android distribution focused on privacy, performance, and security.<br>
+5] <b>Amarok</b> – A FOSS app for customizing and managing device charging sounds and animations.<br>
+6] <b>DevCheck</b> – Real-time system information and hardware monitoring for your Android device.<br>
+7] <b>Termux</b> – A powerful terminal emulator bringing Linux packages and a command-line environment to Android.<br>
+
+
+  <a href="https://play.google.com/store/apps/details?id=moe.shizuku.privileged.api" target="_blank">
+  <img src="https://play-lh.googleusercontent.com/KVK7u_AKusImrcj3i0HanLxIbCzrpIEm7BgmB1TXwZHe2SXAUGHOe6bLISO-x5xR0E0=w480-h960-rw" alt="Shizuku on Google Play" width="60px"></a>
+<a href="https://play.google.com/store/apps/details?id=de.szalkowski.activitylauncher" target="_blank">
+  <img src="https://play-lh.googleusercontent.com/NdIUGsoXrhPbKSWrubwcIlejtPGG_Q0jTAwb5W-VepwSznGAmBX1jKu44ANMnV1bhqc=w480-h960-rw" alt="Activity Launcher" width="60px"></a>
+<a href="https://github.com/topjohnwu/Magisk?tab=readme-ov-file" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/Magisk_Logo.png" alt="Magisk GitHub" width="60px"></a>
+<a href="https://lineageos.org/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/LineageOS_Logo.svg/1200px-LineageOS_Logo.svg.png" alt="LineageOS Logo" width="60px"></a>
+<a href="https://f-droid.org/en/packages/deltazero.amarok.foss/" target="_blank">
+  <img src="https://f-droid.org/repo/deltazero.amarok.foss/en-US/icon_nyBsozCF19DxPPeK3OSO-Aqw9qsckNSMymntDVZ-5-4=.png" alt="Amarok on F-Droid" width="60px"></a>
+<a href="https://play.google.com/store/apps/details?id=flar2.devcheck&hl=en_IN" target="_blank">
+  <img src="https://play-lh.googleusercontent.com/7R1y-ndhCxzf_5FoRWtCkH8nySzjrjqFiWa_wSZy7CutB1g-k11Zp9wBnjGnN6FeLyzn=w480-h960-rw" alt="DevCheck App" width="60px"></a>
+<a href="https://github.com/termux/termux-app" target="_blank">
+  <img src="https://play-lh.googleusercontent.com/m3oqSZCwmitiZ-Im-CQu_rqT5eLHilOp5IudBynv3COJUumFzuQaP2dgTDxRL_03f4x2=w480-h960-rw" alt="Termux" width="60px"></a>
+
+
+
+
+
 </div>
 
 
