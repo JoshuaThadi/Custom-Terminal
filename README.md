@@ -1,6 +1,159 @@
 <!-- Desktop setup -->
 
 <div align="center">
+  <img width="190px" src="https://images.icon-icons.com/2235/PNG/512/linux_os_logo_icon_134670.png" alt="linux">
+</div>
+
+<h1 align="center"><img width="40px" src="https://github.com/JoshuaThadi/Operating-System-Environment/blob/main/Desk%26Mob/fogoAzul.gif"> Linux Professional Setup</h1>
+
+<div align="center">
+<a href="https://github.com/torvalds/linux" target="_blank">
+    <a href="https://www.linux.org/pages/download/" target="_blank">
+  <img src="https://img.shields.io/badge/Linux.org-4D5054?style=for-the-badge&logo=linux&logoColor=white" alt="Linux.org: Download Linux"></a>
+  <img src="https://img.shields.io/badge/Linux-GitHub-4D5054?style=for-the-badge&logo=github&logoColor=white" alt="Linux GitHub Repository"></a>
+<a href="https://www.virtualbox.org/wiki/Downloads" target="_blank">
+  <img src="https://img.shields.io/badge/VirtualBox-Download-4D5054?style=for-the-badge&logo=virtualbox&logoColor=white" alt="VirtualBox: Download Page"></a>
+   <a href="https://rufus.ie/en/" target="_blank">
+  <img src="https://img.shields.io/badge/Rufus-Download-4D5054?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Rufus: Download Bootable USB Tool"></a>
+
+
+
+</div>
+
+
+<h4>The Linux Professional Setup is tailored for users who demand full control, customization, and performance across different Linux distributions. This section focuses on Arch Linux, Kali Linux, and EndeavourOS—each offering unique strengths for power users, ethical hackers, and customization enthusiasts.</h4>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<h2><img width="20px" src="https://static-00.iconduck.com/assets.00/distributor-logo-kali-linux-icon-2048x2005-dki611fk.png"> Kali Personalization</h2>
+
+<div align="left">
+  
+  <a href="https://apps.microsoft.com/detail/9pkr34tncv07?hl=en-US&gl=US" target="_blank">
+  <img src="https://img.shields.io/badge/Microsoft%20Store-Download-4D5054?style=for-the-badge&logo=jetbrains&logoColor=white" alt="Microsoft Store: Download App"></a>
+  <a href="https://www.kali.org/get-kali/#kali-platforms" target="_blank">
+  <img src="https://img.shields.io/badge/Kali%20Linux-Download-4D5054?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux: Download"></a>
+  <a href="https://www.kali.org/docs/wsl/wsl-preparations/" target="_blank">
+  <img src="https://img.shields.io/badge/Kali%20WSL-Document-4D5054?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali WSL Preparation Guide"></a>
+
+<p>Kali Linux is a Debian‑based distribution purpose‑built for digital forensics and penetration testing. Maintained and funded by Offensive Security, it succeeds BackTrack Linux and brings over 600 preinstalled security‑related tools—ranging from vulnerability scanners (like OpenVAS and Nikto) and password crackers (John the Ripper, Hashcat) to wireless‑attack utilities (Aircrack-ng, Reaver) and reverse‐engineering platforms (Radare2, Ghidra).</p>
+
+
+
+
+
+
+</div>
+
+
+
+
+<h2><img width="20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Arch_Linux_%22Crystal%22_icon.svg/480px-Arch_Linux_%22Crystal%22_icon.svg.png"> Arch Personalization</h2>
+
+<div align="left">
+
+<a href="https://archlinux.org/download/" target="_blank">
+  <img src="https://img.shields.io/badge/Arch%20Linux-4D5054?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch Linux: Download Page"></a>
+<a href="https://archcraft.io/" target="_blank">
+  <img src="https://img.shields.io/badge/Archcraft-.io-4D5054?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Archcraft: Visit Website"></a>
+<a href="https://apps.microsoft.com/detail/9mznmnksm73x?hl=en-US&gl=US" target="_blank">
+  <img src="https://img.shields.io/badge/Microsoft%20Store-Download-4D5054?style=for-the-badge&logo=jetbrains&logoColor=white" alt="Microsoft Store: Download"></a>
+<a href="https://wiki.archlinux.org/title/Install_Arch_Linux_on_WSL" target="_blank">
+  <img src="https://img.shields.io/badge/Arch%20Wiki-Install%20on%20WSL-4D5054?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch Wiki: Install Arch on WSL"></a>
+
+<p>Arch Linux is a lightweight and flexible Linux distribution that adheres to the KISS (Keep It Simple, Stupid) principle. It is designed for users who want full control over their operating system, offering a minimal base system that can be built upon with only the packages you need.</p>
+
+
+
+
+
+  
+  
+</div>
+
+
+
+<h2><img width="20px" src="https://static-00.iconduck.com/assets.00/distributor-logo-endeavouros-icon-2048x1707-6lrk99z2.png"> EndeavourOS Personalization</h2>
+
+<div align="left">
+
+  
+<a href="https://github.com/sileshn/EndeavourOSWSL2" target="_blank">
+  <img src="https://img.shields.io/badge/EndeavourOSWSL2-github-4D5054?style=for-the-badge&logo=github&logoColor=white" alt="EndeavourOSWSL2 GitHub Repo"></a>
+  <a href="https://endeavouros.com/" target="_blank">
+  <img src="https://img.shields.io/badge/EndeavourOS-Visit-4D5054?style=for-the-badge&logo=linux&logoColor=white" alt="EndeavourOS: Visit Official Site"></a>
+<p>EndeavourOS is a user-friendly, Arch-based Linux distribution that combines the power and flexibility of Arch Linux with a more approachable setup experience. Designed for users who appreciate Arch’s rolling release model and community-driven ecosystem but prefer a streamlined installation and usable out-of-the-box environment, EndeavourOS strikes a balance between minimalism and usability.</p>
+
+
+
+
+
+
+  
+  
+</div>
+
+
+
+<h2><img width="20px" src="https://cdn-icons-png.flaticon.com/512/1531/1531385.png"> Ricing on Linux</h2>
+
+<div>
+<p>"Ricing" is a term from the customization community that refers to personalizing and beautifying your Linux desktop environment to reflect your unique aesthetic and workflow. It goes beyond simple theming—ricing is about crafting a visually cohesive, minimal, or eye-catching setup by configuring window managers, status bars, terminals, icons, fonts, and more.</p>
+
+<a href="https://youtu.be/SRqVuAUP2N0?list=PLAoJfvFSn6qhgOX6guQqfGfUMJY8119kk" target="_blank">
+  <img src="https://img.shields.io/badge/Youtube-Ricing_linux-4D5054?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Playlist: Watch Now"></a>
+
+
+
+
+
+
+
+
+
+  
+</div>
+
+
+
+
+
+
+
+
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div align="center">
   <img width="220px" src="https://cdn1.iconfinder.com/data/icons/operating-system-flat-1/30/windows_7-512.png" alt="Windows OS">
 </div>
 
@@ -309,144 +462,7 @@
 ---
 
 
-<div align="center">
-  <img width="190px" src="https://images.icon-icons.com/2235/PNG/512/linux_os_logo_icon_134670.png" alt="linux">
-</div>
 
-<h1 align="center"><img width="40px" src="https://github.com/JoshuaThadi/Operating-System-Environment/blob/main/Desk%26Mob/fogoAzul.gif"> Linux Professional Setup</h1>
-
-<div align="center">
-<a href="https://github.com/torvalds/linux" target="_blank">
-    <a href="https://www.linux.org/pages/download/" target="_blank">
-  <img src="https://img.shields.io/badge/Linux.org-4D5054?style=for-the-badge&logo=linux&logoColor=white" alt="Linux.org: Download Linux"></a>
-  <img src="https://img.shields.io/badge/Linux-GitHub-4D5054?style=for-the-badge&logo=github&logoColor=white" alt="Linux GitHub Repository"></a>
-<a href="https://www.virtualbox.org/wiki/Downloads" target="_blank">
-  <img src="https://img.shields.io/badge/VirtualBox-Download-4D5054?style=for-the-badge&logo=virtualbox&logoColor=white" alt="VirtualBox: Download Page"></a>
-   <a href="https://rufus.ie/en/" target="_blank">
-  <img src="https://img.shields.io/badge/Rufus-Download-4D5054?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Rufus: Download Bootable USB Tool"></a>
-
-
-
-</div>
-
-
-<h4>The Linux Professional Setup is tailored for users who demand full control, customization, and performance across different Linux distributions. This section focuses on Arch Linux, Kali Linux, and EndeavourOS—each offering unique strengths for power users, ethical hackers, and customization enthusiasts.</h4>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<h2><img width="20px" src="https://static-00.iconduck.com/assets.00/distributor-logo-kali-linux-icon-2048x2005-dki611fk.png"> Kali Personalization</h2>
-
-<div align="left">
-  
-  <a href="https://apps.microsoft.com/detail/9pkr34tncv07?hl=en-US&gl=US" target="_blank">
-  <img src="https://img.shields.io/badge/Microsoft%20Store-Download-4D5054?style=for-the-badge&logo=jetbrains&logoColor=white" alt="Microsoft Store: Download App"></a>
-  <a href="https://www.kali.org/get-kali/#kali-platforms" target="_blank">
-  <img src="https://img.shields.io/badge/Kali%20Linux-Download-4D5054?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux: Download"></a>
-  <a href="https://www.kali.org/docs/wsl/wsl-preparations/" target="_blank">
-  <img src="https://img.shields.io/badge/Kali%20WSL-Document-4D5054?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali WSL Preparation Guide"></a>
-
-<p>Kali Linux is a Debian‑based distribution purpose‑built for digital forensics and penetration testing. Maintained and funded by Offensive Security, it succeeds BackTrack Linux and brings over 600 preinstalled security‑related tools—ranging from vulnerability scanners (like OpenVAS and Nikto) and password crackers (John the Ripper, Hashcat) to wireless‑attack utilities (Aircrack-ng, Reaver) and reverse‐engineering platforms (Radare2, Ghidra).</p>
-
-
-
-
-
-
-</div>
-
-
-
-
-<h2><img width="20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Arch_Linux_%22Crystal%22_icon.svg/480px-Arch_Linux_%22Crystal%22_icon.svg.png"> Arch Personalization</h2>
-
-<div align="left">
-
-<a href="https://archlinux.org/download/" target="_blank">
-  <img src="https://img.shields.io/badge/Arch%20Linux-4D5054?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch Linux: Download Page"></a>
-<a href="https://archcraft.io/" target="_blank">
-  <img src="https://img.shields.io/badge/Archcraft-.io-4D5054?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Archcraft: Visit Website"></a>
-<a href="https://apps.microsoft.com/detail/9mznmnksm73x?hl=en-US&gl=US" target="_blank">
-  <img src="https://img.shields.io/badge/Microsoft%20Store-Download-4D5054?style=for-the-badge&logo=jetbrains&logoColor=white" alt="Microsoft Store: Download"></a>
-<a href="https://wiki.archlinux.org/title/Install_Arch_Linux_on_WSL" target="_blank">
-  <img src="https://img.shields.io/badge/Arch%20Wiki-Install%20on%20WSL-4D5054?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch Wiki: Install Arch on WSL"></a>
-
-<p>Arch Linux is a lightweight and flexible Linux distribution that adheres to the KISS (Keep It Simple, Stupid) principle. It is designed for users who want full control over their operating system, offering a minimal base system that can be built upon with only the packages you need.</p>
-
-
-
-
-
-  
-  
-</div>
-
-
-
-<h2><img width="20px" src="https://static-00.iconduck.com/assets.00/distributor-logo-endeavouros-icon-2048x1707-6lrk99z2.png"> EndeavourOS Personalization</h2>
-
-<div align="left">
-
-  
-<a href="https://github.com/sileshn/EndeavourOSWSL2" target="_blank">
-  <img src="https://img.shields.io/badge/EndeavourOSWSL2-github-4D5054?style=for-the-badge&logo=github&logoColor=white" alt="EndeavourOSWSL2 GitHub Repo"></a>
-  <a href="https://endeavouros.com/" target="_blank">
-  <img src="https://img.shields.io/badge/EndeavourOS-Visit-4D5054?style=for-the-badge&logo=linux&logoColor=white" alt="EndeavourOS: Visit Official Site"></a>
-<p>EndeavourOS is a user-friendly, Arch-based Linux distribution that combines the power and flexibility of Arch Linux with a more approachable setup experience. Designed for users who appreciate Arch’s rolling release model and community-driven ecosystem but prefer a streamlined installation and usable out-of-the-box environment, EndeavourOS strikes a balance between minimalism and usability.</p>
-
-
-
-
-
-
-  
-  
-</div>
-
-
-
-<h2><img width="20px" src="https://cdn-icons-png.flaticon.com/512/1531/1531385.png"> Ricing on Linux</h2>
-
-<div>
-<p>"Ricing" is a term from the customization community that refers to personalizing and beautifying your Linux desktop environment to reflect your unique aesthetic and workflow. It goes beyond simple theming—ricing is about crafting a visually cohesive, minimal, or eye-catching setup by configuring window managers, status bars, terminals, icons, fonts, and more.</p>
-
-<a href="https://youtu.be/SRqVuAUP2N0?list=PLAoJfvFSn6qhgOX6guQqfGfUMJY8119kk" target="_blank">
-  <img src="https://img.shields.io/badge/Youtube-Ricing_linux-4D5054?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Playlist: Watch Now"></a>
-
-
-
-
-
-
-
-
-
-  
-</div>
-
-
-
-
-
-
-
-
-
----
 
 
 <div align="center">
