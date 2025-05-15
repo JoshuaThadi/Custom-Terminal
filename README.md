@@ -237,18 +237,19 @@
 
 <div align="left">
 
-  <a href="https://www.dropbox.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Dropbox-4D5054?style=for-the-badge&logo=dropbox&logoColor=white" alt="Dropbox Official Site"></a>
-<a href="https://bear.app/" target="_blank">
-  <img src="https://img.shields.io/badge/Bear-4D5054?style=for-the-badge&logo=apple&logoColor=white" alt="Bear Official Site"></a>
-<a href="https://www.notion.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Notion-4D5054?style=for-the-badge&logo=notion&logoColor=white" alt="Notion Official Site"></a>
 <a href="http://obsidian.md/" target="_blank">
   <img src="https://img.shields.io/badge/Obsidian-4D5054?style=for-the-badge&logo=obsidian&logoColor=white" alt="Obsidian Official Site"></a>
 <a href="https://www.craft.do/" target="_blank">
   <img src="https://img.shields.io/badge/Craft-4D5054?style=for-the-badge&logo=craftcms&logoColor=white" alt="Craft Official Site"></a>
 <a href="https://www.todoist.com/" target="_blank">
   <img src="https://img.shields.io/badge/Todoist-4D5054?style=for-the-badge&logo=todoist&logoColor=white" alt="Todoist Official Site"></a>
+  <a href="https://www.dropbox.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Dropbox-4D5054?style=for-the-badge&logo=dropbox&logoColor=white" alt="Dropbox Official Site"></a>
+<a href="https://bear.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Bear-4D5054?style=for-the-badge&logo=apple&logoColor=white" alt="Bear Official Site"></a>
+<a href="https://www.notion.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Notion-4D5054?style=for-the-badge&logo=notion&logoColor=white" alt="Notion Official Site"></a>
+
 <a href="https://www.ticktick.com/" target="_blank">
   <img src="https://img.shields.io/badge/TickTick-4D5054?style=for-the-badge&logo=ticktick&logoColor=white" alt="TickTick Official Site"></a>
 <a href="https://www.flow.app/" target="_blank">
@@ -274,6 +275,10 @@
 
 <div align="left">
 
+<a href="https://developer.apple.com/fonts/" target="_blank">
+  <img src="https://img.shields.io/badge/Apple_Fonts-4D5054?style=for-the-badge&logo=apple&logoColor=white" alt="Apple Fonts Developer Site"></a>
+<a href="https://www.jetbrains.com/lp/mono/" target="_blank">
+  <img src="https://img.shields.io/badge/JetBrains_Mono-4D5054?style=for-the-badge&logo=jetbrains&logoColor=white" alt="JetBrains Mono Official Site"></a>
 <a href="https://ohmyz.sh/" target="_blank">
   <img src="https://img.shields.io/badge/Oh_My_Zsh-4D5054?style=for-the-badge&logo=gnubash&logoColor=white" alt="Oh My Zsh Official Site"></a>
 <a href="https://github.com/romkatv/powerlevel10k" target="_blank">
@@ -282,10 +287,7 @@
   <img src="https://img.shields.io/badge/Homebrew-4D5054?style=for-the-badge&logo=homebrew&logoColor=white" alt="Homebrew Official Site"></a>
 <a href="https://www.warp.dev/" target="_blank">
   <img src="https://img.shields.io/badge/Warp-4D5054?style=for-the-badge&logo=warp&logoColor=white" alt="Warp Official Site"></a>
-<a href="https://developer.apple.com/fonts/" target="_blank">
-  <img src="https://img.shields.io/badge/Apple_Fonts-4D5054?style=for-the-badge&logo=apple&logoColor=white" alt="Apple Fonts Developer Site"></a>
-<a href="https://www.jetbrains.com/lp/mono/" target="_blank">
-  <img src="https://img.shields.io/badge/JetBrains_Mono-4D5054?style=for-the-badge&logo=jetbrains&logoColor=white" alt="JetBrains Mono Official Site"></a>
+
   
 </div>
 
