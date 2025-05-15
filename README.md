@@ -102,7 +102,7 @@
 <a href="https://archlinux.org/download/" target="_blank">
   <img src="https://img.shields.io/badge/Arch%20Linux-4D5054?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch Linux: Download Page"></a>
 <a href="https://apps.microsoft.com/detail/9mznmnksm73x?hl=en-US&gl=US" target="_blank">
-  <img src="https://img.shields.io/badge/Microsoft-Download-4D5054?style=for-the-badge&logo=jetbrains&logoColor=white" alt="Microsoft Store: Download"></a>
+  <img src="https://img.shields.io/badge/Microsoft-arch-4D5054?style=for-the-badge&logo=jetbrains&logoColor=white" alt="Microsoft Store: Download"></a>
 <a href="https://wiki.archlinux.org/title/Install_Arch_Linux_on_WSL" target="_blank">
   <img src="https://img.shields.io/badge/Arch%20Wiki-Install%20on%20WSL-4D5054?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch Wiki: Install Arch on WSL"></a>
 
