@@ -20,12 +20,12 @@
 <h4>The Windows Professional Setup section is dedicated to transforming a standard Windows environment into a clean, efficient, and visually refined workspace. Tailored for productivity, aesthetics, professionals, and creators. Whether you're a developer, designer, or customization enthusiast, these configurations aim to enhance your workflow while maintaining a visually pleasing interface.</h4>
 
 <h3>✨ Features and Wares</h3>
-1] Lively Wallpaper - A free and open-source animated desktop wallpaper application for Windows.<br>
-2] RoundedTB - A utility that allows you to add margins, rounded corners, and segments to your Windows taskbar.<br>
-3] BeWidgets - A customizable widget dashboard for Windows, allowing you to add clocks, weather, and other visual elements.<br>
-4] TranslucentTB - A lightweight utility for customizing the appearance of the Windows taskbar with blur, transparency, and color effects.<br>
-5] PowerToys - A collection of utilities for power users to tune and streamline their Windows experience for greater productivity.<br>
-6] Wise Memory Optimizer - A tool designed to free up and optimize the physical memory on your system to improve performance.<br>
+1] <b>Lively Wallpaper</b> – Open-source app for setting animated and interactive wallpapers on Windows.<br>
+2] <b>RoundedTB</b> – Adds rounded corners and customizable margins to the Windows taskbar.<br>
+3] <b>BeWidgets</b> – Lets you add stylish widgets like clocks and weather to your Windows desktop.<br>
+4] <b>TranslucentTB</b> – Customizes your taskbar with blur, transparency, and color effects.<br>
+5] <b>PowerToys</b> – Microsoft’s toolkit to enhance productivity and control on Windows.<br>
+6] <b>Wise Memory Optimizer</b> – Frees and optimizes RAM to improve system performance.<br>
 
 <div align="left">
 <a href="https://apps.microsoft.com/detail/9ntm2qc6qws7?hl=en-US&gl=US" target="_blank">
@@ -49,12 +49,12 @@
 </div>
 
 <h3>🌟 Customization Tools and Software</h3>    
-1] Wallpaper Engine - A powerful application that allows you to use live and interactive wallpapers on your Windows desktop via Steam.<br>
-2] Rainmeter - A desktop customization tool that enables you to display customizable skins (widgets) like system monitors, weather, and clocks.<br>
-3] Windhawk - A modding tool for Windows that allows runtime customization of system behavior using community-contributed mods.<br>
-4] Files (by Files Community) - A modern, open-source file explorer for Windows that serves as an alternative to the native Windows File Explorer.<br>
-5] Windows 11 Cursors (by Jepri Creations) - A set of stylized Windows 11-inspired cursor themes shared on DeviantArt for personal customization.<br>
-6] ExplorerBlurMica - A lightweight utility that adds Windows 11's Mica and Acrylic blur effects to File Explorer on supported systems.<br>
+1] <b>Wallpaper Engine</b> – Use live and interactive wallpapers on your Windows desktop via Steam.<br>
+2] <b>Rainmeter</b> – Display customizable desktop widgets like clocks, weather, and system stats.<br>
+3] <b>Windhawk</b> – Customize Windows behavior at runtime with community-created mods.<br>
+4] <b>Files (by Files Community)</b> – A sleek, open-source file explorer alternative for Windows.<br>
+5] <b>Windows 11 Cursors (by Jepri Creations)</b> – Stylized Windows 11 cursor themes for a custom look.<br>
+6] <b>ExplorerBlurMica</b> – Add Mica and Acrylic blur effects to File Explorer on Windows 11.<br>
 
 <div align="left">
 <a href="https://store.steampowered.com/app/431960/Wallpaper_Engine/" target="_blank">
@@ -79,9 +79,9 @@
 
 
 <h3>⭐ Gaming Tools and software for Windows</h3>
-1] MSI Afterburner - A popular graphics card overclocking utility that allows performance tuning, hardware monitoring, and fan control.<br>
-2] Razer Cortex - A system optimization tool for gamers that boosts PC performance by managing and killing processes during gameplay.<br>
-3] Xbox - The official platform by Microsoft for console gaming, game streaming, and digital content including Game Pass and Xbox Live services.<br>
+1] <b>MSI Afterburner</b> – A graphics card tuning tool with overclocking, monitoring, and fan control features.<br>
+2] <b>Razer Cortex</b> – A game booster that optimizes system performance by managing background processes.<br>
+3] <b>Xbox</b> – Microsoft’s gaming platform offering console play, Game Pass, and cloud streaming services.<br>
 
 <div align="center">
 <a href="https://www.msi.com/Landing/afterburner/graphics-cards" target="_blank">
@@ -99,12 +99,12 @@
 </div>
 
 <h3>🌟 Terminal Customization & Fonts</h3>
-1] Oh My Posh - A prompt theme engine for any shell that allows beautiful and fast custom prompts, especially popular with PowerShell and Windows Terminal.<br>
-2] Windows Terminal - A modern, feature-rich terminal application for Windows that supports multiple tabs, themes, and shells like PowerShell, Command Prompt, and WSL.<br>
-3] PowerShell - A powerful cross-platform shell and scripting language designed especially for system administration and automation.<br>
-4] Nerd Fonts - A collection of patched fonts with a high number of glyphs/icons used for terminal customization, especially compatible with prompt engines like Oh My Posh.<br>
-5] Fluent Icons - An open-source icon pack inspired by Microsoft’s Fluent Design System, useful for UI customization and development.<br>
-6] Google Fonts - A vast collection of open-source fonts hosted by Google, widely used in web and interface design.<br>
+1] <b>Oh My Posh</b> – A fast, customizable prompt engine for any shell, popular with PowerShell and Windows Terminal.<br>
+2] <b>Windows Terminal</b> – A modern terminal app for Windows with tabs, themes, and support for multiple shells.<br>
+3] <b>PowerShell</b> – A cross-platform shell and scripting language focused on automation and system tasks.<br>
+4] <b>Nerd Fonts</b> – Patched fonts with extra glyphs/icons, ideal for terminal and prompt customization.<br>
+5] <b>Fluent Icons</b> – A Fluent Design-inspired open-source icon pack for UI customization and development.<br>
+6] <b>Google Fonts</b> – A large library of open-source fonts used in web and interface design.<br>
 
 
 <div align="left">
@@ -168,23 +168,24 @@
 <h4>The macOS Professional Setup focuses on optimizing the macOS experience for productivity, aesthetics, and streamlined workflows. Leveraging native tools and minimal third-party enhancements, this setup is ideal for users who value a clean, distraction-free environment tailored for creative and professional use.</h4>
 
 <h3>☆  macOS Desktop Tools</h3>
-1] Dynamic Wallpaper Club - A platform to create and download dynamic wallpapers for macOS that change based on time or location, mimicking macOS Mojave’s native feature.<br>
-2] Rectangle - A free and open-source macOS window management app that uses keyboard shortcuts to snap and move windows.<br>
-3] AltTab for macOS - An open-source window switcher for macOS that mimics the Windows-style Alt+Tab behavior, offering visual previews and fast switching.<br>
-4] Dwarves Foundation - A Vietnamese developer collective providing open-source macOS tools like Xcode DevCleaner, Hidden Bar, and others.<br>
-5] Magnet - A commercial macOS app that allows users to easily snap windows into organized layouts using keyboard shortcuts or drag-and-drop.<br>
+1] <b>Dynamic Wallpaper Club</b> – Create and download macOS dynamic wallpapers that change with time or location.<br>
+2] <b>Rectangle</b> – Free macOS window manager using keyboard shortcuts for snapping and moving windows.<br>
+3] <b>AltTab for macOS</b> – Open-source window switcher bringing Windows-style Alt+Tab to macOS with live previews.<br>
+4] <b>Dwarves Foundation</b> – Vietnamese dev group behind open-source macOS tools like Hidden Bar and DevCleaner.<br>
+5] <b>Magnet</b> – Paid macOS app for snapping windows into organized layouts with shortcuts or drag-and-drop.<br>
 
 <div align="left">
-<a href="https://dynamicwallpaper.club/" target="_blank">
+<a href="https://alt-tab-macos.netlify.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Apple-AltTab-4D5054?style=for-the-badge&logo=apple&logoColor=white" alt="AltTab Official Site"></a>
+<a href="https://magnet.crowdcafe.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Magnet-4D5054?style=for-the-badge&logo=apple&logoColor=white" alt="Magnet Official Site"></a>
+  <a href="https://dynamicwallpaper.club/" target="_blank">
   <img src="https://img.shields.io/badge/Dynamic%20Wallpaper%20Club-4D5054?style=for-the-badge&logo=apple&logoColor=white" alt="Dynamic Wallpaper Club Official Site"></a>
   <a href="https://dwarves.foundation/opensource/" target="_blank">
   <img src="https://img.shields.io/badge/Dwarves%20Foundation-4D5054?style=for-the-badge&logo=github&logoColor=white" alt="Dwarves Foundation Open Source"></a>
 <a href="https://rectangleapp.com/" target="_blank">
   <img src="https://img.shields.io/badge/Macos-Rectangle-4D5054?style=for-the-badge&logo=apple&logoColor=white" alt="Rectangle Official Site"></a>
-<a href="https://alt-tab-macos.netlify.app/" target="_blank">
-  <img src="https://img.shields.io/badge/Apple-AltTab-4D5054?style=for-the-badge&logo=apple&logoColor=white" alt="AltTab Official Site"></a>
-<a href="https://magnet.crowdcafe.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Magnet-4D5054?style=for-the-badge&logo=apple&logoColor=white" alt="Magnet Official Site"></a>
+
 </div>
 
 <div>
@@ -194,17 +195,14 @@
 </div>
 
 <h3>✪ macOS Utilities & System Tools</h3>
-1] Raycast - A powerful Spotlight replacement and productivity tool for macOS. It supports extensions, scripts, window management, app launching, and more—all from a fast keyboard interface.<br>
-2] Aptonic (Dropzone) - A macOS productivity tool that simplifies drag-and-drop actions like copying, moving, uploading, and launching apps through a grid-based drop target system.<br>
-3] iStat Menus - A system monitoring tool for macOS that displays detailed stats like CPU usage, memory, battery health, temperatures, and network activity in the menu bar.<br>
-4] Übersicht - A widget engine for macOS that lets you place customizable widgets (using HTML, CSS, and JS) directly on your desktop. Great for stats, clocks, calendars, and more.<br>
-5] CleanMyMac - A commercial macOS optimization app that helps clean junk files, uninstall apps, monitor performance, and maintain overall system health.<br>
+1] <b>Raycast</b> – A Spotlight replacement for macOS that boosts productivity with extensions, scripts, and quick app access.<br>
+2] <b>Aptonic (Dropzone)</b> – A macOS tool that simplifies drag-and-drop actions with a customizable grid for quick tasks.<br>
+3] <b>iStat Menus</b> – A menu bar utility for detailed real-time system monitoring on macOS.<br>
+4] <b>Übersicht</b> – A macOS widget engine for adding HTML/JS-powered widgets to your desktop.<br>
+5] <b>CleanMyMac</b> – An all-in-one macOS maintenance app for cleaning junk, optimizing performance, and app management.<br>
 
 <div align="left">
-  <a href="https://www.raycast.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Raycast-4D5054?style=for-the-badge&logo=apple&logoColor=white" alt="Raycast Official Site"></a>
-<a href="https://aptonic.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Aptonic-4D5054?style=for-the-badge&logo=apple&logoColor=white" alt="Aptonic Official Site"></a>
+ 
 <a href="https://bjango.com/mac/istatmenus/" target="_blank">
   <img src="https://img.shields.io/badge/iStat%20Menus-4D5054?style=for-the-badge&logo=apple&logoColor=white" alt="iStat Menus Official Site"></a>
 <a href="https://tracesof.net/uebersicht/" target="_blank">
@@ -213,6 +211,10 @@
   <img src="https://img.shields.io/badge/CleanMyMac-4D5054?style=for-the-badge&logo=apple&logoColor=white" alt="CleanMyMac Official Site"></a>
   <a href="https://portal.app/mac" target="_blank">
   <img src="https://img.shields.io/badge/Portal-4D5054?style=for-the-badge&logo=icloud&logoColor=white" alt="Portal Official Site"></a>
+   <a href="https://www.raycast.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Raycast-4D5054?style=for-the-badge&logo=apple&logoColor=white" alt="Raycast Official Site"></a>
+<a href="https://aptonic.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Aptonic-4D5054?style=for-the-badge&logo=apple&logoColor=white" alt="Aptonic Official Site"></a>
 
 </div>
 
@@ -223,17 +225,22 @@
 </div>
 
 <h3>✬ Popular Productivity Tools</h3>
-1] Notion – An all-in-one workspace that blends note-taking, task management, databases, calendars, and wikis.<br>
-2] Obsidian – A powerful knowledge base and note-taking app that stores notes in Markdown files.<br>
-3] Craft – A beautifully designed note-taking and document creation tool optimized for structured, collaborative writing.<br>
-4] Todoist – A popular cross-platform task manager with powerful features like natural language input, recurring tasks, project organization, and productivity tracking.<br>
-5] TickTick – A feature-rich task manager that combines to-dos, calendar view, habit tracking, Pomodoro timer, and prioritization.<br>
-6] Flow – A clean, focused task and team collaboration app offering project tracking, kanban views, timelines, and task assignments.<br>
-7] Dropbox – A cloud storage platform that syncs files across devices and allows easy sharing and collaboration.<br>
-8] Bear – A Markdown-based note-taking app focused on speed, simplicity, and beautiful design.<br>
+1] <b>Notion</b> – An all-in-one workspace for notes, tasks, wikis, calendars, and databases.<br>
+2] <b>Obsidian</b> – A local-first note-taking app that stores knowledge in Markdown files.<br>
+3] <b>Craft</b> – A visually refined tool for structured note-taking and collaborative writing.<br>
+4] <b>Todoist</b> – A powerful task manager with natural input, projects, and productivity tools.<br>
+5] <b>TickTick</b> – A to-do app with calendar view, habit tracking, Pomodoro, and reminders.<br>
+6] <b>Flow</b> – A clean project and task management app with team collaboration features.<br>
+7] <b>Dropbox</b> – A cloud storage service for syncing, sharing, and collaborating on files.<br>
+8] <b>Bear</b> – A simple, fast Markdown note-taking app with elegant design.<br>
 
 
 <div align="left">
+
+  <a href="https://www.dropbox.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Dropbox-4D5054?style=for-the-badge&logo=dropbox&logoColor=white" alt="Dropbox Official Site"></a>
+<a href="https://bear.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Bear-4D5054?style=for-the-badge&logo=apple&logoColor=white" alt="Bear Official Site"></a>
 <a href="https://www.notion.com/" target="_blank">
   <img src="https://img.shields.io/badge/Notion-4D5054?style=for-the-badge&logo=notion&logoColor=white" alt="Notion Official Site"></a>
 <a href="http://obsidian.md/" target="_blank">
@@ -246,10 +253,7 @@
   <img src="https://img.shields.io/badge/TickTick-4D5054?style=for-the-badge&logo=ticktick&logoColor=white" alt="TickTick Official Site"></a>
 <a href="https://www.flow.app/" target="_blank">
   <img src="https://img.shields.io/badge/Flow-4D5054?style=for-the-badge&logo=apple&logoColor=white" alt="Flow Official Site"></a>
-<a href="https://www.dropbox.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Dropbox-4D5054?style=for-the-badge&logo=dropbox&logoColor=white" alt="Dropbox Official Site"></a>
-<a href="https://bear.app/" target="_blank">
-  <img src="https://img.shields.io/badge/Bear-4D5054?style=for-the-badge&logo=apple&logoColor=white" alt="Bear Official Site"></a>
+
 </div>
 
 
@@ -261,12 +265,12 @@
 
 
 <h3>✫ Shell and Font customization</h3>
-1] Oh My Zsh – A popular open-source framework for managing Zsh configuration. It comes with helpful plugins, themes, and tools that make the terminal more powerful and visually appealing.<br>
-2] Powerlevel10k – A fast and highly customizable Zsh theme that works with Oh My Zsh. It adds rich prompts, icons, and Git status while maintaining speed and efficiency.<br>
-3] Homebrew – The de facto package manager for macOS (and Linux) that simplifies the installation and management of software from the command line.<br>
-4] Warp – A modern terminal for macOS built with Rust. It features a GUI-like command input editor, collaboration tools, and AI-driven command suggestions.<br>
-5] Apple Fonts – A repository of system and developer fonts provided by Apple. Ideal for app development and typography consistency on Apple platforms.<br>
-6] JetBrains Mono – A developer-friendly monospaced typeface created by JetBrains. It’s designed for readability and code clarity, featuring ligatures and clean aesthetics.<br>
+1] <b>Oh My Zsh</b> – A powerful framework for managing Zsh with themes and plugins.<br>
+2] <b>Powerlevel10k</b> – A fast, customizable Zsh theme with rich prompts and Git integration.<br>
+3] <b>Homebrew</b> – The go-to package manager for macOS and Linux command-line tools.<br>
+4] <b>Warp</b> – A modern, Rust-based terminal with a GUI-like input and AI features.<br>
+5] <b>Apple Fonts</b> – Official Apple font collection for system and app development.<br>
+6] <b>JetBrains Mono</b> – A clean, readable coding font with ligatures and great design.<br>
 
 <div align="left">
 
@@ -343,17 +347,16 @@
 <h4>The Android Setup section focuses on personalizing and optimizing the Android user experience through custom launchers, widgets, icon packs, and automation tools. Whether you're aiming for a minimalist look or a highly interactive home screen, this setup showcases ways to transform stock Android into a unique and efficient interface.</h4>
 
 <h3>✭ Launchers and Widgets Software</h3>
-1] Nova Launcher – A fast, customizable Android launcher with gestures, icon support, and layout control.<br>
-2] Ratio Launcher – A minimalist, privacy-first launcher that turns your home screen into a focused dashboard.<br>
-3] Smart Launcher – An adaptive launcher that auto-sorts apps and offers a clean, efficient interface.<br>
-4] Color Widgets – A widget app for iOS and Android that creates vibrant, themed home screen widgets.<br>
-5] KWGT (Kustom Widget Maker) – A tool to design custom Android widgets using text, images, and live data.<br>
-6] KLWP (Kustom Live Wallpaper Maker) – A powerful app to build animated, interactive Android live wallpapers.<br>
-7] Orca for KWGT – Minimalist and clean widgets ideal for elegant, info-focused setups.<br>
-8] Dusk KWGT – Dark, futuristic widgets perfect for OLED and moody home screens.<br>
-9] Aqua KWGT – Colorful, nature-inspired widgets for vibrant and lively layouts.<br>
-10] Timeless KWGT – Elegant, balanced widgets suited for both modern and classic styles.<br>
-5] iOS KWGT – iOS-style widgets for a polished, Apple-inspired Android experience.<br>
+1] <b>Nova Launcher</b> – A fast, customizable Android launcher with gestures and icon support.<br>
+2] <b>Ratio Launcher</b> – A minimalist, privacy-first launcher that promotes focused usage.<br>
+3] <b>Smart Launcher</b> – An adaptive launcher that auto-sorts apps with a clean interface.<br>
+4] <b>Color Widgets</b> – A widget app to create vibrant, themed widgets for iOS and Android.<br>
+5] <b>KWGT (Kustom Widget Maker)</b> – Design custom Android widgets using live data and visuals.<br>
+6] <b>KLWP (Kustom Live Wallpaper Maker)</b> – Create animated and interactive live wallpapers on Android.<br>
+7] <b>Orca for KWGT</b> – Clean, minimalist widgets ideal for elegant home screen setups.<br>
+8] <b>Dusk KWGT</b> – Futuristic dark widgets perfect for OLED and sleek themes.<br>
+9] <b>Aqua KWGT</b> – Bright, nature-inspired widgets for vibrant layouts.<br>
+10] <b>Timeless KWGT</b> – Elegant, well-balanced widgets for classic or modern styles.<br>
 
 <div align="left">
 <a href="https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher&pli=1">
@@ -385,13 +388,13 @@
   </p>
 </div>
 
-1] Alive KWGT – Vibrant, animated widgets designed for dynamic and modern Android homescreens.<br>
-2] Fusion for KWGT – Sleek, minimal widgets with clean aesthetics for stylish setups.<br>
-3] Blended KWGT – A balanced mix of functional and artistic widgets for design harmony.<br>
-4] Foxie for KWGT – Playful, rounded widgets with elegant layouts for personalized screens.<br>
-5] PLACID KWGT – Calm, minimalist widgets ideal for clean and clutter-free homescreens.<br>
-6] One4KWGT Ultimate – A versatile widget pack offering styles from minimal to detailed.<br>
-7] iOS KWGT – iOS-style widgets for a polished, Apple-inspired Android experience.<br>
+1] <b>Alive KWGT</b> – Vibrant, animated widgets for dynamic and modern homescreens.<br>
+2] <b>Fusion for KWGT</b> – Sleek, minimal widgets with clean aesthetics for stylish setups.<br>
+3] <b>Blended KWGT</b> – A balanced mix of functional and artistic widgets for visual harmony.<br>
+4] <b>Foxie for KWGT</b> – Playful, rounded widgets with elegant layouts for personalized screens.<br>
+5] <b>PLACID KWGT</b> – Calm, minimalist widgets ideal for clean and clutter-free homescreens.<br>
+6] <b>One4KWGT Ultimate</b> – A versatile widget pack with styles ranging from minimal to detailed.<br>
+7] <b>iOS KWGT</b> – iOS-style widgets bringing a polished Apple-like experience to Android.<br>
  
 <div align="left">
   <a href="https://play.google.com/store/apps/details?id=com.alive.kwgt.app" target="_blank">
