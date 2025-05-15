@@ -1,6 +1,6 @@
 <!-- Desktop setup -->
 
-<!--<div align="center">
+<div align="center">
   <img width="220px" src="https://cdn1.iconfinder.com/data/icons/operating-system-flat-1/30/windows_7-512.png" alt="Windows OS">
 </div>
 
@@ -571,7 +571,6 @@
 </div>
 
 
--->
 
 
 
