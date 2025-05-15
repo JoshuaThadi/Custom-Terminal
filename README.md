@@ -358,7 +358,7 @@
   <a href="https://www.kali.org/get-kali/#kali-platforms" target="_blank">
   <img src="https://img.shields.io/badge/Kali%20Linux-Download-4D5054?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux: Download"></a>
   <a href="https://www.kali.org/docs/wsl/wsl-preparations/" target="_blank">
-  <img src="https://img.shields.io/badge/Kali%20WSL-Preparation-4D5054?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali WSL Preparation Guide"></a>
+  <img src="https://img.shields.io/badge/Kali%20WSL-Document-4D5054?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali WSL Preparation Guide"></a>
 
 <p>Kali Linux is a Debian‑based distribution purpose‑built for digital forensics and penetration testing. Maintained and funded by Offensive Security, it succeeds BackTrack Linux and brings over 600 preinstalled security‑related tools—ranging from vulnerability scanners (like OpenVAS and Nikto) and password crackers (John the Ripper, Hashcat) to wireless‑attack utilities (Aircrack-ng, Reaver) and reverse‐engineering platforms (Radare2, Ghidra).</p>
 
@@ -377,13 +377,14 @@
 <div align="left">
 
 <a href="https://archlinux.org/download/" target="_blank">
-  <img src="https://img.shields.io/badge/Arch%20Linux-Download-4D5054?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch Linux: Download Page"></a>
+  <img src="https://img.shields.io/badge/Arch%20Linux-4D5054?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch Linux: Download Page"></a>
+<a href="https://archcraft.io/" target="_blank">
+  <img src="https://img.shields.io/badge/Archcraft-.io-4D5054?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Archcraft: Visit Website"></a>
 <a href="https://apps.microsoft.com/detail/9mznmnksm73x?hl=en-US&gl=US" target="_blank">
   <img src="https://img.shields.io/badge/Microsoft%20Store-Download-4D5054?style=for-the-badge&logo=jetbrains&logoColor=white" alt="Microsoft Store: Download"></a>
 <a href="https://wiki.archlinux.org/title/Install_Arch_Linux_on_WSL" target="_blank">
   <img src="https://img.shields.io/badge/Arch%20Wiki-Install%20on%20WSL-4D5054?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch Wiki: Install Arch on WSL"></a>
-<a href="https://archcraft.io/" target="_blank">
-  <img src="https://img.shields.io/badge/Archcraft-.io-4D5054?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Archcraft: Visit Website"></a>
+
 <p>Arch Linux is a lightweight and flexible Linux distribution that adheres to the KISS (Keep It Simple, Stupid) principle. It is designed for users who want full control over their operating system, offering a minimal base system that can be built upon with only the packages you need.</p>
 
 
