@@ -7,20 +7,21 @@
 <h1 align="center"><img width="40px" src="https://github.com/JoshuaThadi/Operating-System-Environment/blob/main/Desk%26Mob/fogoAzul.gif"> Linux Professional Setup</h1>
 
 <div align="center">
-<a href="https://github.com/torvalds/linux" target="_blank">
-    <a href="https://www.linux.org/pages/download/" target="_blank">
+  <a href="https://www.linux.org/pages/download/" target="_blank">
   <img src="https://img.shields.io/badge/Linux.org-4D5054?style=for-the-badge&logo=linux&logoColor=white" alt="Linux.org: Download Linux"></a>
+<a href="https://github.com/torvalds/linux" target="_blank">
   <img src="https://img.shields.io/badge/Linux-GitHub-4D5054?style=for-the-badge&logo=github&logoColor=white" alt="Linux GitHub Repository"></a>
+  <a href="https://hyprland.org/" target="_blank">
+  <img src="https://img.shields.io/badge/Hyprland-4D5054?style=for-the-badge&logo=linux&logoColor=white" alt="Hyprland: Website"></a>
+  <a href="https://youtu.be/2CP_9-jCV6A" target="_blank">
+  <img src="https://img.shields.io/badge/Hyprland_setup-4D5054?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch on YouTube"></a>
+
 <a href="https://www.virtualbox.org/wiki/Downloads" target="_blank">
   <img src="https://img.shields.io/badge/VirtualBox-Download-4D5054?style=for-the-badge&logo=virtualbox&logoColor=white" alt="VirtualBox: Download Page"></a>
 <a href="https://soft-saturn-e55.notion.site/Custom-Terminal-18846efbf3d58056907aecad3615d199" target="_blank">
   <img src="https://img.shields.io/badge/Notion-Instruction-4C4F56?style=for-the-badge&logo=notion&logoColor=white&labelColor=%234C4F56&color=%23000000" alt="Notion Custom Terminal Badge"></a>
   <a href="https://rufus.ie/en/" target="_blank">
   <img src="https://img.shields.io/badge/Rufus-Download-4D5054?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Rufus: Download Bootable USB Tool"></a></br>
-<a href="https://hyprland.org/" target="_blank">
-  <img src="https://img.shields.io/badge/Hyprland-4D5054?style=for-the-badge&logo=linux&logoColor=white" alt="Hyprland: Website"></a>
-  <a href="https://youtu.be/2CP_9-jCV6A" target="_blank">
-  <img src="https://img.shields.io/badge/Hyprland_video-4D5054?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch on YouTube"></a>
 
 
 
