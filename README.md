@@ -478,6 +478,12 @@
 7] <b>Taco Loco Icon Pack</b> – Free version of the Taco series with expressive, playful visuals.<br>
 8] <b>LineX Icon Pack</b> – Neon-outlined icons that give your homescreen a glowing futuristic look.<br>
 9] <b>Nexa Icon Pack</b> – Modern square icons with a flat, colorful design for a geometric feel.<br>
+10] <b>Pix You Cornflower Dark</b> – Sleek, muted cornflower-toned icons with a modern flat design.<br>
+11] <b>Pix Material Dark</b> – Clean material-style dark icons, ideal for AMOLED and minimal setups.<br>
+12] <b>Zwart Icon Pack</b> – Ultra-minimal black icons crafted for elegant, monochrome aesthetics.<br>
+13] <b>Black Pie Icon Pack</b> – Rounded black icons inspired by Android Pie’s shape and style.<br>
+14] <b>Dark Icon Pack</b> – Stylish, square-shaped dark icons that blend well with dark themes.<br>
+15] <b>Glassify Dark</b> – Transparent glass-effect dark icons that add depth and refinement.<br>
 
 
 <a href="https://play.google.com/store/apps/details?id=com.whicons.iconpack" target="_blank">
@@ -498,6 +504,22 @@
   <img src="https://play-lh.googleusercontent.com/lFULhC90H2Ou8tpg_8s3gPaHNz-dAq6RwpZlrcXNjP-xWrA2V4DrkoYdLDB72ka66kQ=w480-h960-rw" alt="LineX Icon Pack" width="60px"></a>
 <a href="https://play.google.com/store/apps/details?id=com.jndapp.square.nexa.iconpack" target="_blank">
   <img src="https://play-lh.googleusercontent.com/Ny438w63WoY3Fc2Udex3o46PrjOCoEErzq24610Pb6phIme9pCCR-3mPvFkpXHj90T0=w480-h960-rw" alt="Nexa Icon Pack" width="60px"></a>
+  
+  <a href="https://play.google.com/store/apps/details?id=com.arjunarora.pix_you_cornflower_dark_icons&hl=en" target="_blank">
+  <img width="60px" src="https://play-lh.googleusercontent.com/GpHZL-XkYm0AX9QNSUd5ctVtYZ1RVXmuexi3fQiqHNbymco4ekgdn9_Hd3UZymq7Vuk=w480-h960-rw" alt="Pix You Cornflower Dark on Google Play"></a>
+<a href="https://play.google.com/store/apps/details?id=com.pashapuma.pix.material.dark&hl=en" target="_blank">
+  <img width="60px" src="https://play-lh.googleusercontent.com/PCmCG9MG49lrwjQSJuxkjSo1IdQMTaVQX79IvN3FL7Md58CFfqEIJtMJFZNYhkn7Ew=w480-h960-rw" alt="Pix Material Dark on Google Play"></a>
+<a href="https://play.google.com/store/apps/details?id=com.blackiconpack.zwart&hl=en" target="_blank">
+  <img width="60px" src="https://play-lh.googleusercontent.com/_8YMNGZw5Oj4BIkdet0MgY-t2awynQe5-Z8slw1UAEW3FJFGshPEayIF9QaCb1GR-LA=w480-h960-rw" alt="Zwart Icon Pack on Google Play"></a>
+<a href="https://play.google.com/store/apps/details?id=com.fldesign.black.pie.iconpack&hl=en" target="_blank">
+  <img width="60px" src="https://play-lh.googleusercontent.com/iRTsQpToDeSjWxhPrVdC46vDXtAeTQIptngqVJ-WrzMKKjNTg7JqPzyCIWgFdRRqk5ma=w480-h960-rw" alt="Black Pie Icon Pack" width="60px"></a>
+<a href="https://play.google.com/store/apps/details?id=com.square.dark.iconpack&hl=en" target="_blank">
+  <img width="60px" src="https://play-lh.googleusercontent.com/CMoLIU6epyerWZm-ilBJi7h9e7ZOm-4jYHBP2c_061NbEAYLgsd0OXZOrgoMpDLIoQ=w480-h960-rw" alt="Dark Icon Pack" width="60px"></a>
+<a href="https://play.google.com/store/apps/details?id=com.mahmoudzadah.app.glassifydark&hl=en" target="_blank">
+  <img src="https://play-lh.googleusercontent.com/0TV_VxtKGja3EFQKCkbS68ylgiiH8NRmE3KWP90i9ZU70cHvg4_W2Ti9eXZzJzG2-f0Y=w480-h960-rw" alt="Glassify Dark on Google Play" width="60">
+</a>
+
+
 
   <div>
     <p>
@@ -519,19 +541,19 @@
 
   <a href="https://play.google.com/store/apps/details?id=moe.shizuku.privileged.api" target="_blank">
   <img src="https://play-lh.googleusercontent.com/KVK7u_AKusImrcj3i0HanLxIbCzrpIEm7BgmB1TXwZHe2SXAUGHOe6bLISO-x5xR0E0=w480-h960-rw" alt="Shizuku on Google Play" width="60px"></a>
-<a href="https://play.google.com/store/apps/details?id=de.szalkowski.activitylauncher" target="_blank">
-  <img src="https://play-lh.googleusercontent.com/NdIUGsoXrhPbKSWrubwcIlejtPGG_Q0jTAwb5W-VepwSznGAmBX1jKu44ANMnV1bhqc=w480-h960-rw" alt="Activity Launcher" width="60px"></a>
-<a href="https://github.com/topjohnwu/Magisk?tab=readme-ov-file" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/Magisk_Logo.png" alt="Magisk GitHub" width="60px"></a>
-<a href="https://lineageos.org/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/LineageOS_Logo.svg/1200px-LineageOS_Logo.svg.png" alt="LineageOS Logo" width="60px"></a>
-<a href="https://f-droid.org/en/packages/deltazero.amarok.foss/" target="_blank">
-  <img src="https://f-droid.org/repo/deltazero.amarok.foss/en-US/icon_nyBsozCF19DxPPeK3OSO-Aqw9qsckNSMymntDVZ-5-4=.png" alt="Amarok on F-Droid" width="60px"></a>
 <a href="https://play.google.com/store/apps/details?id=flar2.devcheck&hl=en_IN" target="_blank">
   <img src="https://play-lh.googleusercontent.com/7R1y-ndhCxzf_5FoRWtCkH8nySzjrjqFiWa_wSZy7CutB1g-k11Zp9wBnjGnN6FeLyzn=w480-h960-rw" alt="DevCheck App" width="60px"></a>
 <a href="https://github.com/termux/termux-app" target="_blank">
   <img src="https://play-lh.googleusercontent.com/m3oqSZCwmitiZ-Im-CQu_rqT5eLHilOp5IudBynv3COJUumFzuQaP2dgTDxRL_03f4x2=w480-h960-rw" alt="Termux" width="60px"></a>
+<a href="https://lineageos.org/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/LineageOS_Logo.svg/1200px-LineageOS_Logo.svg.png" alt="LineageOS Logo" width="60px"></a>
+<a href="https://f-droid.org/en/packages/deltazero.amarok.foss/" target="_blank">
+  <img src="https://f-droid.org/repo/deltazero.amarok.foss/en-US/icon_nyBsozCF19DxPPeK3OSO-Aqw9qsckNSMymntDVZ-5-4=.png" alt="Amarok on F-Droid" width="60px"></a>
 
+<a href="https://play.google.com/store/apps/details?id=de.szalkowski.activitylauncher" target="_blank">
+  <img src="https://play-lh.googleusercontent.com/NdIUGsoXrhPbKSWrubwcIlejtPGG_Q0jTAwb5W-VepwSznGAmBX1jKu44ANMnV1bhqc=w480-h960-rw" alt="Activity Launcher" width="60px"></a>
+<a href="https://github.com/topjohnwu/Magisk?tab=readme-ov-file" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/Magisk_Logo.png" alt="Magisk GitHub" width="60px"></a>
 
 
 
