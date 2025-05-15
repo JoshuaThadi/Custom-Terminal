@@ -320,13 +320,12 @@
     <a href="https://www.linux.org/pages/download/" target="_blank">
   <img src="https://img.shields.io/badge/Linux.org-4D5054?style=for-the-badge&logo=linux&logoColor=white" alt="Linux.org: Download Linux"></a>
   <img src="https://img.shields.io/badge/Linux-GitHub-4D5054?style=for-the-badge&logo=github&logoColor=white" alt="Linux GitHub Repository"></a>
+<a href="https://www.virtualbox.org/wiki/Downloads" target="_blank">
+  <img src="https://img.shields.io/badge/VirtualBox-Download-4D5054?style=for-the-badge&logo=virtualbox&logoColor=white" alt="VirtualBox: Download Page"></a>
    <a href="https://rufus.ie/en/" target="_blank">
   <img src="https://img.shields.io/badge/Rufus-Download-4D5054?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Rufus: Download Bootable USB Tool"></a>
 
 
-<a href="https://www.virtualbox.org/wiki/Downloads" target="_blank">
-  <img src="https://img.shields.io/badge/VirtualBox-Download-4D5054?style=for-the-badge&logo=virtualbox&logoColor=white" alt="VirtualBox: Download Page"></a>
- 
 
 </div>
 
