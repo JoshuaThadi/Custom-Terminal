@@ -96,15 +96,15 @@
 🔗<b>Polybar:</b> A fast and highly customizable status bar for window managers like i3 and bspwm.<br>
 🔗<b>Conky:</b> A lightweight system monitor for X, displaying customizable widgets on your desktop.<br>
 
+  <a href="https://github.com/brndnmtthws/conky" target="_blank">
+  <img src="https://img.shields.io/badge/Conky-github-4D5054?style=for-the-badge&logo=github&logoColor=white" alt="Conky GitHub Repo"></a>
+<a href="https://youtu.be/4l0wog4EyjA" target="_blank">
+  <img src="https://img.shields.io/badge/conky-video-4D5054?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Video"></a>
+
 <a href="https://github.com/polybar/polybar" target="_blank">
   <img src="https://img.shields.io/badge/Polybar-github-4D5054?style=for-the-badge&logo=github&logoColor=white" alt="Polybar GitHub Repo"></a>
   <a href="https://youtu.be/tOBDUBEMAKM" target="_blank">
   <img src="https://img.shields.io/badge/polybar-video-4D5054?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Video"></a>
-  
-<a href="https://youtu.be/4l0wog4EyjA" target="_blank">
-  <img src="https://img.shields.io/badge/conky-video-4D5054?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Video"></a>
-<a href="https://github.com/brndnmtthws/conky" target="_blank">
-  <img src="https://img.shields.io/badge/Conky-github-4D5054?style=for-the-badge&logo=github&logoColor=white" alt="Conky GitHub Repo"></a>
 
 
 
@@ -208,16 +208,17 @@
 🔗<b>Polybar:</b> A fast and highly customizable status bar for window managers like i3 and bspwm.<br>
 🔗<b>Conky:</b> A lightweight system monitor for X, displaying customizable widgets on your desktop.<br>
 
+  <a href="https://github.com/brndnmtthws/conky" target="_blank">
+  <img src="https://img.shields.io/badge/Conky-github-4D5054?style=for-the-badge&logo=github&logoColor=white" alt="Conky GitHub Repo"></a>
+<a href="https://youtu.be/4l0wog4EyjA" target="_blank">
+  <img src="https://img.shields.io/badge/conky-video-4D5054?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Video"></a>
 
 <a href="https://github.com/polybar/polybar" target="_blank">
   <img src="https://img.shields.io/badge/Polybar-github-4D5054?style=for-the-badge&logo=github&logoColor=white" alt="Polybar GitHub Repo"></a>
   <a href="https://youtu.be/tOBDUBEMAKM" target="_blank">
   <img src="https://img.shields.io/badge/polybar-video-4D5054?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Video"></a>
-  
-<a href="https://youtu.be/4l0wog4EyjA" target="_blank">
-  <img src="https://img.shields.io/badge/conky-video-4D5054?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Video"></a>
-<a href="https://github.com/brndnmtthws/conky" target="_blank">
-  <img src="https://img.shields.io/badge/Conky-github-4D5054?style=for-the-badge&logo=github&logoColor=white" alt="Conky GitHub Repo"></a>
+
+
 
 
 
