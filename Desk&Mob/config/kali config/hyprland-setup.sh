@@ -1,13 +1,11 @@
-# Variables
-$kaliUser = "yourUsername"
-$kaliHost = "192.168.x.x"  # Change to your Kali machine's IP
-$scriptPath = "C:\Users\you\hyprland-setup.sh"
-
-# Create Bash Script Content
-$setupScript = @"
 #!/bin/bash
+
+# Kali Linux Hyprland Setup Script
+
+echo "🔧 Updating system..."
 sudo apt update && sudo apt full-upgrade -y
 
+echo "📦 Installing dependencies..."
 sudo apt install -y \
   build-essential cmake git libwayland-dev libx11-dev \
   libxcb-composite0-dev libxcb-xinput-dev libxkbcommon-dev \
@@ -19,14 +17,17 @@ sudo apt install -y \
   dunst swww kitty lxappearance papirus-icon-theme \
   fonts-jetbrains-mono fonts-firacode grim slurp
 
+echo "📁 Cloning Hyprland..."
 cd ~
 git clone https://github.com/hyprwm/Hyprland
 cd Hyprland
 make all
 sudo make install
 
+echo "📁 Creating config directories..."
 mkdir -p ~/.config/{hypr,waybar,wlogout,rofi,wallpapers,scripts}
 
+echo "🛠️ Creating hyprland.conf..."
 cat <<EOF > ~/.config/hypr/hyprland.conf
 exec-once = waybar &
 exec-once = dunst &
@@ -52,14 +53,12 @@ decoration {
 monitor=,preferred,auto,1
 EOF
 
+echo "🧼 Writing .xinitrc..."
 echo "exec Hyprland" > ~/.xinitrc
-"@
 
-# Save to file
-$setupScript | Out-File -Encoding ASCII -FilePath $scriptPath
+echo "✅ Hyprland setup complete! Reboot and run startx to launch."
 
-# Copy to Kali (needs OpenSSH client installed)
-scp $scriptPath "$kaliUser@$kaliHost:/home/$kaliUser/hyprland-setup.sh"
 
-# SSH and run
-ssh "$kaliUser@$kaliHost" "chmod +x ~/hyprland-setup.sh && bash ~/hyprland-setup.sh"
+# then run:
+chmod +x setup-hyprland.sh
+./setup-hyprland.sh
