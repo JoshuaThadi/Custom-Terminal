@@ -93,7 +93,7 @@
 
 <h3>✫ Status Bars & Widgets</h3>
 
-🔗<b>Polybar:</b> A fast and highly customizable status bar for window managers like i3 and bspwm, ideal for lightweight Linux setups.<br>
+🔗<b>Polybar:</b> A fast and highly customizable status bar for window managers like i3 and bspwm.<br>
 🔗<b>Conky:</b> A lightweight system monitor for X, displaying customizable widgets on your desktop.<br>
 
 <a href="https://github.com/polybar/polybar" target="_blank">
@@ -205,7 +205,7 @@
   
 <h3>✫ Status Bars & Widgets</h3>
 
-🔗<b>Polybar:</b> A fast and highly customizable status bar for window managers like i3 and bspwm, ideal for lightweight Linux setups.<br>
+🔗<b>Polybar:</b> A fast and highly customizable status bar for window managers like i3 and bspwm.<br>
 🔗<b>Conky:</b> A lightweight system monitor for X, displaying customizable widgets on your desktop.<br>
 
 
