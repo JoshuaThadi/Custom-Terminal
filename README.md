@@ -92,9 +92,9 @@
 
 
 <h3>✫ Status Bars & Widgets</h3>
+
 🔗<b>Polybar:</b> A fast and highly customizable status bar for window managers like i3 and bspwm, ideal for lightweight Linux setups.<br>
-🔗<b>Conky:</b> A lightweight system monitor for X, displaying customizable widgets on your desktop.
-<br>
+🔗<b>Conky:</b> A lightweight system monitor for X, displaying customizable widgets on your desktop.<br>
 
 <a href="https://github.com/polybar/polybar" target="_blank">
   <img src="https://img.shields.io/badge/Polybar-github-4D5054?style=for-the-badge&logo=github&logoColor=white" alt="Polybar GitHub Repo"></a>
@@ -147,9 +147,9 @@
 
 
 <h3>✫ Status Bars & Widgets</h3>
+
 🔗<b>Waybar:</b> A highly customizable status bar for Wayland compositors like Hyprland and Sway.<br>
-🔗<b>EWW:</b> ElKowar’s Wacky Widgets — a highly configurable widget system for Linux desktops.
-<br>
+🔗<b>EWW:</b> ElKowar’s Wacky Widgets — a highly configurable widget system for Linux desktops.<br>
 
 <a href="https://github.com/Alexays/Waybar" target="_blank">
   <img src="https://img.shields.io/badge/Waybar-github-4D5054?style=for-the-badge&logo=github&logoColor=white" alt="Waybar GitHub Repo"></a>
@@ -204,9 +204,9 @@
 
   
 <h3>✫ Status Bars & Widgets</h3>
+
 🔗<b>Polybar:</b> A fast and highly customizable status bar for window managers like i3 and bspwm, ideal for lightweight Linux setups.<br>
-🔗<b>Conky:</b> A lightweight system monitor for X, displaying customizable widgets on your desktop.
-<br>
+🔗<b>Conky:</b> A lightweight system monitor for X, displaying customizable widgets on your desktop.<br>
 
 
 <a href="https://github.com/polybar/polybar" target="_blank">
