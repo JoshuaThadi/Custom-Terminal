@@ -138,12 +138,32 @@
   <img src="https://img.shields.io/badge/feh-GitHub-4D5054?style=for-the-badge&logo=github&logoColor=white" alt="feh GitHub Repository"></a>
 
 
+<h3>❂ Terminal Setup</h3>
 
+🔗<b>Powerlevel10k:</b> A fast and feature-rich Zsh theme with stunning visuals and prompt customization.<br>
+🔗<b>Oh My Zsh:</b> A delightful open-source framework for managing your Zsh configuration.<br>
+🔗<b>Starship:</b> A blazing-fast, minimal, and customizable prompt for any shell.<br>
 
+<a href="https://github.com/romkatv/powerlevel10k" target="_blank"> 
+  <img src="https://img.shields.io/badge/Powerlevel10k-GitHub-4D5054?style=for-the-badge&logo=github&logoColor=white" alt="Powerlevel10k GitHub Repository"></a>
+
+<a href="https://ohmyz.sh/" target="_blank"> 
+  <img src="https://img.shields.io/badge/Oh_My_Zsh-Website-4D5054?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Oh My Zsh Website"></a> 
+<a href="https://starship.rs/" target="_blank"> 
+  <img src="https://img.shields.io/badge/Starship-Website-4D5054?style=for-the-badge&logo=starship&logoColor=white" alt="Starship Website"></a> 
 
 
 
 </div>
+
+<div>
+  <p>
+    <h1></h1>
+  </p>
+</div>
+
+
+<img width="100%" src="https://github.com/XNM1/linux-nixos-hyprland-config-dotfiles/raw/main/home/Pictures/Screenshots/screenshot-2.png" alt="Screenshot 35">
 
 
 
@@ -225,12 +245,35 @@
   <img src="https://img.shields.io/badge/Variety-GitHub-4D5054?style=for-the-badge&logo=github&logoColor=white" alt="Variety GitHub Repository"></a>
 
   
+<h3>❂ Terminal Setup</h3>
+
+🔗<b>Powerlevel10k:</b> A fast and feature-rich Zsh theme with stunning visuals and prompt customization.<br>
+🔗<b>Oh My Zsh:</b> A delightful open-source framework for managing your Zsh configuration.<br>
+🔗<b>Starship:</b> A blazing-fast, minimal, and customizable prompt for any shell.<br>
+
+<a href="https://github.com/romkatv/powerlevel10k" target="_blank"> 
+  <img src="https://img.shields.io/badge/Powerlevel10k-GitHub-4D5054?style=for-the-badge&logo=github&logoColor=white" alt="Powerlevel10k GitHub Repository"></a>
+
+<a href="https://ohmyz.sh/" target="_blank"> 
+  <img src="https://img.shields.io/badge/Oh_My_Zsh-Website-4D5054?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Oh My Zsh Website"></a> 
+<a href="https://starship.rs/" target="_blank"> 
+  <img src="https://img.shields.io/badge/Starship-Website-4D5054?style=for-the-badge&logo=starship&logoColor=white" alt="Starship Website"></a> 
 
 
-  
 
   
 </div>
+
+<div>
+  <p>
+    <h1></h1>
+  </p>
+</div>
+
+
+
+<img width="100%" src="https://raw.githubusercontent.com/archcraft-os/misc-files/main/screenshots/hyprland/style_2/main.png" alt="Screenshot 35">
+
 
 
 
@@ -312,11 +355,35 @@
 
 
 
+<h3>❂ Terminal Setup</h3>
+
+🔗<b>Powerlevel10k:</b> A fast and feature-rich Zsh theme with stunning visuals and prompt customization.<br>
+🔗<b>Oh My Zsh:</b> A delightful open-source framework for managing your Zsh configuration.<br>
+🔗<b>Starship:</b> A blazing-fast, minimal, and customizable prompt for any shell.<br>
+
+<a href="https://github.com/romkatv/powerlevel10k" target="_blank"> 
+  <img src="https://img.shields.io/badge/Powerlevel10k-GitHub-4D5054?style=for-the-badge&logo=github&logoColor=white" alt="Powerlevel10k GitHub Repository"></a>
+<a href="https://ohmyz.sh/" target="_blank"> 
+  <img src="https://img.shields.io/badge/Oh_My_Zsh-Website-4D5054?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Oh My Zsh Website"></a> 
+<a href="https://starship.rs/" target="_blank"> 
+  <img src="https://img.shields.io/badge/Starship-Website-4D5054?style=for-the-badge&logo=starship&logoColor=white" alt="Starship Website"></a> 
+
 
 
   
   
 </div>
+
+<div>
+  <p>
+    <h1></h1>
+  </p>
+</div>
+
+
+<img width="100%" src="https://raw.githubusercontent.com/while1618/hyprland-install-script/refs/heads/main/screenshots/screenshot_1.png" alt="Screenshot 35">
+
+
 
 
 
@@ -329,10 +396,15 @@
   <img src="https://img.shields.io/badge/Youtube-Ricing_linux-4D5054?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Playlist: Watch Now"></a>
 
 
+<div>
+  <p>
+    <h1></h1>
+  </p>
+</div>
 
 
 
-
+<img width="100%" src="https://raw.githubusercontent.com/archcraft-os/misc-files/main/screenshots/hyprland/style_1/main.png" alt="Screenshot 35">
 
 
 
@@ -492,7 +564,7 @@
     <h1></h1>
   </p>
 </div>
-<p align="center">
+
 <img width="100%" src="https://github.com/JoshuaThadi/Operating-System-Environment/blob/main/Desk%26Mob/Screenshot%20(35).png?raw=true" alt="Screenshot 35">
 <img width="100%" src="https://github.com/JoshuaThadi/Operating-System-Environment/blob/main/Desk%26Mob/Screenshot%20(33).png?raw=true" alt="Screenshot 33">
 
