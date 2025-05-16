@@ -2,10 +2,10 @@
 
 # Kali Linux Hyprland Setup Script
 
-echo "🔧 Updating system..."
+echo "Updating system..."
 sudo apt update && sudo apt full-upgrade -y
 
-echo "📦 Installing dependencies..."
+echo "Installing dependencies..."
 sudo apt install -y \
   build-essential cmake git libwayland-dev libx11-dev \
   libxcb-composite0-dev libxcb-xinput-dev libxkbcommon-dev \
@@ -17,17 +17,17 @@ sudo apt install -y \
   dunst swww kitty lxappearance papirus-icon-theme \
   fonts-jetbrains-mono fonts-firacode grim slurp
 
-echo "📁 Cloning Hyprland..."
+echo "Cloning Hyprland..."
 cd ~
 git clone https://github.com/hyprwm/Hyprland
 cd Hyprland
 make all
 sudo make install
 
-echo "📁 Creating config directories..."
+echo "Creating config directories..."
 mkdir -p ~/.config/{hypr,waybar,wlogout,rofi,wallpapers,scripts}
 
-echo "🛠️ Creating hyprland.conf..."
+echo "Creating hyprland.conf..."
 cat <<EOF > ~/.config/hypr/hyprland.conf
 exec-once = waybar &
 exec-once = dunst &
@@ -53,12 +53,7 @@ decoration {
 monitor=,preferred,auto,1
 EOF
 
-echo "🧼 Writing .xinitrc..."
+echo "Writing .xinitrc..."
 echo "exec Hyprland" > ~/.xinitrc
 
-echo "✅ Hyprland setup complete! Reboot and run startx to launch."
-
-
-# then run:
-chmod +x setup-hyprland.sh
-./setup-hyprland.sh
+echo "Hyprland setup complete! Reboot and run startx to launch."
