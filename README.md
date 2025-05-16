@@ -106,6 +106,23 @@
   <a href="https://youtu.be/tOBDUBEMAKM" target="_blank">
   <img src="https://img.shields.io/badge/polybar-video-4D5054?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Video"></a>
 
+<h3>✬ Application Launchers</h3>
+
+🔗<b>Ulauncher:</b> A fast application launcher for Linux with extension support.<br>
+🔗<b>Rofi:</b> A window switcher, run launcher, and dmenu replacement for X11.<br>
+
+<a href="https://ulauncher.io/" target="_blank">
+  <img src="https://img.shields.io/badge/Ulauncher-website-4D5054?style=for-the-badge&logo=launchpad&logoColor=white" alt="Ulauncher Website"></a>
+<a href="https://youtu.be/h1yIY1BwetQ" target="_blank">
+  <img src="https://img.shields.io/badge/Ulauncher-demo-4D5054?style=for-the-badge&logo=youtube&logoColor=white" alt="Polybar YouTube Video"></a>
+<a href="https://github.com/davatorium/rofi" target="_blank">
+  <img src="https://img.shields.io/badge/Rofi-github-4D5054?style=for-the-badge&logo=github&logoColor=white" alt="Rofi GitHub Repo"></a>
+
+<h3>✮ Wallpapers & fonts themes</h3>
+
+
+
+
 
 
 
@@ -161,6 +178,20 @@
   <img src="https://img.shields.io/badge/eww-Video-4D5054?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Video"></a>
 
 
+<h3>✬ Application Launchers</h3>
+
+🔗<b>Ulauncher:</b> A fast application launcher for Linux with extension support.<br>
+🔗<b>Wofi:</b> A Wayland-native launcher menu similar to Rofi, built with GTK.<br>
+
+<a href="https://ulauncher.io/" target="_blank">
+  <img src="https://img.shields.io/badge/Ulauncher-website-4D5054?style=for-the-badge&logo=launchpad&logoColor=white" alt="Ulauncher Website"></a>
+  <a href="https://youtu.be/h1yIY1BwetQ" target="_blank">
+  <img src="https://img.shields.io/badge/Ulauncher-demo-4D5054?style=for-the-badge&logo=youtube&logoColor=white" alt="Polybar YouTube Video"></a>
+
+<a href="https://github.com/SimplyCEO/wofi" target="_blank">
+  <img src="https://img.shields.io/badge/Wofi-github-4D5054?style=for-the-badge&logo=github&logoColor=white" alt="Wofi GitHub Repo"></a>
+
+<h3>✮ Wallpapers & fonts themes</h3>
 
 
 
@@ -217,6 +248,21 @@
   <img src="https://img.shields.io/badge/Polybar-github-4D5054?style=for-the-badge&logo=github&logoColor=white" alt="Polybar GitHub Repo"></a>
   <a href="https://youtu.be/tOBDUBEMAKM" target="_blank">
   <img src="https://img.shields.io/badge/polybar-video-4D5054?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Video"></a>
+
+<h3>✬ Application Launchers</h3>
+
+🔗<b>Ulauncher:</b> A fast application launcher for Linux with extension support.<br>
+🔗<b>Rofi:</b> A window switcher, run launcher, and dmenu replacement for X11.<br>
+
+<a href="https://ulauncher.io/" target="_blank">
+  <img src="https://img.shields.io/badge/Ulauncher-website-4D5054?style=for-the-badge&logo=launchpad&logoColor=white" alt="Ulauncher Website"></a>
+  <a href="https://youtu.be/h1yIY1BwetQ" target="_blank">
+  <img src="https://img.shields.io/badge/Ulauncher-demo-4D5054?style=for-the-badge&logo=youtube&logoColor=white" alt="Polybar YouTube Video"></a>
+
+<a href="https://github.com/davatorium/rofi" target="_blank">
+  <img src="https://img.shields.io/badge/Rofi-github-4D5054?style=for-the-badge&logo=github&logoColor=white" alt="Rofi GitHub Repo"></a>
+
+<h3>✮ Wallpapers & fonts themes</h3>
 
 
 
