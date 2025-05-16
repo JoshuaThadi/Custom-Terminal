@@ -52,12 +52,7 @@
 
 <div align="left">
   
-  <a href="https://apps.microsoft.com/detail/9pkr34tncv07?hl=en-US&gl=US" target="_blank">
-  <img src="https://img.shields.io/badge/Microsoft%20Store-Download-4D5054?style=for-the-badge&logo=jetbrains&logoColor=white" alt="Microsoft Store: Download App"></a>
-  <a href="https://www.kali.org/get-kali/#kali-platforms" target="_blank">
-  <img src="https://img.shields.io/badge/Kali%20Linux-Download-4D5054?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux: Download"></a>
-  <a href="https://www.kali.org/docs/wsl/wsl-preparations/" target="_blank">
-  <img src="https://img.shields.io/badge/Kali%20WSL-Document-4D5054?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali WSL Preparation Guide"></a>
+ 
 
 <p>Kali Linux is a Debian‑based distribution purpose‑built for digital forensics and penetration testing. Maintained and funded by Offensive Security, it succeeds BackTrack Linux and brings over 600 preinstalled security‑related tools—ranging from vulnerability scanners (like OpenVAS and Nikto) and password crackers (John the Ripper, Hashcat) to wireless‑attack utilities (Aircrack-ng, Reaver) and reverse‐engineering platforms (Radare2, Ghidra).</p>
 
@@ -67,6 +62,13 @@
 🔗<b>Xfce:</b> Default lightweight desktop environment in Kali.<br>
 🔗<b>GNOME:</b> Modern and user-friendly desktop environment.<br>
 🔗<b>KDE Plasma:</b> Highly customizable desktop environment.<br>
+
+ <a href="https://apps.microsoft.com/detail/9pkr34tncv07?hl=en-US&gl=US" target="_blank">
+  <img src="https://img.shields.io/badge/Microsoft%20Store-Download-4D5054?style=for-the-badge&logo=jetbrains&logoColor=white" alt="Microsoft Store: Download App"></a>
+  <a href="https://www.kali.org/get-kali/#kali-platforms" target="_blank">
+  <img src="https://img.shields.io/badge/Kali%20Linux-Download-4D5054?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux: Download"></a>
+  <a href="https://www.kali.org/docs/wsl/wsl-preparations/" target="_blank">
+  <img src="https://img.shields.io/badge/Kali%20WSL-Document-4D5054?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali WSL Preparation Guide"></a><br>
 
 
 <a href="https://www.kali.org/blog/kali-linux-2024-2-release/" target="_blank">
@@ -99,12 +101,6 @@
 
 <div align="left">
 
-<a href="https://archlinux.org/download/" target="_blank">
-  <img src="https://img.shields.io/badge/Arch%20Linux-4D5054?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch Linux: Download Page"></a>
-<a href="https://apps.microsoft.com/detail/9mznmnksm73x?hl=en-US&gl=US" target="_blank">
-  <img src="https://img.shields.io/badge/Microsoft-arch-4D5054?style=for-the-badge&logo=jetbrains&logoColor=white" alt="Microsoft Store: Download"></a>
-<a href="https://wiki.archlinux.org/title/Install_Arch_Linux_on_WSL" target="_blank">
-  <img src="https://img.shields.io/badge/Arch%20Wiki-Install%20on%20WSL-4D5054?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch Wiki: Install Arch on WSL"></a>
 
 <p>Arch Linux is a lightweight and flexible Linux distribution that adheres to the KISS (Keep It Simple, Stupid) principle. It is designed for users who want full control over their operating system, offering a minimal base system that can be built upon with only the packages you need.</p>
 
@@ -113,6 +109,13 @@
 
 🔗<b>Hyprland:</b> A dynamic tiling Wayland compositor with modern animations and effects.<br>
 🔗<b>Archcraft:</b> A sleek Arch-based Linux distro focused on beauty, minimalism, and out-of-the-box themes.</br>
+
+<a href="https://archlinux.org/download/" target="_blank">
+  <img src="https://img.shields.io/badge/Arch%20Linux-4D5054?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch Linux: Download Page"></a>
+<a href="https://apps.microsoft.com/detail/9mznmnksm73x?hl=en-US&gl=US" target="_blank">
+  <img src="https://img.shields.io/badge/Microsoft-arch-4D5054?style=for-the-badge&logo=jetbrains&logoColor=white" alt="Microsoft Store: Download"></a>
+<a href="https://wiki.archlinux.org/title/Install_Arch_Linux_on_WSL" target="_blank">
+  <img src="https://img.shields.io/badge/Arch%20Wiki-Install%20on%20WSL-4D5054?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch Wiki: Install Arch on WSL"></a><br>
 
 
 <a href="https://youtu.be/lfUWwZqzHmA" target="_blank">
@@ -133,10 +136,6 @@
 <div align="left">
 
   
-<a href="https://github.com/sileshn/EndeavourOSWSL2" target="_blank">
-  <img src="https://img.shields.io/badge/EndeavourOSWSL2-github-4D5054?style=for-the-badge&logo=github&logoColor=white" alt="EndeavourOSWSL2 GitHub Repo"></a>
-  <a href="https://endeavouros.com/" target="_blank">
-  <img src="https://img.shields.io/badge/EndeavourOS-Visit-4D5054?style=for-the-badge&logo=linux&logoColor=white" alt="EndeavourOS: Visit Official Site"></a>
 <p>EndeavourOS is a user-friendly, Arch-based Linux distribution that combines the power and flexibility of Arch Linux with a more approachable setup experience. Designed for users who appreciate Arch’s rolling release model and community-driven ecosystem but prefer a streamlined installation and usable out-of-the-box environment, EndeavourOS strikes a balance between minimalism and usability.</p>
 
 
@@ -146,6 +145,7 @@
 🔗<b>Xfce:</b> Default desktop environment in EndeavourOS.<br>
 🔗<b>KDE Plasma:</b> Feature-rich and highly customizable desktop environment.<br>
 
+
   <a href="https://youtu.be/GlKX6_HpZKc" target="_blank">
   <img src="https://img.shields.io/badge/Endeavouros_KDE_Plasma-setup-4D5054?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch on YouTube"></a>
 
@@ -153,7 +153,12 @@
   <img src="https://img.shields.io/badge/EndeavourOS_hyperland-setup-4D5054?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube: Watch Now"></a>
 
 <a href="https://youtu.be/4wfZI6C9Lrs" target="_blank">
-  <img src="https://img.shields.io/badge/Endeavouros_xfce-setup-4D5054?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch on YouTube"></a>
+  <img src="https://img.shields.io/badge/Endeavouros_xfce-setup-4D5054?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch on YouTube"></a><br>
+
+  <a href="https://github.com/sileshn/EndeavourOSWSL2" target="_blank">
+  <img src="https://img.shields.io/badge/EndeavourOSWSL2-github-4D5054?style=for-the-badge&logo=github&logoColor=white" alt="EndeavourOSWSL2 GitHub Repo"></a>
+  <a href="https://endeavouros.com/" target="_blank">
+  <img src="https://img.shields.io/badge/EndeavourOS-Visit-4D5054?style=for-the-badge&logo=linux&logoColor=white" alt="EndeavourOS: Visit Official Site"></a>
 
 
 
