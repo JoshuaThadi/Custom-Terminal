@@ -91,6 +91,25 @@
 
 
 
+<h3>✫ Status Bars & Widgets</h3>
+🔗<b>Polybar:</b> A fast and highly customizable status bar for window managers like i3 and bspwm, ideal for lightweight Linux setups.<br>
+🔗<b>Conky:</b> A lightweight system monitor for X, displaying customizable widgets on your desktop.
+<br>
+
+<a href="https://github.com/polybar/polybar" target="_blank">
+  <img src="https://img.shields.io/badge/Polybar-github-4D5054?style=for-the-badge&logo=github&logoColor=white" alt="Polybar GitHub Repo"></a>
+  <a href="https://youtu.be/tOBDUBEMAKM" target="_blank">
+  <img src="https://img.shields.io/badge/polybar-video-4D5054?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Video"></a>
+<a href="https://github.com/brndnmtthws/conky" target="_blank">
+  <img src="https://img.shields.io/badge/Conky-github-4D5054?style=for-the-badge&logo=github&logoColor=white" alt="Conky GitHub Repo"></a>
+<a href="https://youtu.be/4l0wog4EyjA" target="_blank">
+  <img src="https://img.shields.io/badge/conky-video-4D5054?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Video"></a>
+
+
+
+
+
+
 
 </div>
 
@@ -126,6 +145,29 @@
 <a href="https://archcraft.io/" target="_blank">
   <img src="https://img.shields.io/badge/Archcraft-.io-4D5054?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Archcraft: Visit Website"></a>
 
+
+<h3>✫ Status Bars & Widgets</h3>
+🔗<b>Waybar:</b> A highly customizable status bar for Wayland compositors like Hyprland and Sway.<br>
+🔗<b>EWW:</b> ElKowar’s Wacky Widgets — a highly configurable widget system for Linux desktops.
+<br>
+
+<a href="https://github.com/Alexays/Waybar" target="_blank">
+  <img src="https://img.shields.io/badge/Waybar-github-4D5054?style=for-the-badge&logo=github&logoColor=white" alt="Waybar GitHub Repo"></a>
+<a href="https://github.com/elkowar/eww" target="_blank">
+  <img src="https://img.shields.io/badge/EWW-github-4D5054?style=for-the-badge&logo=github&logoColor=white" alt="EWW GitHub Repo"></a>
+<a href="https://youtu.be/rW3JKs1_oVI" target="_blank">
+  <img src="https://img.shields.io/badge/waybar-video-4D5054?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Video"></a>
+<a href="https://youtu.be/UP3pJT1-UoQ" target="_blank">
+  <img src="https://img.shields.io/badge/eww-Video-4D5054?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Video"></a>
+
+
+
+
+
+
+
+  
+
   
 </div>
 
@@ -159,6 +201,23 @@
   <img src="https://img.shields.io/badge/EndeavourOSWSL2-github-4D5054?style=for-the-badge&logo=github&logoColor=white" alt="EndeavourOSWSL2 GitHub Repo"></a>
   <a href="https://endeavouros.com/" target="_blank">
   <img src="https://img.shields.io/badge/EndeavourOS-Visit-4D5054?style=for-the-badge&logo=linux&logoColor=white" alt="EndeavourOS: Visit Official Site"></a>
+
+  
+<h3>✫ Status Bars & Widgets</h3>
+🔗<b>Polybar:</b> A fast and highly customizable status bar for window managers like i3 and bspwm, ideal for lightweight Linux setups.<br>
+🔗<b>Conky:</b> A lightweight system monitor for X, displaying customizable widgets on your desktop.
+<br>
+
+
+<a href="https://github.com/polybar/polybar" target="_blank">
+  <img src="https://img.shields.io/badge/Polybar-github-4D5054?style=for-the-badge&logo=github&logoColor=white" alt="Polybar GitHub Repo"></a>
+  <a href="https://youtu.be/tOBDUBEMAKM" target="_blank">
+  <img src="https://img.shields.io/badge/polybar-video-4D5054?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Video"></a>
+<a href="https://github.com/brndnmtthws/conky" target="_blank">
+  <img src="https://img.shields.io/badge/Conky-github-4D5054?style=for-the-badge&logo=github&logoColor=white" alt="Conky GitHub Repo"></a>
+<a href="https://youtu.be/4l0wog4EyjA" target="_blank">
+  <img src="https://img.shields.io/badge/conky-video-4D5054?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Video"></a>
+
 
 
 
