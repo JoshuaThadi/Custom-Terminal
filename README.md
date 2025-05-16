@@ -567,9 +567,11 @@ Windows ricing refers to customizing the appearance and functionality of the Win
 </p>
 
 <a href="https://github.com/winthemers/wiki" target="_blank"> 
-  <img src="https://img.shields.io/badge/Winthemers-Windows%20Ricing%20Wiki-4D5054?style=for-the-badge&logo=windows&logoColor=white" alt="Windows Ricing Wiki"></a>
-  <a href="https://github.com/iDCoded/Windows-Rice" target="_blank"> 
-  <img src="https://img.shields.io/badge/iDCoded-Windows%20Rice-4D5054?style=for-the-badge&logo=windows&logoColor=white" alt="iDCoded Windows Rice Repo"></a>
+  <img src="https://img.shields.io/badge/Winthemers-Windows%20Ricing%20Wiki-4D5054?style=for-the-badge&logo=github&logoColor=white" alt="Windows Ricing Wiki"></a>
+  <a href="https://gist.github.com/triplrrr/d2250db71f0b3a93ed60daa65fe5668f" target="_blank"> 
+  <img src="https://img.shields.io/badge/triplrrr-Gist%20Ricing%20Guide-4D5054?style=for-the-badge&logo=github&logoColor=white" alt="triplrrr Gist Ricing Guide"></a>
+ <a href="https://github.com/iDCoded/Windows-Rice" target="_blank"> 
+  <img src="https://img.shields.io/badge/iDCoded-Windows%20Rice-4D5054?style=for-the-badge&logo=github&logoColor=white" alt="iDCoded Windows Rice Repo"></a>
 
 
 <div>
