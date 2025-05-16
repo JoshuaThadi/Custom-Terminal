@@ -272,7 +272,7 @@
 
 
 
-<img width="100%" src="https://raw.githubusercontent.com/archcraft-os/misc-files/main/screenshots/hyprland/style_2/main.png" alt="Screenshot 35">
+<img width="100%" src="https://miro.medium.com/v2/resize%3Afit%3A1200/0%2AWPaeR7vfES5xfS6v.jpg" alt="Screenshot 35">
 
 
 
@@ -381,7 +381,7 @@
 </div>
 
 
-<img width="100%" src="https://raw.githubusercontent.com/while1618/hyprland-install-script/refs/heads/main/screenshots/screenshot_1.png" alt="Screenshot 35">
+<img width="100%" src="https://i.redd.it/tgkqfzdr6d0a1.jpg" alt="Screenshot 35">
 
 
 
@@ -392,8 +392,11 @@
 <div>
 <p>"Ricing" is a term from the customization community that refers to personalizing and beautifying your Linux desktop environment to reflect your unique aesthetic and workflow. It goes beyond simple theming—ricing is about crafting a visually cohesive, minimal, or eye-catching setup by configuring window managers, status bars, terminals, icons, fonts, and more.</p>
 
+<a href="https://jie-fang.github.io/blog/basics-of-ricing" target="_blank"> 
+  <img src="https://img.shields.io/badge/Jie%20Fang's%20Blog-Ricing%20Basics-4D5054?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Jie Fang Ricing Blog"></a>
 <a href="https://youtu.be/SRqVuAUP2N0?list=PLAoJfvFSn6qhgOX6guQqfGfUMJY8119kk" target="_blank">
   <img src="https://img.shields.io/badge/Youtube-Ricing_linux-4D5054?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Playlist: Watch Now"></a>
+  
 
 
 <div>
@@ -410,9 +413,6 @@
 
   
 </div>
-
-
-
 
 
 
@@ -559,6 +559,19 @@
   
 </div>
 
+<h2><img width="20px" src="https://cdn-icons-png.flaticon.com/512/1531/1531385.png"> Ricing on Windows</h2>
+
+<div>
+<p>
+Windows ricing refers to customizing the appearance and functionality of the Windows desktop environment to achieve a unique, aesthetic, and often minimalistic or themed look.
+</p>
+
+<a href="https://github.com/winthemers/wiki" target="_blank"> 
+  <img src="https://img.shields.io/badge/Winthemers-Windows%20Ricing%20Wiki-4D5054?style=for-the-badge&logo=windows&logoColor=white" alt="Windows Ricing Wiki"></a>
+  <a href="https://github.com/iDCoded/Windows-Rice" target="_blank"> 
+  <img src="https://img.shields.io/badge/iDCoded-Windows%20Rice-4D5054?style=for-the-badge&logo=windows&logoColor=white" alt="iDCoded Windows Rice Repo"></a>
+
+
 <div>
   <p>
     <h1></h1>
@@ -567,6 +580,7 @@
 
 <img width="100%" src="https://github.com/JoshuaThadi/Operating-System-Environment/blob/main/Desk%26Mob/Screenshot%20(35).png?raw=true" alt="Screenshot 35">
 <img width="100%" src="https://github.com/JoshuaThadi/Operating-System-Environment/blob/main/Desk%26Mob/Screenshot%20(33).png?raw=true" alt="Screenshot 33">
+<img width="100%" src="https://preview.redd.it/win11-ricing-attempt-v0-5efenhzp64jd1.png?width=1080&crop=smart&auto=webp&s=962ea0ffb2b7cf7f6a0c73e192b2527a3ceae4a9" alt="Screenshot 33">
 
 
 
@@ -722,15 +736,34 @@
   
 </div>
 
+
+
+<h2><img width="20px" src="https://cdn-icons-png.flaticon.com/512/1531/1531385.png"> Ricing on MacOS</h2>
+
+<div>
+<p>
+macOS ricing refers to customizing and enhancing the look, feel, and functionality of the macOS desktop environment. 
+On macOS, while customization is more limited due to Apple’s system restrictions, it's still possible to achieve a beautiful and productive setup using non-intrusive tools.
+</p>
+
+<a href="https://igorbedesqui.com/writing/macos-rice" target="_blank"> 
+  <img src="https://img.shields.io/badge/Igor%20Bedesqui-macOS%20Rice-4D5054?style=for-the-badge&logo=apple&logoColor=white" alt="macOS Ricing Article"></a>
+
+<a href="https://www.nexxel.dev/blog/ricing-macos" target="_blank"> 
+  <img src="https://img.shields.io/badge/Nexxel-macOS%20Ricing-4D5054?style=for-the-badge&logo=apple&logoColor=white" alt="Nexxel macOS Ricing Blog"></a>
+
+
 <div>
   <p>
     <h1></h1>
   </p>
 </div>
 
+
+
 <img width="100%" src="https://leading-bell-3e1c02e64d.media.strapiapp.com/open_graph_1218_12e0c3f475.png" alt="macosimg">
 <img width="100%" src="https://github.com/JoshuaThadi/Operating-System-Environment/blob/main/Desk%26Mob/Screenshot%202025-05-14%20210724.png" alt="macosimg">
-
+<img width="100%" src="https://preview.redd.it/amethyst-my-first-attempt-at-ricing-macos-v0-vb9bzjzmt3vd1.png?width=1080&crop=smart&auto=webp&s=402f8b40dd0683a2b2105bdde054a99608a8a0ad" alt="macosimg">
 
 
 
