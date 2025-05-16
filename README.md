@@ -120,7 +120,22 @@
 
 <h3>✮ Wallpapers & fonts themes</h3>
 
+🔗<b>Kali Wallpapers:</b> Official collection of high-resolution wallpapers from the Kali Linux project.<br>
+🔗<b>Nord Theme:</b> A sleek arctic, north-bluish color palette for apps and UIs.<br>
+🔗<b>Catppuccin:</b> Soothing pastel theme for many applications and environments, available on GitHub.<br>
+🔗<b>feh:</b> A lightweight and fast image viewer often used to set wallpapers on Linux.<br>
 
+<a href="https://www.kali.org/wallpapers/" target="_blank">
+  <img src="https://img.shields.io/badge/Kali_Wallpapers-Official_Site-4D5054?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux Wallpapers Official Site"></a>
+
+<a href="https://www.nordtheme.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Nord_Theme-Website-4D5054?style=for-the-badge&logo=snowflake&logoColor=white" alt="Nord Theme Website"></a>
+
+<a href="https://github.com/catppuccin" target="_blank">
+  <img src="https://img.shields.io/badge/Catppuccin-GitHub-4D5054?style=for-the-badge&logo=github&logoColor=white" alt="Catppuccin GitHub Repository"></a>
+
+<a href="https://github.com/derf/feh" target="_blank">
+  <img src="https://img.shields.io/badge/feh-GitHub-4D5054?style=for-the-badge&logo=github&logoColor=white" alt="feh GitHub Repository"></a>
 
 
 
@@ -192,8 +207,24 @@
 
 <h3>✮ Wallpapers & fonts themes</h3>
 
+🔗<b>Arch Wallpapers:</b> A community thread sharing minimal and aesthetic wallpapers for Arch Linux users.<br>
+🔗<b>Nord Theme:</b> An arctic, north-bluish color palette designed for elegance and readability across applications.<br>
+🔗<b>Catppuccin:</b> A soothing pastel-themed UI customization framework for over 200 apps and platforms.<br>
+🔗<b>Variety:</b> A lightweight wallpaper changer for Linux with support for effects, quotes, and online sources.<br>
 
+<a href="https://bbs.archlinux.org/viewtopic.php?id=259604" target="_blank">
+  <img src="https://img.shields.io/badge/Arch_Wallpapers-Forum_Thread-4D5054?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch Linux Wallpapers Forum Thread"></a>
 
+<a href="https://www.nordtheme.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Nord_Theme-Website-4D5054?style=for-the-badge&logo=snowflake&logoColor=white" alt="Nord Theme Website"></a>
+
+<a href="https://github.com/catppuccin" target="_blank">
+  <img src="https://img.shields.io/badge/Catppuccin-GitHub-4D5054?style=for-the-badge&logo=github&logoColor=white" alt="Catppuccin GitHub Repository"></a>
+
+<a href="https://github.com/varietywalls/variety" target="_blank">
+  <img src="https://img.shields.io/badge/Variety-GitHub-4D5054?style=for-the-badge&logo=github&logoColor=white" alt="Variety GitHub Repository"></a>
+
+  
 
 
   
@@ -261,6 +292,23 @@
   <img src="https://img.shields.io/badge/Ulauncher-website-4D5054?style=for-the-badge&logo=launchpad&logoColor=white" alt="Ulauncher Website"></a>
 
 <h3>✮ Wallpapers & fonts themes</h3>
+
+🔗<b>EOS Wallpapers:</b> Community thread featuring custom EndeavourOS-themed wallpapers.<br>
+🔗<b>Nord Theme:</b> An arctic, north-bluish color palette for modern UI design and theming.<br>
+🔗<b>Catppuccin:</b> Soothing pastel-themed color schemes for various apps and tools.<br>
+🔗<b>Hyprpaper:</b> Lightweight wallpaper daemon for Hyprland with Wayland support.<br>
+
+<a href="https://forum.endeavouros.com/t/unclespellbinders-eos-wallpapers/55056/14" target="_blank">
+  <img src="https://img.shields.io/badge/EOS_Wallpapers-Forum_Thread-4D5054?style=for-the-badge&logo=endeavouros&logoColor=white" alt="EndeavourOS Wallpapers Forum Thread"></a>
+
+<a href="https://www.nordtheme.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Nord_Theme-Website-4D5054?style=for-the-badge&logo=snowflake&logoColor=white" alt="Nord Theme Website"></a>
+
+<a href="https://github.com/catppuccin" target="_blank">
+  <img src="https://img.shields.io/badge/Catppuccin-GitHub-4D5054?style=for-the-badge&logo=github&logoColor=white" alt="Catppuccin GitHub Repository"></a>
+
+  <a href="https://github.com/hyprwm/hyprpaper" target="_blank">
+  <img src="https://img.shields.io/badge/Hyprpaper-GitHub-4D5054?style=for-the-badge&logo=github&logoColor=white" alt="Hyprpaper GitHub Repository"></a>
 
 
 
