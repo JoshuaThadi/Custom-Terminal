@@ -14,23 +14,17 @@ This guide helps you install and configure the GNOME desktop environment on Kali
 
 Update your system
 
-bash
-Copy
-Edit
+
 sudo apt update && sudo apt full-upgrade -y
 📦 Install GNOME Desktop Environment
 
 Install GNOME Full (Default + Extra Tools)
 
-bash
-Copy
-Edit
+
 sudo apt install -y kali-desktop-gnome gnome-core gnome-tweaks gnome-shell-extensions gnome-software gnome-backgrounds
 Optional: Install LightDM instead of GDM
 
-bash
-Copy
-Edit
+
 sudo apt install lightdm lightdm-gtk-greeter
 When prompted, select lightdm as the default display manager.
 
@@ -38,9 +32,6 @@ When prompted, select lightdm as the default display manager.
 
 Install useful tweaks and customization tools
 
-bash
-Copy
-Edit
 sudo apt install -y \
   gnome-tweaks \
   dconf-editor \
@@ -54,9 +45,6 @@ sudo apt install -y \
 
 Enhance GNOME appearance
 
-bash
-Copy
-Edit
 sudo apt install -y \
   papirus-icon-theme \
   fonts-firacode \
@@ -68,9 +56,7 @@ sudo apt install -y \
 
 Add your custom wallpapers
 
-bash
-Copy
-Edit
+
 mkdir -p ~/.config/wallpapers
 cp /path/to/your/wallpaper.jpg ~/.config/wallpapers/
 gsettings set org.gnome.desktop.background picture-uri "file://$HOME/.config/wallpapers/wallpaper.jpg"
@@ -80,16 +66,10 @@ Save and load GNOME settings (backup/restore)
 
 Backup current config:
 
-bash
-Copy
-Edit
 mkdir -p ~/.config/dconf
 dconf dump / > ~/.config/dconf/gnome-settings-backup.ini
 Restore config later:
 
-bash
-Copy
-Edit
 dconf load / < ~/.config/dconf/gnome-settings-backup.ini
 🚀 Autostart Custom Apps or Scripts
 
@@ -97,24 +77,18 @@ Create an autostart script
 
 Create ~/.config/scripts/autostart.sh:
 
-bash
-Copy
-Edit
+
 #!/bin/bash
 # Start apps or scripts at GNOME login
 nitrogen --restore &
 nm-applet &
 Make it executable:
 
-bash
-Copy
-Edit
+
 chmod +x ~/.config/scripts/autostart.sh
 Then create a .desktop entry in autostart:
 
-bash
-Copy
-Edit
+
 mkdir -p ~/.config/autostart
 cat <<EOF > ~/.config/autostart/autostart-script.desktop
 [Desktop Entry]
@@ -147,9 +121,7 @@ Install via Extension Manager or https://extensions.gnome.org
 
 Use GNOME’s built-in screenshot utility or install Flameshot:
 
-bash
-Copy
-Edit
+
 sudo apt install flameshot
 Bind to Print key:
 
