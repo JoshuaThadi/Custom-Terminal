@@ -272,7 +272,7 @@
 
 
 
-<img width="100%" src="https://miro.medium.com/v2/resize%3Afit%3A1200/0%2AWPaeR7vfES5xfS6v.jpg" alt="Screenshot 35">
+<img width="100%" src="https://raw.githubusercontent.com/archcraft-os/misc-files/main/screenshots/dwm/main.png" alt="Screenshot 35">
 
 
 
@@ -407,7 +407,7 @@
 
 
 
-<img width="100%" src="https://raw.githubusercontent.com/archcraft-os/misc-files/main/screenshots/hyprland/style_1/main.png" alt="Screenshot 35">
+<img width="100%" src="https://raw.githubusercontent.com/archcraft-os/misc-files/main/screenshots/2bwm/main.png" alt="Screenshot 35">
 
 
 
@@ -582,7 +582,7 @@ Windows ricing refers to customizing the appearance and functionality of the Win
 
 <img width="100%" src="https://github.com/JoshuaThadi/Operating-System-Environment/blob/main/Desk%26Mob/Screenshot%20(35).png?raw=true" alt="Screenshot 35">
 <img width="100%" src="https://github.com/JoshuaThadi/Operating-System-Environment/blob/main/Desk%26Mob/Screenshot%20(33).png?raw=true" alt="Screenshot 33">
-<img width="100%" src="https://preview.redd.it/win11-ricing-attempt-v0-5efenhzp64jd1.png?width=1080&crop=smart&auto=webp&s=962ea0ffb2b7cf7f6a0c73e192b2527a3ceae4a9" alt="Screenshot 33">
+<img width="100%" src="https://preview.redd.it/windows-11-v0-tq7ruf52ymue1.png?width=1080&crop=smart&auto=webp&s=c15edcf187b84098bedc59cabce521bbafbacb16" alt="Screenshot 33">
 
 
 
@@ -763,7 +763,7 @@ On macOS, while customization is more limited due to Apple’s system restrictio
 
 
 
-<img width="100%" src="https://leading-bell-3e1c02e64d.media.strapiapp.com/open_graph_1218_12e0c3f475.png" alt="macosimg">
+<img width="100%" src="https://preview.redd.it/mac-terminal-zen-wip-v0-v49czuxkc6ib1.jpg?auto=webp&s=eda87a58513408adc4c9e52a742fa117dd1d728a" alt="macosimg">
 <img width="100%" src="https://github.com/JoshuaThadi/Operating-System-Environment/blob/main/Desk%26Mob/Screenshot%202025-05-14%20210724.png" alt="macosimg">
 <img width="100%" src="https://preview.redd.it/amethyst-my-first-attempt-at-ricing-macos-v0-vb9bzjzmt3vd1.png?width=1080&crop=smart&auto=webp&s=402f8b40dd0683a2b2105bdde054a99608a8a0ad" alt="macosimg">
 
