@@ -18,11 +18,10 @@
 
 <a href="https://www.virtualbox.org/wiki/Downloads" target="_blank">
   <img src="https://img.shields.io/badge/VirtualBox-Download-4D5054?style=for-the-badge&logo=virtualbox&logoColor=white" alt="VirtualBox: Download Page"></a>
-<a href="https://soft-saturn-e55.notion.site/Custom-Terminal-18846efbf3d58056907aecad3615d199" target="_blank">
-  <img src="https://img.shields.io/badge/Notion-Instruction-4C4F56?style=for-the-badge&logo=notion&logoColor=white&labelColor=%234C4F56&color=%23000000" alt="Notion Custom Terminal Badge"></a>
   <a href="https://rufus.ie/en/" target="_blank">
   <img src="https://img.shields.io/badge/Rufus-Download-4D5054?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Rufus: Download Bootable USB Tool"></a></br>
-
+<a href="https://soft-saturn-e55.notion.site/Custom-Terminal-18846efbf3d58056907aecad3615d199" target="_blank">
+  <img src="https://img.shields.io/badge/terminal-guide-4C4F56?style=for-the-badge&logo=notion&logoColor=white&labelColor=%234C4F56&color=%23000000" alt="Notion Custom Terminal Badge"></a>
 
 
 
@@ -448,7 +447,7 @@
   <a href="https://youtu.be/Ojb8OQCBqFs" target="_blank">
   <img src="https://img.shields.io/badge/YouTube-Setup%20Demo-4D5054?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Setup Demo"></a>
 <a href="https://soft-saturn-e55.notion.site/Custom-Terminal-18846efbf3d58056907aecad3615d199" target="_blank">
-  <img src="https://img.shields.io/badge/Notion_Instruction-4C4F56?style=for-the-badge&logo=notion&logoColor=white&labelColor=%234C4F56&color=%23000000" alt="Notion Custom Terminal Badge"></a>
+  <img src="https://img.shields.io/badge/terminal-guide-4C4F56?style=for-the-badge&logo=notion&logoColor=white&labelColor=%234C4F56&color=%23000000" alt="Notion Custom Terminal Badge"></a>
   
 </div>
 
@@ -603,7 +602,7 @@ Windows ricing refers to customizing the appearance and functionality of the Win
   <a href="https://www.icloud.com/iclouddrive" target="_blank">
   <img src="https://img.shields.io/badge/MacOs-iCloud_Drive-4D5054?style=for-the-badge&logo=icloud&logoColor=white" alt="iCloud Drive Official Site"></a>
 <a href="https://soft-saturn-e55.notion.site/Custom-Terminal-18846efbf3d58056907aecad3615d199" target="_blank">
-  <img src="https://img.shields.io/badge/Notion_Instruction-4C4F56?style=for-the-badge&logo=notion&logoColor=white&labelColor=%234C4F56&color=%23000000" alt="Notion Custom Terminal Badge"></a>
+  <img src="https://img.shields.io/badge/terminal-guide-4C4F56?style=for-the-badge&logo=notion&logoColor=white&labelColor=%234C4F56&color=%23000000" alt="Notion Custom Terminal Badge"></a>
 </div>
 
 <h4>The macOS Professional Setup focuses on optimizing the macOS experience for productivity, aesthetics, and streamlined workflows. Leveraging native tools and minimal third-party enhancements, this setup is ideal for users who value a clean, distraction-free environment tailored for creative and professional use.</h4>
