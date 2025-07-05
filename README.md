@@ -590,7 +590,7 @@ Windows ricing refers to customizing the appearance and functionality of the Win
 ---
 
 <div align="center">
-  <img width="190px" src="https://static-00.iconduck.com/assets.00/macos-icon-2048x2048-uavbc6sb.png" alt="MacOS">
+  <img width="190px" src="https://icons.veryicon.com/png/o/miscellaneous/apple-series/macos-2.png" alt="MacOS">
 </div>
 
 <h1 align="center">🍎 MacOS Professional Setup</h1>
