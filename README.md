@@ -276,7 +276,7 @@
 
 
 
-<h2><img width="20px" src="https://static-00.iconduck.com/assets.00/distributor-logo-endeavouros-icon-2048x1707-6lrk99z2.png"> EndeavourOS Personalization</h2>
+<h2><img width="20px" src="https://i.postimg.cc/nrTcB0bG/Pics-Art-01-28-03-45-28.png"> EndeavourOS Personalization</h2>
 
 <div align="left">
 
