@@ -47,7 +47,7 @@
 
 
 
-<h2><img width="20px" src="https://static-00.iconduck.com/assets.00/distributor-logo-kali-linux-icon-2048x2005-dki611fk.png"> Kali Personalization</h2>
+<h2><img width="20px" src="https://img.icons8.com/plasticine/512/kali-linux.png"> Kali Personalization</h2>
 
 <div align="left">
   
